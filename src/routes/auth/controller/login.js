@@ -1,24 +1,57 @@
-const login = ({ body }, res, next) => {
+const User = require("../../../models/User");
+const brcrypt = require("bcrypt");
+const jwt = require("jsonwebtoken");
+const _ = require("lodash");
+
+const jwtSecret = process.env.JWT_SECRET;
+
+const login = async ({ body }, res, next) => {
   try {
     const { email, password } = body;
 
-    if (email !== "louisrogerguirika@gmail.com") {
+    const user = await User.findOne({
+      email,
+    });
+
+    if (!user)
       return res.status(400).json({
         error: true,
-        message: "Utilisateur inconnu",
+        message: "L'adresse email saisie n'est pas enregistrée",
+      });
+
+    const isPasswordValid = await brcrypt.compare(password, user.password);
+
+    if (!isPasswordValid) {
+      return res.status(400).json({
+        error: true,
+        message: "Le mot de passe est incorrecte",
       });
     }
 
-    if (password !== "12345678") {
-      return res
-        .status(400)
-        .json({ error: true, message: "Mot de passe incorrecte" });
-    }
+    // si l'email et le mot de passe correspondent
+
+    const token = jwt.sign(
+      {
+        userId: user._id,
+      },
+      jwtSecret
+    );
+
+    // retourner les details de l'utilisateur puis son token
 
     return res.status(200).json({
       success: true,
       message: "Connexion établie",
-      token: Date.now(),
+      id: user._id,
+      firstName: user.firstName,
+      lastName: user.lastName,
+      phoneNumber: user.phone,
+      orderNumber: user.orderNumber,
+      city: user.city,
+      speciality: user.speciality,
+      medicalCenter: user.hospital,
+      email: user.email,
+      token,
     });
   } catch (error) {
     console.log(error);
