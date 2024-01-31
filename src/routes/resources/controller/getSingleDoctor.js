@@ -4,7 +4,7 @@ const getSingleDoctorDetails = (req, res, next) => {
 
     if (id !== "1") {
       return res.status(400).json({
-        error: true,
+        success: false,
         message: "Docteur introuvable",
       });
     }

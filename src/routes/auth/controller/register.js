@@ -24,7 +24,7 @@ const register = async ({ body }, res, next) => {
 
     if (userExists) {
       return res.status(400).json({
-        error: true,
+        success: false,
         message:
           "L'adresse email que vous avez renseigné existe déjà , essayez de vous connecter",
       });

@@ -23,12 +23,11 @@ const ArticleSchema = new Schema(
     isActive: {
       type: Boolean,
       required: true,
-      default: true,
+      default: false,
     },
     author: {
       type: Schema.Types.ObjectId,
       ref: "User",
-
       required: true,
     },
   },

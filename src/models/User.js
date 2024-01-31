@@ -12,6 +12,11 @@ const UserSchema = new Schema(
       type: String,
       required: true,
     },
+    about: {
+      type: String,
+      required: true,
+      default: null,
+    },
     type: {
       type: String,
       default: null,
@@ -59,6 +64,14 @@ const UserSchema = new Schema(
     orderNumber: {
       type: String,
       required: true,
+    },
+    skills: {
+      type: Array,
+      default: [],
+    },
+    experiences: {
+      type: Array,
+      default: [],
     },
   },
   {
