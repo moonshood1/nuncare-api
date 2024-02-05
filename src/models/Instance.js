@@ -2,7 +2,12 @@ const mongoose = require("mongoose");
 
 const Schema = mongoose.Schema;
 
-const PharmacySchema = new Schema(
+const INSTANCE_TYPE = {
+  HOSPITAL: "hospital",
+  PHARMACY: "pharmacy",
+};
+
+const InstanceSchema = new Schema(
   {
     name: {
       type: String,
@@ -10,6 +15,12 @@ const PharmacySchema = new Schema(
     },
     city: {
       type: String,
+      required: true,
+    },
+    type: {
+      type: String,
+      enum: [INSTANCE_TYPE.HOSPITAL, INSTANCE_TYPE.PHARMACY],
+      defaukt: null,
       required: true,
     },
     district: {
@@ -40,4 +51,4 @@ const PharmacySchema = new Schema(
   }
 );
 
-module.exports = mongoose.model("Pharmacy", PharmacySchema);
+module.exports = mongoose.model("Instance", InstanceSchema);

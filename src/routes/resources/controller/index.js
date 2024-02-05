@@ -1,13 +1,9 @@
 const { getAds } = require("./getAds");
-const { getDoctors } = require("./getDoctors");
-const { getMedecine } = require("./getMedecine");
-const { getPharmacy } = require("./getPharmacy");
-const { getSingleDoctorDetails } = require("./getSingleDoctor");
+const { getArticles } = require("./getArticles");
+const { getMedecines } = require("./getMedecines");
 
 module.exports = {
-  getSingleDoctorDetails,
-  getPharmacy,
-  getMedecine,
-  getDoctors,
+  getMedecines,
   getAds,
+  getArticles,
 };
