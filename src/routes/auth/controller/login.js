@@ -1,5 +1,5 @@
 const User = require("../../../models/User");
-const brcrypt = require("bcrypt");
+const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
 const _ = require("lodash");
 
@@ -19,7 +19,7 @@ const login = async ({ body }, res, next) => {
         message: "L'adresse email saisie n'est pas enregistrée",
       });
 
-    const isPasswordValid = await brcrypt.compare(password, user.password);
+    const isPasswordValid = await bcrypt.compare(password, user.password);
 
     if (!isPasswordValid) {
       return res.status(400).json({

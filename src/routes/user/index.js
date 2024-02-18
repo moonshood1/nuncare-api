@@ -5,15 +5,29 @@ const {
   addExperience,
   addSkill,
   addAbout,
+  readNotification,
+  updateProfile,
+  deleteExperience,
+  updateExperience,
+  updateSkill,
+  deleteSkill,
+  updateAbout,
+  deleteAbout,
+  updatePassword,
+  updateProfileImage,
 } = require("./controller");
 const { userToken } = require("../../services/auth");
 
 const router = express.Router();
 
 router.get("/", userToken, getData);
+router.put("/", userToken, updateProfile)
 router.post("/article", userToken, addArticle);
-router.post("/experience", userToken, addExperience);
-router.post("/skill", userToken, addSkill);
-router.post("/about", userToken, addAbout);
+router.use("/experience", userToken).route("/experience").post(addExperience).delete(deleteExperience).put(updateExperience);
+router.use("/skill", userToken).route("/skill").post(addSkill).put(updateSkill).delete(deleteSkill);
+router.use("/about", userToken).route("/about").post(addAbout).put(updateAbout).delete(deleteAbout);
+router.post('/notification/:id', userToken, readNotification)
+router.put('/password', userToken, updatePassword)
+router.put('/profile-image', userToken, updateProfileImage)
 
 module.exports = router;
