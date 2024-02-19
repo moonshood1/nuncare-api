@@ -25,11 +25,18 @@ const ArticleSchema = new Schema(
       required: true,
       default: false,
     },
+    theme: {
+      type: String,
+    },
     author: {
       type: Schema.Types.ObjectId,
       ref: "User",
       required: true,
     },
+    authorName: {
+      type: String,
+      required: true,
+    }
   },
   {
     timestamps: true,

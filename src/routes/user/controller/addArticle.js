@@ -16,8 +16,10 @@ const addArticle = async ({ user, body }, res, next) => {
       title: body.title,
       description: body.description,
       content: body.content,
-      img: "https://placehold.co/600x400",
+      img: body.img,
       author: user._id,
+      authorName: user.firstName + '' + user.lastName,
+      theme: body.theme,
     });
 
     return res.status(200).json({

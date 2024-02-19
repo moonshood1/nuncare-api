@@ -6,10 +6,11 @@ const {
   getDoctors,
   searchDoctors,
 } = require("./controller");
+const { userToken } = require("../../services/auth");
 
 const router = express.Router();
 
-router.get("/doctors", getDoctors);
+router.get("/doctors", userToken, getDoctors);
 router.post("/search-doctor", searchDoctors)
 router.get("/instance", getInstances);
 router.post("/search-instance", searchInstances);

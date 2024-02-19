@@ -1,5 +1,6 @@
 const User = require("../../../models/User");
 const Article = require("../../../models/Article");
+const _ = require('lodash')
 
 const getData = async ({ user }, res, next) => {
   try {
@@ -12,27 +13,29 @@ const getData = async ({ user }, res, next) => {
       isActive: true,
     });
 
-    const articlesWithAuthorNames = await Promise.all(
-      articles.map(async (article) => {
-        const author = await User.findOne({
-          _id: article.author,
-        });
+    _.assign(u.articles, articles)
 
-        const articleWithAuthorName = {
-          ...article._doc,
-          author: author
-            ? `Dr ${author.firstName} ${author.lastName}`
-            : "Inconnu",
-        };
+    // const articlesWithAuthorNames = await Promise.all(
+    //   articles.map(async (article) => {
+    //     const author = await User.findOne({
+    //       _id: article.author,
+    //     });
 
-        return articleWithAuthorName;
-      })
-    );
+    //     const articleWithAuthorName = {
+    //       ...article._doc,
+    //       author: author
+    //         ? `Dr ${author.firstName} ${author.lastName}`
+    //         : "Inconnu",
+    //     };
+
+    //     return articleWithAuthorName;
+    //   })
+    // );
 
     return res.status(200).json({
       success: true,
       user: u,
-      articles: articlesWithAuthorNames,
+      // articles: articlesWithAuthorNames,
     });
   } catch (error) {
     console.log(error);

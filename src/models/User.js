@@ -14,7 +14,6 @@ const UserSchema = new Schema(
     },
     about: {
       type: String,
-      required: true,
       default: null,
     },
     type: {
@@ -70,6 +69,10 @@ const UserSchema = new Schema(
       default: [],
     },
     experiences: {
+      type: Array,
+      default: [],
+    },
+    articles: {
       type: Array,
       default: [],
     },
