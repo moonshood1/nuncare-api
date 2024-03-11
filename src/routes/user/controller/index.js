@@ -13,6 +13,8 @@ const { updateAbout } = require("./updateAbout");
 const { deleteAbout } = require("./deleteAbout");
 const { updatePassword } = require("./updatePassword");
 const { updateProfileImage } = require("./updateProfileImage");
+const { upateCoverImage } = require("./updateCoverImage");
+
 
 module.exports = {
   getData,
@@ -29,5 +31,6 @@ module.exports = {
   readNotification,
   updateProfile,
   updatePassword,
-  updateProfileImage
+  updateProfileImage,
+  upateCoverImage
 };

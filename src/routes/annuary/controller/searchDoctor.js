@@ -1,13 +1,11 @@
 const User = require("../../../models/User");
 
-const searchDoctors = async ({ body }, res, next) => {
+const searchDoctors = async ({ body, user }, res, next) => {
   try {
     const searchText = body.searchText;
 
-
-    console.log({ searchText })
-
     const doctors = await User.find({
+      _id: { $ne: user._id },
       $or: [
         {
           firstName: { $regex: new RegExp(searchText, "i") },

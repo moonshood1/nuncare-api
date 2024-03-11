@@ -15,6 +15,7 @@ const {
   deleteAbout,
   updatePassword,
   updateProfileImage,
+  upateCoverImage,
 } = require("./controller");
 const { userToken } = require("../../services/auth");
 
@@ -29,5 +30,6 @@ router.use("/about", userToken).route("/about").post(addAbout).put(updateAbout).
 router.post('/notification/:id', userToken, readNotification)
 router.put('/password', userToken, updatePassword)
 router.put('/profile-image', userToken, updateProfileImage)
+router.put('/cover-image', userToken, upateCoverImage)
 
 module.exports = router;

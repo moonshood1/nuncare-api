@@ -18,6 +18,7 @@ const authRouter = require("./src/routes/auth");
 const resourceRouter = require("./src/routes/resources");
 const adminRouter = require("./src/routes/admin");
 const annuaryRouter = require("./src/routes/annuary");
+const testRouter = require("./src/routes/test");
 
 app.use(express.static("public"));
 app.use(morgan("dev"));
@@ -32,6 +33,7 @@ app.use("/auth", authRouter);
 app.use("/resources", resourceRouter);
 app.use("/admin", adminRouter);
 app.use("/annuary", annuaryRouter);
+app.use("/test", testRouter)
 
 app.listen(PORT, () => {
   console.log(`App listening on port ${PORT}`);

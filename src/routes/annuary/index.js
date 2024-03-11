@@ -11,9 +11,9 @@ const { userToken } = require("../../services/auth");
 const router = express.Router();
 
 router.get("/doctors", userToken, getDoctors);
-router.post("/search-doctor", searchDoctors)
+router.post("/search-doctor", userToken, searchDoctors)
 router.get("/instance", getInstances);
 router.post("/search-instance", searchInstances);
-router.get("/instances-position", getInstanceWithPosition);
+router.get("/instances-position", userToken, getInstanceWithPosition);
 
 module.exports = router;

@@ -40,6 +40,10 @@ const UserSchema = new Schema(
       type: String,
       default: null,
     },
+    cover: {
+      type: String,
+      default: null,
+    },
     phone: {
       type: String,
       required: true,

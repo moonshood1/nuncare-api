@@ -46,6 +46,8 @@ const register = async ({ body }, res, next) => {
       orderNumber,
       city,
       region,
+      cover: 'https://res.cloudinary.com/dhc0siki5/image/upload/v1710070252/nuncare/placeholder_snnviz.png',
+      img: 'https://res.cloudinary.com/dhc0siki5/image/upload/v1710070251/nuncare/person_i8vdce.jpg'
     });
 
     return res.status(200).json({
