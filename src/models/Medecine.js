@@ -4,7 +4,19 @@ const Schema = mongoose.Schema;
 
 const MedecineSchema = new Schema(
   {
+    code: {
+      type: String,
+      required: true,
+    },
     name: {
+      type: String,
+      required: true,
+    },
+    group: {
+      type: String,
+      required: true,
+    },
+    dci: {
       type: String,
       required: true,
     },
@@ -12,12 +24,16 @@ const MedecineSchema = new Schema(
       type: String,
       required: true,
     },
-    img: {
+    regime: {
       type: String,
       required: true,
     },
-    price: {
+    img: {
       type: String,
+      default: null,
+    },
+    price: {
+      type: Number,
       required: true,
     }
   },

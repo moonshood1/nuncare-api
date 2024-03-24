@@ -47,7 +47,10 @@ const register = async ({ body }, res, next) => {
       city,
       region,
       cover: 'https://res.cloudinary.com/dhc0siki5/image/upload/v1710070252/nuncare/placeholder_snnviz.png',
-      img: 'https://res.cloudinary.com/dhc0siki5/image/upload/v1710070251/nuncare/person_i8vdce.jpg'
+      img: 'https://res.cloudinary.com/dhc0siki5/image/upload/v1710070251/nuncare/person_i8vdce.jpg',
+      lng: 0,
+      lat: 0,
+      address: ''
     });
 
     return res.status(200).json({

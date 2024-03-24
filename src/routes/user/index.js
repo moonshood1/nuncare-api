@@ -16,6 +16,7 @@ const {
   updatePassword,
   updateProfileImage,
   upateCoverImage,
+  addLocation,
 } = require("./controller");
 const { userToken } = require("../../services/auth");
 
@@ -31,5 +32,6 @@ router.post('/notification/:id', userToken, readNotification)
 router.put('/password', userToken, updatePassword)
 router.put('/profile-image', userToken, updateProfileImage)
 router.put('/cover-image', userToken, upateCoverImage)
+router.post('/location', userToken, addLocation)
 
 module.exports = router;

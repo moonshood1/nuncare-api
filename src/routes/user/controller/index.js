@@ -14,6 +14,8 @@ const { deleteAbout } = require("./deleteAbout");
 const { updatePassword } = require("./updatePassword");
 const { updateProfileImage } = require("./updateProfileImage");
 const { upateCoverImage } = require("./updateCoverImage");
+const { addLocation } = require("./addLocation");
+
 
 
 module.exports = {
@@ -32,5 +34,6 @@ module.exports = {
   updateProfile,
   updatePassword,
   updateProfileImage,
-  upateCoverImage
+  upateCoverImage,
+  addLocation
 };

@@ -9,6 +9,8 @@ const getMedecines = async ({ query }, res, next) => {
       .limit(size)
       .exec();
 
+    console.log('Nombre de medicaments retournés :', medecines.length)
+
     return res.status(200).json({
       success: true,
       medecines,
