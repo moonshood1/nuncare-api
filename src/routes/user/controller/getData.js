@@ -1,6 +1,6 @@
 const User = require("../../../models/User");
 const Article = require("../../../models/Article");
-const _ = require('lodash')
+const _ = require("lodash");
 
 const getData = async ({ user }, res, next) => {
   try {
@@ -13,7 +13,7 @@ const getData = async ({ user }, res, next) => {
       isActive: true,
     });
 
-    _.assign(u.articles, articles)
+    _.assign(u.articles, articles);
 
     // const articlesWithAuthorNames = await Promise.all(
     //   articles.map(async (article) => {

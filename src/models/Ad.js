@@ -19,7 +19,7 @@ const AdSchema = new Schema({
     type: String,
     required: true,
   },
-  webisteLink: {
+  websiteLink: {
     type: String,
     required: true,
   },

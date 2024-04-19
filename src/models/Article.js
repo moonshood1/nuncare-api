@@ -36,7 +36,7 @@ const ArticleSchema = new Schema(
     authorName: {
       type: String,
       required: true,
-    }
+    },
   },
   {
     timestamps: true,

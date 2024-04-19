@@ -18,7 +18,7 @@ const addArticle = async ({ user, body }, res, next) => {
       content: body.content,
       img: body.img,
       author: user._id,
-      authorName: user.firstName + '' + user.lastName,
+      authorName: user.firstName + "" + user.lastName,
       theme: body.theme,
     });
 

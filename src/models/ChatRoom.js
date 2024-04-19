@@ -2,14 +2,15 @@ const mongoose = require("mongoose");
 
 const Schema = mongoose.Schema;
 
-const UserSchema = new Schema(
+const ChatRoomSchema = new Schema(
   {
-    email: {
+    chatRoomId: {
       type: String,
       required: true,
     },
-    firebaseId: {
-      type: String,
+    userId: {
+      type: Schema.Types.ObjectId,
+      ref: "User",
       required: true,
     },
   },
@@ -18,4 +19,4 @@ const UserSchema = new Schema(
   }
 );
 
-module.exports = mongoose.model("User", UserSchema);
+module.exports = mongoose.model("ChatRoom", ChatRoomSchema);

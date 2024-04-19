@@ -1,17 +1,14 @@
-const Medoc = require('../../../models/Medecine')
+const User = require("../../../models/User");
 
 const generateData = async (req, res, next) => {
-    try {
-
-        return res.status(200).json({
-            success: true,
-        });
-    } catch (error) {
-        console.log(error);
-        next(error);
-    }
+  try {
+    return res.status(200).json({ success: true });
+  } catch (error) {
+    console.log(error);
+    next(error);
+  }
 };
 
 module.exports = {
-    generateData,
+  generateData,
 };

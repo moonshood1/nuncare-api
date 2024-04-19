@@ -1,5 +1,5 @@
 const Article = require("../../../models/Article");
-const _ = require("lodash")
+const _ = require("lodash");
 
 const getArticles = async ({ query }, res, next) => {
   try {

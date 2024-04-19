@@ -1,4 +1,5 @@
 const jwt = require("jsonwebtoken");
+const admin = require("firebase-admin");
 const User = require("../../models/User");
 const Admin = require("../../models/Admin");
 
@@ -59,7 +60,35 @@ const userToken = (req, res, next) => {
   });
 };
 
+const firebaseToken = (req, res, next) => {
+  const authHeader = req.headers["authorization"];
+  const token = authHeader && authHeader.split(" ")[1];
+
+  if (!token) {
+    console.log("Jeton Utilisateur introuvable");
+    return res
+      .status(401)
+      .json({ success: false, message: "Veuillez vous identifier" });
+  }
+
+  admin
+    .auth()
+    .verifyIdToken(token)
+    .then(async (decodedToken) => {
+      const user = await User.findOne({ firebaseId: decodedToken.uid });
+      req.user = user;
+      next();
+    })
+    .catch((error) => {
+      console.error("Erreur lors de la vérification du token Firebase:", error);
+      return res
+        .status(401)
+        .json({ success: false, message: "Veuillez vous identifier" });
+    });
+};
+
 module.exports = {
   adminToken,
   userToken,
+  firebaseToken,
 };

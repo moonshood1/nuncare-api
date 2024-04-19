@@ -15,8 +15,8 @@ const { updatePassword } = require("./updatePassword");
 const { updateProfileImage } = require("./updateProfileImage");
 const { upateCoverImage } = require("./updateCoverImage");
 const { addLocation } = require("./addLocation");
-
-
+const { registerChatRoom } = require("./registerChatRoom");
+const { getChatRoomIds } = require("./getChatRoomIds");
 
 module.exports = {
   getData,
@@ -35,5 +35,7 @@ module.exports = {
   updatePassword,
   updateProfileImage,
   upateCoverImage,
-  addLocation
+  addLocation,
+  registerChatRoom,
+  getChatRoomIds,
 };

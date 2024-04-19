@@ -1,7 +1,8 @@
 const Ad = require("../../../models/Ad");
 
-const getAds = async (req, res, next) => {
+const getAds = async ({ user }, res, next) => {
   try {
+    console.log({ user });
     const ads = await Ad.find({ isActive: true })
       .sort({ createdAt: -1 })
       .limit(3)

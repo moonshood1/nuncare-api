@@ -6,12 +6,14 @@ const bodyParser = require("body-parser");
 dotenv.config();
 
 const connectDB = require("./src/services/mongoose");
+const initializeFirebase = require("./src/services/firebase");
 
 const app = express();
 
 const PORT = process.env.PORT || 5000;
 
 connectDB();
+initializeFirebase();
 
 const userRouter = require("./src/routes/user");
 const authRouter = require("./src/routes/auth");
@@ -33,7 +35,7 @@ app.use("/auth", authRouter);
 app.use("/resources", resourceRouter);
 app.use("/admin", adminRouter);
 app.use("/annuary", annuaryRouter);
-app.use("/test", testRouter)
+app.use("/test", testRouter);
 
 app.listen(PORT, () => {
   console.log(`App listening on port ${PORT}`);

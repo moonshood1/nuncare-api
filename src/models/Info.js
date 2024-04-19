@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 const Schema = mongoose.Schema;
 
-const NotificationSchema = new Schema(
+const InfoSchema = new Schema(
   {
     title: {
       type: String,
@@ -16,10 +16,6 @@ const NotificationSchema = new Schema(
       type: String,
       required: true,
     },
-    link: {
-      type: String,
-      required: true,
-    },
     users: {
       type: Array,
       default: [],
@@ -30,4 +26,4 @@ const NotificationSchema = new Schema(
   }
 );
 
-module.exports = mongoose.model("Notification", NotificationSchema);
+module.exports = mongoose.model("Info", InfoSchema);
