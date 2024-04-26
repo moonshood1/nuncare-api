@@ -13,6 +13,10 @@ const ChatRoomSchema = new Schema(
       ref: "User",
       required: true,
     },
+    receiverId: {
+      type: String,
+      required: true,
+    },
   },
   {
     timestamps: true,
