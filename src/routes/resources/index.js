@@ -22,7 +22,6 @@ const { firebaseToken } = require("../../services/auth");
 const router = express.Router();
 
 router.get("/ads", getAds);
-router.get("/articles", getArticles);
 router.get("/notifications", firebaseToken, getNotifications);
 router.get("/infos", getInfos);
 

@@ -2,18 +2,22 @@ const dotenv = require("dotenv");
 const express = require("express");
 const morgan = require("morgan");
 const bodyParser = require("body-parser");
+const admin = require("firebase-admin");
 
 dotenv.config();
 
 const connectDB = require("./src/services/mongoose");
-const initializeFirebase = require("./src/services/firebase");
-
 const app = express();
 
 const PORT = process.env.PORT || 5000;
 
+const serviceAccount = require("./firebase-config.json");
+
+admin.initializeApp({
+  credential: admin.credential.cert(serviceAccount),
+});
+
 connectDB();
-initializeFirebase();
 
 const userRouter = require("./src/routes/user");
 const authRouter = require("./src/routes/auth");
