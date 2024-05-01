@@ -1,6 +1,6 @@
-const Notification = require("../../../models/Notification");
+const Article = require("../../../models/Article");
 
-const readNotification = async ({ body, user }, res, next) => {
+const likeArticle = async ({ body, user }, res, next) => {
   try {
     return res.status(200).json({ success: true });
   } catch (error) {
@@ -10,5 +10,5 @@ const readNotification = async ({ body, user }, res, next) => {
 };
 
 module.exports = {
-  readNotification,
+  likeArticle,
 };

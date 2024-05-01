@@ -1,16 +1,16 @@
-const Instance = require("../../../models/Instance");
+const Pharmacy = require("../../../models/Pharmacy");
 
-const searchInstances = async ({ body }, res, next) => {
+const searchPharmacies = async ({ body }, res, next) => {
   try {
     const searchText = body.searchText;
 
-    const instances = await Instance.find({
+    const pharmacies = await Pharmacy.find({
       name: { $regex: new RegExp(searchText, "i") },
     });
 
     return res.status(200).json({
       success: true,
-      instances,
+      pharmacies,
     });
   } catch (error) {
     console.log(error);
@@ -19,5 +19,5 @@ const searchInstances = async ({ body }, res, next) => {
 };
 
 module.exports = {
-  searchInstances,
+  searchPharmacies,
 };

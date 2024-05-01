@@ -2,12 +2,7 @@ const mongoose = require("mongoose");
 
 const Schema = mongoose.Schema;
 
-const INSTANCE_TYPE = {
-  HOSPITAL: "hospital",
-  PHARMACY: "pharmacy",
-};
-
-const InstanceSchema = new Schema(
+const HospitalSchema = new Schema(
   {
     name: {
       type: String,
@@ -17,26 +12,19 @@ const InstanceSchema = new Schema(
       type: String,
       required: true,
     },
-    type: {
-      type: String,
-      enum: [INSTANCE_TYPE.HOSPITAL, INSTANCE_TYPE.PHARMACY],
-      defaukt: null,
-      required: true,
-    },
     district: {
       type: String,
       required: true,
     },
-    position: {
-      lng: {
-        type: String,
-        required: true,
-      },
-      lat: {
-        type: String,
-        required: true,
-      },
+    lng: {
+      type: String,
+      required: true,
     },
+    lat: {
+      type: String,
+      required: true,
+    },
+
     phone: {
       type: String,
       required: true,
@@ -51,4 +39,4 @@ const InstanceSchema = new Schema(
   }
 );
 
-module.exports = mongoose.model("Instance", InstanceSchema);
+module.exports = mongoose.model("Hospital", HospitalSchema);
