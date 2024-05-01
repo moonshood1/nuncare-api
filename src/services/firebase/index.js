@@ -4,6 +4,8 @@ const initializeFirebase = async () => {
   try {
     const serviceAccount = require("../../../firebase-config.json");
 
+    firebaseConfig.initializeApp();
+
     firebaseConfig.initializeApp({
       credential: firebaseConfig.credential.cert(serviceAccount),
     });
