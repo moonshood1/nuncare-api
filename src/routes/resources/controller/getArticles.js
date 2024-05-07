@@ -10,6 +10,8 @@ const getArticles = async ({ query }, res, next) => {
       .limit(size)
       .exec();
 
+    console.log(articles);
+
     return res.status(200).json({
       success: true,
       articles,

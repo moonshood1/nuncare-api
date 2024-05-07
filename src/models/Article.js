@@ -41,6 +41,14 @@ const ArticleSchema = new Schema(
       type: Array,
       default: [],
     },
+    isDraft: {
+      type: Boolean,
+      default: false,
+    },
+    isPublished: {
+      type: Boolean,
+      default: true,
+    },
   },
   {
     timestamps: true,

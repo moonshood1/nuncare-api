@@ -1,36 +1,44 @@
-const admin = require("firebase-admin");
+const Doctor = require("../../../models/User");
 
-const localizeDoctors = async ({ query }, res, next) => {
+const localizeDoctors = async ({ query, user }, res, next) => {
   try {
     const radius = 10;
 
-    const db = admin.firestore();
-    const doctorRef = db.collection("Users");
-
-    const convertedLng = parseFloat(query.lng);
-    const convertedLat = parseFloat(query.lat);
-
-    const lngLimit = radius / 111.32;
-    const latLimit =
-      radius / (111.32 * Math.cos((convertedLat * Math.PI) / 180));
-
-    const doctorsQuery = doctorRef
-      .where("lng", ">=", convertedLng - lngLimit)
-      .where("lng", "<=", convertedLng + lngLimit)
-      .where("lat", ">=", convertedLat - latLimit)
-      .where("lat", "<=", convertedLat + latLimit);
-
-    const snapshot = await doctorsQuery.get();
-
-    const doctors = [];
-    snapshot.forEach((doc) => {
-      doctors.push(doc.data());
+    console.log({
+      lng: query.lng,
+      lat: query.lat,
     });
 
-    if (doctors.length === 0) {
-      const allDoctorsSnapshot = await doctorRef.get();
-      allDoctorsSnapshot.forEach((doc) => {
-        doctors.push(doc.data());
+    let convertedLng = parseFloat(query.lng);
+    let convertedLat = parseFloat(query.lat);
+
+    let doctors = await Doctor.find({
+      _id: { $ne: user._id },
+      lng: { $ne: null, $exists: true },
+      lat: { $ne: null, $exists: true },
+      $and: [
+        { lng: { $lte: convertedLng + radius / 111.32 } },
+        { lng: { $gte: convertedLng - radius / 111.32 } },
+        {
+          lat: {
+            $lte:
+              convertedLat +
+              radius / (111.32 * Math.cos((convertedLat * Math.PI) / 180)),
+          },
+        },
+        {
+          lat: {
+            $gte:
+              convertedLat -
+              radius / (111.32 * Math.cos((convertedLat * Math.PI) / 180)),
+          },
+        },
+      ],
+    }).sort({ createdAt: -1 });
+
+    if (_.isEmpty(doctors)) {
+      doctors = await Doctor.find({ _id: { $ne: user._id } }).sort({
+        createdAt: -1,
       });
     }
 
@@ -39,7 +47,7 @@ const localizeDoctors = async ({ query }, res, next) => {
       doctors,
     });
   } catch (error) {
-    console.error("Error fetching Doctors around:", error);
+    console.log(error);
     next(error);
   }
 };
