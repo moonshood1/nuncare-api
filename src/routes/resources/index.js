@@ -16,6 +16,7 @@ const {
   localizePharmacies,
   searchMedecines,
   searchArticles,
+  getDoctorsWithCustomSearch,
 } = require("./controller");
 const { firebaseToken } = require("../../services/auth");
 
@@ -28,6 +29,7 @@ router.get("/infos", getInfos);
 router.get("/doctors", firebaseToken, getDoctors);
 router.post("/doctors-search", firebaseToken, searchDoctors);
 router.get("/doctors-localize", firebaseToken, localizeDoctors);
+router.get("/doctors-custom-search", firebaseToken, getDoctorsWithCustomSearch);
 
 router.get("/hospitals", getHospitals);
 router.post("/hospitals-search", searchHospitals);

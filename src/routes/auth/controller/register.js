@@ -47,6 +47,7 @@ const register = async ({ body }, res, next) => {
       phone: "",
       years: 0,
       deviceId: "",
+      promotion: "",
     });
 
     return res.status(200).json({

@@ -20,6 +20,14 @@ const UserSchema = new Schema(
       type: String,
       required: true,
     },
+    region: {
+      type: String,
+      default: "",
+    },
+    city: {
+      type: String,
+      default: "",
+    },
     city: {
       type: String,
       default: "",
@@ -73,6 +81,10 @@ const UserSchema = new Schema(
       default: "",
     },
     deviceId: {
+      type: String,
+      default: "",
+    },
+    promotion: {
       type: String,
       default: "",
     },

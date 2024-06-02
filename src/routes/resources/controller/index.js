@@ -14,6 +14,7 @@ const { localizeHospitals } = require("./localizeHospitals");
 const { getPharmacies } = require("./getPharmacies");
 const { searchPharmacies } = require("./searchPharmacies");
 const { localizePharmacies } = require("./localizePharmacies");
+const { getDoctorsWithCustomSearch } = require("./getDoctorsWithCustomSearch");
 
 module.exports = {
   getAds,
@@ -32,4 +33,5 @@ module.exports = {
   getPharmacies,
   searchPharmacies,
   localizePharmacies,
+  getDoctorsWithCustomSearch,
 };

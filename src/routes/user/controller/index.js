@@ -1,6 +1,8 @@
+const { createArticle } = require("./createArticle");
 const { getChatRooms } = require("./getChatRooms");
 const { getInformations } = require("./getInformations");
-const { likeArticle } = require("./likeArticle");
+const { getUserArticles } = require("./getUserArticles");
+const { interractWithArticle } = require("./interractWithArticle");
 const { readNotification } = require("./readNotification");
 const { registerChatRoom } = require("./registerChatRoom");
 const { updateUserInformations } = require("./updateUserInformations");
@@ -8,8 +10,10 @@ const { updateUserInformations } = require("./updateUserInformations");
 module.exports = {
   getChatRooms,
   registerChatRoom,
-  likeArticle,
+  interractWithArticle,
   readNotification,
   getInformations,
   updateUserInformations,
+  getUserArticles,
+  createArticle,
 };
