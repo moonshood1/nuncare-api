@@ -5,6 +5,7 @@ const { getUserArticles } = require("./getUserArticles");
 const { interractWithArticle } = require("./interractWithArticle");
 const { readNotification } = require("./readNotification");
 const { registerChatRoom } = require("./registerChatRoom");
+const { updateAllUserInformations } = require("./updateAllUserInformations");
 const { updateUserInformations } = require("./updateUserInformations");
 
 module.exports = {
@@ -16,4 +17,5 @@ module.exports = {
   updateUserInformations,
   getUserArticles,
   createArticle,
+  updateAllUserInformations,
 };
