@@ -15,7 +15,7 @@ const updateAllUserInformations = async ({ body, user }, res, next) => {
 
     return res.status(200).json({
       success: true,
-      message: "Les modifications ont été prises en compte",
+      message: "Les modifications ont bien été prises en compte",
     });
   } catch (error) {
     console.log(error);
