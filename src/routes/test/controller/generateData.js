@@ -6,7 +6,8 @@ const generateData = async (req, res, next) => {
       {},
       {
         $set: {
-          region: "",
+          speciality: "Inconnue",
+          region: "Inconnue",
         },
       }
     );

@@ -48,6 +48,7 @@ const register = async ({ body }, res, next) => {
       years: 0,
       deviceId: "",
       promotion: "",
+      region: "Abidjan",
     });
 
     return res.status(200).json({
