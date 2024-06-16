@@ -5,6 +5,14 @@ const Admin = require("../../models/Admin");
 
 const jwtSecret = process.env.JWT_SECRET;
 
+const generateToken = (user) => {
+  return jwt.sign(
+    { id: user._id, email: user.email },
+    jwtSecret
+    // { expiresIn: "1h" }
+  );
+};
+
 const adminToken = (req, res, next) => {
   const authHeader = req.headers.authorization;
 
@@ -28,34 +36,6 @@ const adminToken = (req, res, next) => {
     }
     const admin = await Admin.findOne({ _id: a.id });
     req.user = admin;
-    next();
-  });
-};
-
-const userToken = (req, res, next) => {
-  const authHeader = req.headers["authorization"];
-  const jeton = authHeader && authHeader.split(" ")[1];
-
-  if (jeton === null) {
-    console.log("Jeton Utilisateur introuvable");
-    return res
-      .status(401)
-      .json({ success: false, message: "Veuillez vous identifier" })
-      .end();
-  }
-
-  jwt.verify(jeton, jwtSecret, async (err, a) => {
-    if (err) {
-      console.log("Jeton utilisateur invalide ");
-
-      return res
-        .status(401)
-        .json({ success: false, message: "Veuillez vous identifier" })
-        .end();
-    }
-
-    const user = await User.findOne({ _id: a.id });
-    req.user = user;
     next();
   });
 };
@@ -89,6 +69,6 @@ const firebaseToken = (req, res, next) => {
 
 module.exports = {
   adminToken,
-  userToken,
   firebaseToken,
+  generateToken,
 };

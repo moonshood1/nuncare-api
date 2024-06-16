@@ -1,6 +1,7 @@
 const dotenv = require("dotenv");
 const express = require("express");
 const morgan = require("morgan");
+const cors = require("cors");
 const bodyParser = require("body-parser");
 const admin = require("firebase-admin");
 
@@ -25,6 +26,7 @@ const resourceRouter = require("./src/routes/resources");
 const adminRouter = require("./src/routes/admin");
 const testRouter = require("./src/routes/test");
 
+app.use(cors());
 app.use(express.static("public"));
 app.use(morgan("dev"));
 app.use(express.urlencoded({ extended: true }));

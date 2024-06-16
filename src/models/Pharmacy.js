@@ -8,23 +8,24 @@ const PharmacySchema = new Schema(
       type: String,
       required: true,
     },
-    city: {
-      type: String,
+    region: {
+      type: Schema.Types.ObjectId,
+      ref: "Region",
       required: true,
     },
-    district: {
-      type: String,
+    city: {
+      type: Schema.Types.ObjectId,
+      ref: "City",
       required: true,
     },
     lng: {
       type: String,
-      required: true,
+      default: 0,
     },
     lat: {
       type: String,
-      required: true,
+      default: 0,
     },
-
     phone: {
       type: String,
       required: true,

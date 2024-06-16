@@ -1,30 +1,30 @@
-const Pharmacy = require("../../../models/Pharmacy");
+const Hospital = require("../../../models/Hospital");
 const _ = require("lodash");
 
-const addPharmacy = async (req, res, next) => {
+const addHospital = async ({ user, body }, res, next) => {
   try {
     if (_.isEmpty(body.name)) {
       return res.status(400).json({
         success: false,
-        message: "Le nom de la pharmacie est requis",
+        message: "Le nom de l'hopital est requis",
       });
     }
 
-    const pharmacy = await Pharmacy.findOne({
+    const hospital = await Hospital.findOne({
       name: body.name,
       city: body.city,
     });
 
-    if (pharmacy) {
+    if (hospital) {
       return res.status(400).json({
         success: false,
-        message: "Cet hopital existe deja dans la base, veuillez la modifier",
+        message: "Cet hopital existe déjà dans la base, veuillez la modifier",
       });
     }
 
     const { name, region, city, phone, img } = body;
 
-    await Pharmacy.create({
+    await Hospital.create({
       name,
       city,
       region,
@@ -34,6 +34,7 @@ const addPharmacy = async (req, res, next) => {
 
     return res.status(200).json({
       success: true,
+      message: "L'hopital a bien été ajouté.",
     });
   } catch (error) {
     console.log(error);
@@ -41,4 +42,4 @@ const addPharmacy = async (req, res, next) => {
   }
 };
 
-module.exports = { addPharmacy };
+module.exports = { addHospital };

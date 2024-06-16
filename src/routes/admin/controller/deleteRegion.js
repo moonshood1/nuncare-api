@@ -1,4 +1,4 @@
-const addDoctor = (req, res, next) => {
+const deleteRegion = (req, res, next) => {
   try {
     return res.status(200).json({
       success: true,
@@ -9,4 +9,4 @@ const addDoctor = (req, res, next) => {
   }
 };
 
-module.exports = { addDoctor };
+module.exports = { deleteRegion };
