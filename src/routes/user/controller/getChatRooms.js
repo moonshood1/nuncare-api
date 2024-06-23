@@ -6,7 +6,9 @@ const getChatRooms = async ({ body, user }, res, next) => {
   try {
     // recuperer tous les chat_rooms de l'utilisateurs
 
-    const result = await ChatRoom.find({ userId: user._id });
+    const result = await ChatRoom.find({
+      $or: [{ userId: user._id }, { receiverId: user._id }],
+    });
 
     if (_.isEmpty(result) || !result)
       return res.status(200).json({ success: true, chats: [] });

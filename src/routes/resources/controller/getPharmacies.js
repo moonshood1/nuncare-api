@@ -1,4 +1,4 @@
-const Pharmacy = require("../../../models/Article");
+const Pharmacy = require("../../../models/Pharmacy");
 const _ = require("lodash");
 
 const getPharmacies = async ({ query }, res, next) => {
