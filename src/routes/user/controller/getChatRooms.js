@@ -46,6 +46,8 @@ const getChatRooms = async ({ body, user }, res, next) => {
       });
     }
 
+    console.log({ chats });
+
     return res.status(200).json({ success: true, chats });
   } catch (error) {
     console.log(error);

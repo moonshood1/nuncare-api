@@ -20,11 +20,11 @@ const UserSchema = new Schema(
       type: String,
       required: true,
     },
-    region: {
+    district: {
       type: String,
       default: "",
     },
-    city: {
+    region: {
       type: String,
       default: "",
     },
