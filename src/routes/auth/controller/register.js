@@ -30,7 +30,7 @@ const register = async ({ body }, res, next) => {
       email: body.email,
       firstName: body.firstName,
       lastName: body.lastName,
-      bio: body.bio,
+      bio: "",
       sex: body.sex,
       hospital: "",
       speciality: body.speciality,
