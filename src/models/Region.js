@@ -8,6 +8,11 @@ const RegionSchema = new Schema(
       type: String,
       required: true,
     },
+    district: {
+      type: Schema.Types.ObjectId,
+      ref: "District",
+      required: true,
+    },
   },
   {
     timestamps: true,

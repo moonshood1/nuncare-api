@@ -48,6 +48,10 @@ const UserSchema = new Schema(
       type: String,
       default: "",
     },
+    specialities: {
+      type: Array,
+      default: [],
+    },
     phone: {
       type: String,
       default: "",

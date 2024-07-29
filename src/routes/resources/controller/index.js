@@ -16,6 +16,12 @@ const { searchPharmacies } = require("./searchPharmacies");
 const { localizePharmacies } = require("./localizePharmacies");
 const { getDoctorsWithCustomSearch } = require("./getDoctorsWithCustomSearch");
 const { getLastRegistered } = require("./getlastRegistered");
+const { getSpecialities } = require("./getSpecialities");
+const { getDistricts } = require("./getDistrict");
+const {
+  getRegionsForSelectedDistrict,
+} = require("./getRegionsForSelectedDistrict");
+const { getCitiesForSelectedRegion } = require("./getCitiesForSelectedRegion");
 
 module.exports = {
   getAds,
@@ -36,4 +42,8 @@ module.exports = {
   localizePharmacies,
   getDoctorsWithCustomSearch,
   getLastRegistered,
+  getSpecialities,
+  getDistricts,
+  getRegionsForSelectedDistrict,
+  getCitiesForSelectedRegion,
 };

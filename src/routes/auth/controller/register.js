@@ -34,6 +34,7 @@ const register = async ({ body }, res, next) => {
       sex: body.sex,
       hospital: "",
       speciality: body.speciality,
+      specialities: body.specialities,
       years: body.years,
       img: "https://res.cloudinary.com/dhc0siki5/image/upload/v1710070251/nuncare/person_i8vdce.jpg",
       phone: body.phone,
@@ -60,8 +61,13 @@ const register = async ({ body }, res, next) => {
         success: false,
         message: "L'adresse e-mail est déjà utilisée par un autre compte.",
       });
+    } else {
+      return res.status(400).json({
+        success: false,
+        message:
+          "Une erreur s'est produite lors de l'inscription , veuillez réessayer plus tard",
+      });
     }
-    next(error);
   }
 };
 

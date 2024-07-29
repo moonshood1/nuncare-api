@@ -1,0 +1,113 @@
+[
+  {
+    "Abidjan": [
+      {
+        "Abidjan": [
+          "Abobo Est",
+          "Abobo Ouest",
+          "Anyama",
+          "Yopougon-Est",
+          "Yopougon-Ouest Songon",
+          "Adjame-Plateau-Attecoube",
+          "Cocody Bingerville",
+          "Koumassi",
+          "Port-Bouet-Vridi",
+          "Treichville-Marcory"
+        ]
+      }
+    ],
+    "Bas-Sassandra": [
+      {
+        "Gbôklé": ["Fresco", "Sassandra"],
+        "Nawa": ["Buyo", "Gueyo", "Meagui", "Soubre"],
+        "San-Pédro": ["San-Pedro", "Tabou"]
+      }
+    ],
+    "Comoé": [
+      {
+        "Sud-Comoé": ["Aboisso", "Adiake", "Grand-Bassam", "Tiapoum"],
+        "Indénié-Djuablin": ["Abengourou", "Agnibilekrou", "Bettie"]
+      }
+    ],
+    "Denguélé": [
+      {
+        "Kabadougou": ["Madinani", "Odienne"],
+        "Folon": ["Kaniasso", "Minignan"]
+      }
+    ],
+    "Gôh-Djiboua": [
+      {
+        "Gôh": ["Gagnoa 1", "Gagnoa 2", "Oume"],
+        "Lôh-Djiboua": ["Divo", "Guitry", "Lakota"]
+      }
+    ],
+    "Lacs": [
+      {
+        "Bélier": ["Didievi", "Tiebissou", "Toumodi"],
+        "Iffou": ["Daoukro", "Mbahiakro", "Prikro"],
+        "N'zi": ["Bocanda", "Dimbokro", "Kouassi Kouassikro"],
+        "Moronou": ["Arrah", "Bongouanou", "M'Batto"]
+      }
+    ],
+    "Lagunes": [
+      {
+        "Agnéby-Tiassa": ["Agboville", "Sikensi", "Tiassale"],
+        "Grands-Ponts": ["Dabou", "Grand-Lahou", "Jacqueville"],
+        "La Mé": ["Adzope", "Akoupe", "Alepe", "Yakasse-Attobrou"]
+      }
+    ],
+    "Montagnes": [
+      {
+        "Cavally": ["Blolequin", "Guiglo", "Tai", "Touleupleu"],
+        "Guémon": ["Bangolo", "Duekoue", "Kouibly"],
+        "Tonkpi": ["Biankouma", "Danane", "Man", "Zouan-Hounien"]
+      }
+    ],
+    "Sassandra-Marahoué": [
+      {
+        "Haut-Sassandra": ["Daloa", "Issia", "Vavoua", "Zoukougbeu"],
+        "Marahoué": ["Bouafle", "Sinfra", "Zuenoula"]
+      }
+    ],
+    "Savanes": [
+      {
+        "Bagoué": ["Boundiali", "Kouto", "Tengrela"],
+        "Poro": [
+          "Dikodougou",
+          "Korhogo 1",
+          "Korhogo 2",
+          "M'Bengue",
+          "Sinematiali"
+        ],
+        "Tchologo": ["Ferkessedougou", "Kong", "Ouangolodougou"]
+      }
+    ],
+    "Vallée du Bandama": [
+      {
+        "Gbêkê": [
+          "Beoumi",
+          "Botro",
+          "Bouake Nord-Est",
+          "Bouake Nord-Ouest",
+          "Bouake-Sud",
+          "Sakassou"
+        ],
+        "Hambol": ["Dabakala", "Katiola", "Niakaramadougou"]
+      }
+    ],
+    "Woroba": [
+      {
+        "Bafing": ["Koro", "Ouaninou", "Touba"],
+        "Béré": ["Dianra", "Kounahiri", "Mankono"],
+        "Worodougou": ["Kani", "Seguela"]
+      }
+    ],
+    "Yamoussoukro": [{ "Yamoussoukro": ["Yamoussoukro"] }],
+    "Zanzan": [
+      {
+        "Bounkani": ["Bouna", "Doropo", "Nassian", "Tehini"],
+        "Gontougo": ["Bondoukou", "Koun-Fao", "Sandegue", "Tanda", "Transua"]
+      }
+    ]
+  }
+]
