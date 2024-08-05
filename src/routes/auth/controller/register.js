@@ -32,8 +32,11 @@ const register = async ({ body }, res, next) => {
       lastName: body.lastName,
       bio: "",
       sex: body.sex,
-      hospital: "",
+      hospital: body.hospital,
       speciality: body.speciality,
+      university: body.university,
+      countryUniversity:
+        body.university == "Autre" ? body.countryUniversity : "CI",
       specialities: body.specialities,
       years: body.years,
       img: "https://res.cloudinary.com/dhc0siki5/image/upload/v1710070251/nuncare/person_i8vdce.jpg",

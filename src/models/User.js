@@ -52,6 +52,14 @@ const UserSchema = new Schema(
       type: Array,
       default: [],
     },
+    university: {
+      type: String,
+      default: "",
+    },
+    countryUniversity: {
+      type: String,
+      default: "",
+    },
     phone: {
       type: String,
       default: "",
