@@ -22,6 +22,7 @@ const {
   getDistricts,
   getRegionsForSelectedDistrict,
   getCitiesForSelectedRegion,
+  getDoctorsArticles,
 } = require("./controller");
 const { firebaseToken } = require("../../services/auth");
 
@@ -36,6 +37,7 @@ router.post("/doctors-search", firebaseToken, searchDoctors);
 router.get("/doctors-localize", firebaseToken, localizeDoctors);
 router.get("/doctors-custom-search", firebaseToken, getDoctorsWithCustomSearch);
 router.get("/doctors-registered", firebaseToken, getLastRegistered);
+router.get("/doctors-articles", getDoctorsArticles);
 
 router.get("/hospitals", getHospitals);
 router.post("/hospitals-search", searchHospitals);

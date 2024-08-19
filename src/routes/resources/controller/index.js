@@ -22,6 +22,7 @@ const {
   getRegionsForSelectedDistrict,
 } = require("./getRegionsForSelectedDistrict");
 const { getCitiesForSelectedRegion } = require("./getCitiesForSelectedRegion");
+const { getDoctorsArticles } = require("./getDoctorsArticles");
 
 module.exports = {
   getAds,
@@ -46,4 +47,5 @@ module.exports = {
   getDistricts,
   getRegionsForSelectedDistrict,
   getCitiesForSelectedRegion,
+  getDoctorsArticles,
 };
