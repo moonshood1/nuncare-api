@@ -13,10 +13,6 @@ const getRegionsForSelectedDistrict = async (req, res, next) => {
 
     const regions = result.map((region) => region.name);
 
-    console.log({
-      regions,
-    });
-
     return res.status(200).json({
       success: true,
       regions,

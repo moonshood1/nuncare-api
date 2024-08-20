@@ -23,6 +23,7 @@ const {
   getRegionsForSelectedDistrict,
   getCitiesForSelectedRegion,
   getDoctorsArticles,
+  getPromotions,
 } = require("./controller");
 const { firebaseToken } = require("../../services/auth");
 
@@ -31,11 +32,16 @@ const router = express.Router();
 router.get("/ads", getAds);
 router.get("/notifications", firebaseToken, getNotifications);
 router.get("/infos", getInfos);
+router.get("/promotions", getPromotions);
 
 router.get("/doctors", firebaseToken, getDoctors);
 router.post("/doctors-search", firebaseToken, searchDoctors);
 router.get("/doctors-localize", firebaseToken, localizeDoctors);
-router.get("/doctors-custom-search", firebaseToken, getDoctorsWithCustomSearch);
+router.post(
+  "/doctors-custom-search",
+  firebaseToken,
+  getDoctorsWithCustomSearch
+);
 router.get("/doctors-registered", firebaseToken, getLastRegistered);
 router.get("/doctors-articles", getDoctorsArticles);
 

@@ -11,10 +11,6 @@ const updateUserInformations = async ({ body, user, query }, res, next) => {
       });
     }
 
-    console.log({
-      newValue: body.value,
-    });
-
     const updateObj = {};
     updateObj[fieldName] = body.value;
 

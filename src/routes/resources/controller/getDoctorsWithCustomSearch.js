@@ -1,23 +1,39 @@
 const Doctor = require("../../../models/User");
 
-const getDoctorsWithCustomSearch = async ({ query, user }, res, next) => {
+const getDoctorsWithCustomSearch = async ({ body, query, user }, res, next) => {
   try {
-    let requestDb = {};
+    const {
+      district,
+      region,
+      specialty,
+      promotion,
+      city,
+      speciality,
+      university,
+      gender,
+    } = body;
 
-    if (query.region) {
-      requestDb.region = query.region;
-    }
-    if (query.specialty) {
-      requestDb.specialty = query.specialty;
-    }
-    if (query.promotion) {
-      requestDb.promotion = query.promotion;
-    }
-
-    const doctors = await Doctor.find({
+    const requestDb = {
+      region,
+      specialty,
+      promotion,
+      district,
+      city,
+      speciality,
+      university,
+      gender,
       _id: { $ne: user._id },
-      ...requestDb,
+    };
+
+    Object.keys(requestDb).forEach((key) => {
+      if (requestDb[key] === undefined || requestDb[key] === "") {
+        delete requestDb[key];
+      }
     });
+
+    console.log(requestDb);
+
+    const doctors = await Doctor.find(requestDb);
 
     return res.status(200).json({
       success: true,
