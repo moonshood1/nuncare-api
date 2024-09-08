@@ -1,7 +1,7 @@
 const _ = require("lodash");
 const Article = require("../../../models/Article");
 
-const interractWithArticle = async ({ body, user }, res, next) => {
+const likeArticle = async ({ body, user }, res, next) => {
   try {
     const article = await Article.findOne({
       _id: body.id,
@@ -33,5 +33,5 @@ const interractWithArticle = async ({ body, user }, res, next) => {
 };
 
 module.exports = {
-  interractWithArticle,
+  likeArticle,
 };

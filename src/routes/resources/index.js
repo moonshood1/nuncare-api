@@ -24,6 +24,8 @@ const {
   getCitiesForSelectedRegion,
   getDoctorsArticles,
   getPromotions,
+  getArticleComments,
+  getRegions,
 } = require("./controller");
 const { firebaseToken } = require("../../services/auth");
 
@@ -58,10 +60,12 @@ router.post("/medecines-search", searchMedecines);
 
 router.get("/articles", getArticles);
 router.post("/articles-search", searchArticles);
+router.get("/articles-comments", getArticleComments);
 
 router.get("/specialities", getSpecialities);
 router.get("/districts", getDistricts);
 router.get("/regions-search", getRegionsForSelectedDistrict);
+router.get("/regions", getRegions);
 router.get("/cities-search", getCitiesForSelectedRegion);
 
 module.exports = router;

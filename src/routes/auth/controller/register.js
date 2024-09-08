@@ -49,7 +49,7 @@ const register = async ({ body }, res, next) => {
       isActive: true,
       deviceId: "",
       promotion: body.promotion,
-      district: body.district,
+      district: "",
       region: body.region,
     });
 
