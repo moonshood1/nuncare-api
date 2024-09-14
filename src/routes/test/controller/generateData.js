@@ -1,16 +1,8 @@
-const Doctor = require("../../../models/User");
+const Pharmacy = require("../../../models/Pharmacy");
+const pharmacies = require("../../test/controller/pharmacies.json");
 
 const generateData = async (req, res, next) => {
   try {
-    await Doctor.updateMany(
-      {},
-      {
-        $set: {
-          university: "",
-          countryUniversity: "",
-        },
-      }
-    );
     return res.status(200).json({ success: true });
   } catch (error) {
     console.log(error);

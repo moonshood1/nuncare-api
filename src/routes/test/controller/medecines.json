@@ -1,0 +1,6626 @@
+[
+  {
+    "code": "81090304",
+    "name": "AERIUS CPR. PELLICU 5MG 30",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 4615,
+    "regime": "CMU"
+  },
+  {
+    "code": "90090459",
+    "name": "AKEROL SIROP 2.5MG 5ML 60ML",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 3492,
+    "regime": "CMU"
+  },
+  {
+    "code": "21090304",
+    "name": "ALLERGUS CPR. PELLICU 5MG 15",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 3095,
+    "regime": "CMU"
+  },
+  {
+    "code": "50140627",
+    "name": "ALLERTIN CPR. 10MG 10",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "LORATADINE",
+    "category": "R",
+    "price": 1671,
+    "regime": "CMU"
+  },
+  {
+    "code": "11040293",
+    "name": "ATARAX CPR. PELLICU 25MG 30",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "HYDROXYZINE",
+    "category": "R",
+    "price": 2651,
+    "regime": "CMU"
+  },
+  {
+    "code": "10040317",
+    "name": "ATARAX 2MG/ML SP FV 200ML",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "HYDROXYZINE",
+    "category": "R",
+    "price": 2205,
+    "regime": "CMU"
+  },
+  {
+    "code": "30140628",
+    "name": "BILOR SIROP 60ML",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "LORATADINE",
+    "category": "R",
+    "price": 2133,
+    "regime": "CMU"
+  },
+  {
+    "code": "80090459",
+    "name": "CLARIUS SOL BUV .5MG 1ML 150ML",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 2688,
+    "regime": "CMU"
+  },
+  {
+    "code": "60140627",
+    "name": "CLARTEC CPR. 10MG 30",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "LORATADINE",
+    "category": "R",
+    "price": 4433,
+    "regime": "CMU"
+  },
+  {
+    "code": "31090304",
+    "name": "DESLATYNE CPR. 5MG 10",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 2066,
+    "regime": "CMU"
+  },
+  {
+    "code": "70090459",
+    "name": "DESLOCREAT SIROP 2.5MG 5ML 60ML",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 3031,
+    "regime": "CMU"
+  },
+  {
+    "code": "41090304",
+    "name": "DESLORA-DENK CPR. PELLICU 5MG 10",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 2193,
+    "regime": "CMU"
+  },
+  {
+    "code": "111090304",
+    "name": "DESLORATADINE CREA CPR. PELLICU 5MG 10",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 1736,
+    "regime": "CMU"
+  },
+  {
+    "code": "101090304",
+    "name": "DESLORATADINE GH CPR. PELLICU 5MG 15",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 3342,
+    "regime": "CMU"
+  },
+  {
+    "code": "100090459",
+    "name": "DESLORATADINE GH SUSP BUV. 60ML",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 1757,
+    "regime": "CMU"
+  },
+  {
+    "code": "91090304",
+    "name": "DESLORATADINE SP CPR. PELLICU 5MG 10",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 1628,
+    "regime": "CMU"
+  },
+  {
+    "code": "60090459",
+    "name": "DYLDES SIROP 60ML",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 3651,
+    "regime": "CMU"
+  },
+  {
+    "code": "11090304",
+    "name": "ERLUS CPR. PELLICU 5MG 14",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 3001,
+    "regime": "CMU"
+  },
+  {
+    "code": "50090459",
+    "name": "ERLUS SIROP 2.5MG 5ML 60ML",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 2954,
+    "regime": "CMU"
+  },
+  {
+    "code": "71090304",
+    "name": "HISTAM CPR. PELLICU 5MG 15",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 3216,
+    "regime": "CMU"
+  },
+  {
+    "code": "40090459",
+    "name": "HISTAM SOL BUV .5MG 150ML",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 2885,
+    "regime": "CMU"
+  },
+  {
+    "code": "10140628",
+    "name": "LORADINE SIROP .1% 60ML",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "LORATADINE",
+    "category": "R",
+    "price": 2620,
+    "regime": "CMU"
+  },
+  {
+    "code": "61090304",
+    "name": "LOREUS CPR. PELLICU 5MG 15",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 3444,
+    "regime": "CMU"
+  },
+  {
+    "code": "30090459",
+    "name": "LOREUS SOL BUV .5MG 1ML 60ML",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 2893,
+    "regime": "CMU"
+  },
+  {
+    "code": "20140628",
+    "name": "LORHIST SIROP 5MG 5ML 60ML",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "LORATADINE",
+    "category": "R",
+    "price": 1954,
+    "regime": "CMU"
+  },
+  {
+    "code": "40140627",
+    "name": "LORINOL CPR A CROQUE 10MG 10",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "LORATADINE",
+    "category": "R",
+    "price": 1691,
+    "regime": "CMU"
+  },
+  {
+    "code": "20140627",
+    "name": "LORIT CPR. 5MG 20",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "LORATADINE",
+    "category": "R",
+    "price": 2747,
+    "regime": "CMU"
+  },
+  {
+    "code": "10140627",
+    "name": "LORIX CPR. 10MG 15",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "LORATADINE",
+    "category": "R",
+    "price": 2602,
+    "regime": "CMU"
+  },
+  {
+    "code": "10090459",
+    "name": "LORODES SOL.BUV .5MG 1ML 60ML",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 3800,
+    "regime": "CMU"
+  },
+  {
+    "code": "51090304",
+    "name": "LOTARIDEX CPR. 5MG 15",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 2958,
+    "regime": "CMU"
+  },
+  {
+    "code": "10140666",
+    "name": "PHENERGAN CREME 2% 30G",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "PROMETHAZINE",
+    "category": "R",
+    "price": 2072,
+    "regime": "CMU"
+  },
+  {
+    "code": "41090311",
+    "name": "PRIMALAN CPR.SECAB 10MG 14",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "MEQUITAZINE",
+    "category": "R",
+    "price": 4873,
+    "regime": "CMU"
+  },
+  {
+    "code": "31090311",
+    "name": "PRIMALAN CPR.SECAB 5MG 14",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "MEQUITAZINE",
+    "category": "R",
+    "price": 3052,
+    "regime": "CMU"
+  },
+  {
+    "code": "21090311",
+    "name": "QUINTANA CPR. 10MG 14",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "MEQUITAZINE",
+    "category": "R",
+    "price": 4027,
+    "regime": "CMU"
+  },
+  {
+    "code": "11090311",
+    "name": "QUINTANA CPR. 5MG 14",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "MEQUITAZINE",
+    "category": "R",
+    "price": 2478,
+    "regime": "CMU"
+  },
+  {
+    "code": "10090329",
+    "name": "QUINTANA SUSP BUV. 2.5MG 5ML 60ML",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "MEQUITAZINE",
+    "category": "R",
+    "price": 1807,
+    "regime": "CMU"
+  },
+  {
+    "code": "20090459",
+    "name": "ZENTREK SIROP 2.5MG 100ML",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "DESLORATADINE",
+    "category": "R",
+    "price": 3739,
+    "regime": "CMU"
+  },
+  {
+    "code": "30140627",
+    "name": "ZIFAR CPR. 10MG 14",
+    "group": "ALLERGOLOGIE, ANTIHISTAMINIQUE",
+    "dci": "LORATADINE",
+    "category": "R",
+    "price": 1433,
+    "regime": "CMU"
+  },
+  {
+    "code": "31130758",
+    "name": "DOLEX MERINAL 50MG GEL B/30",
+    "group": "ANTALGIQUE OPIACE FAIBLE",
+    "dci": "TRAMADOL",
+    "category": "R",
+    "price": 2520,
+    "regime": "CMU"
+  },
+  {
+    "code": "21130758",
+    "name": "OROZAMUDOL CPR ORODISP. 50MG 30",
+    "group": "ANTALGIQUE OPIACE FAIBLE",
+    "dci": "TRAMADOL",
+    "category": "R",
+    "price": 2990,
+    "regime": "CMU"
+  },
+  {
+    "code": "11130758",
+    "name": "TRADOLAN CPR. PELLICU 50MG 20",
+    "group": "ANTALGIQUE OPIACE FAIBLE",
+    "dci": "TRAMADOL",
+    "category": "R",
+    "price": 1451,
+    "regime": "CMU"
+  },
+  {
+    "code": "31130406",
+    "name": "ALGESIC 500MG CPR SEC B/20",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 455,
+    "regime": "CMU"
+  },
+  {
+    "code": "20130735",
+    "name": "ARCET SIROP 120MG 5ML 60ML",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 932,
+    "regime": "CMU"
+  },
+  {
+    "code": "41130406",
+    "name": "ARCET 500MG CPR B/20",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 420,
+    "regime": "CMU"
+  },
+  {
+    "code": "11120247",
+    "name": "ASPEGIC PDR SOLU SAC 100MG ENF 20",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "ACETYLSALICYLATE DE LYSINE",
+    "category": "R",
+    "price": 1586,
+    "regime": "CMU"
+  },
+  {
+    "code": "11120254",
+    "name": "ASPEGIC PDR SOLU SAC 250MG 20",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "ACETYLSALICYLATE DE LYSINE",
+    "category": "R",
+    "price": 1620,
+    "regime": "CMU"
+  },
+  {
+    "code": "11130109",
+    "name": "ASPIRINE DU RHONE 500 MG CPR B30",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "ACIDE ACETYLSALICYLIQUE",
+    "category": "R",
+    "price": 2410,
+    "regime": "CMU"
+  },
+  {
+    "code": "11130208",
+    "name": "ASPIRINE SPECIA 100MG CPR",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "ACIDE ACETYLSALICYLIQUE",
+    "category": "R",
+    "price": 620,
+    "regime": "CMU"
+  },
+  {
+    "code": "21130208",
+    "name": "ASPIRINE 100MG RPS CPR BT 20",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "ACIDE ACETYLSALICYLIQUE",
+    "category": "R",
+    "price": 620,
+    "regime": "CMU"
+  },
+  {
+    "code": "31131106",
+    "name": "CETAMYL PDR SOLU SAC 300MG 12",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 1033,
+    "regime": "CMU"
+  },
+  {
+    "code": "51130406",
+    "name": "CIPHACET 500MG CPR B/24",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 800,
+    "regime": "CMU"
+  },
+  {
+    "code": "61130406",
+    "name": "CIPHACET 500MG CPR PQ10",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 240,
+    "regime": "CMU"
+  },
+  {
+    "code": "60130735",
+    "name": "DOLIMEX PD SOL.BU.SA 1000MG 8",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 135,
+    "regime": "CMU"
+  },
+  {
+    "code": "21131106",
+    "name": "DOLIMEX PD SOL.BU.SA 300MG 12",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 1303,
+    "regime": "CMU"
+  },
+  {
+    "code": "11131052",
+    "name": "DOLIPRANE PDR/SOL SACH 100MG ENF 12",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 1365,
+    "regime": "CMU"
+  },
+  {
+    "code": "11131106",
+    "name": "DOLIPRANE PDR/SOL SACH 300MG ENF 12 1.62G",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 1356,
+    "regime": "CMU"
+  },
+  {
+    "code": "11130765",
+    "name": "DOLIPRANE SUP ENF 100MG 10",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 1100,
+    "regime": "CMU"
+  },
+  {
+    "code": "11130772",
+    "name": "DOLIPRANE SUP ENF 200MG 10",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 1287,
+    "regime": "CMU"
+  },
+  {
+    "code": "71130406",
+    "name": "DOLYC 500MG CPR PELL B/20",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 630,
+    "regime": "CMU"
+  },
+  {
+    "code": "81130406",
+    "name": "LIC PARAC 500MG CPR B/16",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 385,
+    "regime": "CMU"
+  },
+  {
+    "code": "91130406",
+    "name": "LYTAMOL 500MG CPR SEC PQ 10",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 100,
+    "regime": "CMU"
+  },
+  {
+    "code": "11130406",
+    "name": "PANOL 500MG CPR PQ 10",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 190,
+    "regime": "CMU"
+  },
+  {
+    "code": "101130406",
+    "name": "PARACETAMOL CREAT 500MG CPR 10",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 195,
+    "regime": "CMU"
+  },
+  {
+    "code": "111130406",
+    "name": "PARACETAMOL RPR CPR. 500MG PQ10",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 100,
+    "regime": "CMU"
+  },
+  {
+    "code": "121130406",
+    "name": "PARACETAMOL TM 500MG CPR B/20",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 295,
+    "regime": "CMU"
+  },
+  {
+    "code": "131130406",
+    "name": "PARACETAMOL UBI CP 500 MG PLAQUETTE DE 10",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 125,
+    "regime": "CMU"
+  },
+  {
+    "code": "50130735",
+    "name": "PARACETAMOL UBI SIROP 120MG 5ML 60ML",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 819,
+    "regime": "CMU"
+  },
+  {
+    "code": "21130406",
+    "name": "PARACETAMOL WINTHROP 500MG B20",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 580,
+    "regime": "CMU"
+  },
+  {
+    "code": "40130735",
+    "name": "PARAMED SOL.BUV 3% 100ML",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 950,
+    "regime": "CMU"
+  },
+  {
+    "code": "141130406",
+    "name": "PARAMED 500MG CPR B/20",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 300,
+    "regime": "CMU"
+  },
+  {
+    "code": "151130406",
+    "name": "PARAMED 500MG CPR PQ10",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 90,
+    "regime": "CMU"
+  },
+  {
+    "code": "161130406",
+    "name": "PARCEDOL 500MG CPR B/20",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 420,
+    "regime": "CMU"
+  },
+  {
+    "code": "30130735",
+    "name": "PCM SUSP. 120MG 100ML",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 1050,
+    "regime": "CMU"
+  },
+  {
+    "code": "10130735",
+    "name": "PLAPAR SIROP 120MG 5ML 60ML",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 901,
+    "regime": "CMU"
+  },
+  {
+    "code": "171130406",
+    "name": "REPAR 500MG CPR B/20",
+    "group": "ANTALGIQUE/ANTIPYRETIQUE",
+    "dci": "PARACETAMOL",
+    "category": "R",
+    "price": 470,
+    "regime": "CMU"
+  },
+  {
+    "code": "21011620",
+    "name": "DOXY CPR. 200MG 8",
+    "group": "ANTIBIOTIQUE, CYCLINE",
+    "dci": "DOXYCYCLINE",
+    "category": "R",
+    "price": 2368,
+    "regime": "CMU"
+  },
+  {
+    "code": "11011606",
+    "name": "DOXYCYCLIN CREAT GEL. 100MG BL/10",
+    "group": "ANTIBIOTIQUE, CYCLINE",
+    "dci": "DOXYCYCLINE",
+    "category": "R",
+    "price": 705,
+    "regime": "CMU"
+  },
+  {
+    "code": "11011620",
+    "name": "DOXY-DENK CPR. PELLICU 200MG 8",
+    "group": "ANTIBIOTIQUE, CYCLINE",
+    "dci": "DOXYCYCLINE",
+    "category": "R",
+    "price": 2080,
+    "regime": "CMU"
+  },
+  {
+    "code": "31011620",
+    "name": "GYNECLINE CPR. 200MG 10",
+    "group": "ANTIBIOTIQUE, CYCLINE",
+    "dci": "DOXYCYCLINE",
+    "category": "R",
+    "price": 2594,
+    "regime": "CMU"
+  },
+  {
+    "code": "41011620",
+    "name": "LONGAMYCINE CPR. 200MG 8",
+    "group": "ANTIBIOTIQUE, CYCLINE",
+    "dci": "DOXYCYCLINE",
+    "category": "R",
+    "price": 1390,
+    "regime": "CMU"
+  },
+  {
+    "code": "51011620",
+    "name": "VICLINE CPR.PELL.SEC 200MG 10",
+    "group": "ANTIBIOTIQUE, CYCLINE",
+    "dci": "DOXYCYCLINE",
+    "category": "R",
+    "price": 1615,
+    "regime": "CMU"
+  },
+  {
+    "code": "10017333",
+    "name": "ACLIN GEL 2% 15G",
+    "group": "ANTIBIOTIQUE, LINCOSAMIDE",
+    "dci": "CLINDAMYCINE",
+    "category": "R",
+    "price": 3188,
+    "regime": "CMU"
+  },
+  {
+    "code": "11017349",
+    "name": "DALACINE GELULE 300MG 16",
+    "group": "ANTIBIOTIQUE, LINCOSAMIDE",
+    "dci": "CLINDAMYCINE",
+    "category": "R",
+    "price": 8637,
+    "regime": "CMU"
+  },
+  {
+    "code": "11017325",
+    "name": "DALACINE 150MG GEL B/12",
+    "group": "ANTIBIOTIQUE, LINCOSAMIDE",
+    "dci": "CLINDAMYCINE",
+    "category": "R",
+    "price": 3515,
+    "regime": "CMU"
+  },
+  {
+    "code": "51011965",
+    "name": "AUROTHRIN CPR. PELLICU 500MG 3",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 3699,
+    "regime": "CMU"
+  },
+  {
+    "code": "70261019",
+    "name": "AUROTHRIN SUSP BUV. 200MG 5ML 15ML",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 2631,
+    "regime": "CMU"
+  },
+  {
+    "code": "41011965",
+    "name": "AZIC CPR. 500MG 3",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 3161,
+    "regime": "CMU"
+  },
+  {
+    "code": "41261056",
+    "name": "AZIC 250MG CPR PELL B/6",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 2725,
+    "regime": "CMU"
+  },
+  {
+    "code": "61261056",
+    "name": "AZICURE 250MG CPR B/6",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 3720,
+    "regime": "CMU"
+  },
+  {
+    "code": "31011965",
+    "name": "AZIENT CPR. PELLICU 500MG 3",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 3838,
+    "regime": "CMU"
+  },
+  {
+    "code": "21011965",
+    "name": "AZIK CPR. 500MG 3",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 3810,
+    "regime": "CMU"
+  },
+  {
+    "code": "51261056",
+    "name": "AZIK 250MG CPR B/6",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 3445,
+    "regime": "CMU"
+  },
+  {
+    "code": "60261019",
+    "name": "AZINA PDR/SIROP 200MG 5ML 15ML",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 1584,
+    "regime": "CMU"
+  },
+  {
+    "code": "11011965",
+    "name": "AZIT CPR. 500MG 3",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 3876,
+    "regime": "CMU"
+  },
+  {
+    "code": "80261019",
+    "name": "AZIT SUSP BUV. 200MG 5ML 15ML",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 1875,
+    "regime": "CMU"
+  },
+  {
+    "code": "10261019",
+    "name": "AZITHRIN SYROP 200MG 5ML 15ML",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 2684,
+    "regime": "CMU"
+  },
+  {
+    "code": "21261056",
+    "name": "AZITHRO CP 250 MG B/6",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 3720,
+    "regime": "CMU"
+  },
+  {
+    "code": "81011965",
+    "name": "AZITHROMYCINE CRE CPR. PELLICU 500MG 3",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 1791,
+    "regime": "CMU"
+  },
+  {
+    "code": "31261056",
+    "name": "AZITRINE 250MG CPR B/6",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 2755,
+    "regime": "CMU"
+  },
+  {
+    "code": "50261019",
+    "name": "AZRO PDR/SUS.BUV 200MG 5ML 15ML",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 2505,
+    "regime": "CMU"
+  },
+  {
+    "code": "31011927",
+    "name": "CARY CPR. 500MG 10",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "ERYTRHOMYCINE",
+    "category": "R",
+    "price": 2550,
+    "regime": "CMU"
+  },
+  {
+    "code": "71017394",
+    "name": "CLARICIN CPR. PELLICU 500MG 14",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "CLARITHROMYCINE",
+    "category": "R",
+    "price": 7435,
+    "regime": "CMU"
+  },
+  {
+    "code": "61017394",
+    "name": "CLARIE OD CPR. 500MG 7",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "CLARITHROMYCINE",
+    "category": "R",
+    "price": 5132,
+    "regime": "CMU"
+  },
+  {
+    "code": "51017394",
+    "name": "CLARITHROMYCIN BGR CPR. PELLICU 500MG 10",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "CLARITHROMYCINE",
+    "category": "R",
+    "price": 6950,
+    "regime": "CMU"
+  },
+  {
+    "code": "41017394",
+    "name": "CLARITHROMYCIN GH CPR. PELLICU 500MG 14",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "CLARITHROMYCINE",
+    "category": "R",
+    "price": 3990,
+    "regime": "CMU"
+  },
+  {
+    "code": "31017394",
+    "name": "CLARITHROMYCINE VIR COMP 500MGB/14",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "CLARITHROMYCINE",
+    "category": "R",
+    "price": 5300,
+    "regime": "CMU"
+  },
+  {
+    "code": "21017394",
+    "name": "CLARITOX CPR. PELLICU 500MG 10",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "CLARITHROMYCINE",
+    "category": "R",
+    "price": 5090,
+    "regime": "CMU"
+  },
+  {
+    "code": "111017394",
+    "name": "CLARITRON CPR. PELLICU 500MG 10",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "CLARITHROMYCINE",
+    "category": "R",
+    "price": 9012,
+    "regime": "CMU"
+  },
+  {
+    "code": "11017394",
+    "name": "CLARIVA CPR. PELLICU 500MG 14",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "CLARITHROMYCINE",
+    "category": "R",
+    "price": 9457,
+    "regime": "CMU"
+  },
+  {
+    "code": "81017394",
+    "name": "CLARIWIN CPR. 500MG 10",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "CLARITHROMYCINE",
+    "category": "R",
+    "price": 6963,
+    "regime": "CMU"
+  },
+  {
+    "code": "91011965",
+    "name": "CRONOPEN CPR. PELLICU 500MG 3",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 3553,
+    "regime": "CMU"
+  },
+  {
+    "code": "51011750",
+    "name": "DONTOMYCINE CPR. 3M 10",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "SPIRAMYCINE",
+    "category": "R",
+    "price": 4798,
+    "regime": "CMU"
+  },
+  {
+    "code": "21011927",
+    "name": "ERY GE CPR.SECAB 500MG 10",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "ERYTRHOMYCINE",
+    "category": "R",
+    "price": 3365,
+    "regime": "CMU"
+  },
+  {
+    "code": "11017356",
+    "name": "ERY GE GRAN.SOL.SAC 125MG NOUR 24",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "ERYTRHOMYCINE",
+    "category": "R",
+    "price": 3285,
+    "regime": "CMU"
+  },
+  {
+    "code": "21017363",
+    "name": "ERY GE GRAN.SOL.SAC 250MG ENF 24",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "ERYTRHOMYCINE",
+    "category": "R",
+    "price": 3281,
+    "regime": "CMU"
+  },
+  {
+    "code": "11017363",
+    "name": "ERYCYL PDRE P SUSP BUV 250 MG/SACH B/24",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "ERYTRHOMYCINE",
+    "category": "R",
+    "price": 3015,
+    "regime": "CMU"
+  },
+  {
+    "code": "11011927",
+    "name": "ERYTHROMY-ERYCREAT DRG 500MG PQ/10",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "ERYTRHOMYCINE",
+    "category": "R",
+    "price": 1550,
+    "regime": "CMU"
+  },
+  {
+    "code": "31014317",
+    "name": "FLEX-NOR CPR. 400MG 10",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "NORFLOXACINE",
+    "category": "R",
+    "price": 1947,
+    "regime": "CMU"
+  },
+  {
+    "code": "10017371",
+    "name": "JOSACINE GRAN P/SUSP. 250MG 5ML 60ML",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "JOSAMYCINE",
+    "category": "R",
+    "price": 5403,
+    "regime": "CMU"
+  },
+  {
+    "code": "51014317",
+    "name": "LIC NORFLOX CPR. ENROB. 400MG 10",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "NORFLOXACINE",
+    "category": "R",
+    "price": 2619,
+    "regime": "CMU"
+  },
+  {
+    "code": "11014317",
+    "name": "NORFEN CP 400 MG B/10",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "NORFLOXACINE",
+    "category": "R",
+    "price": 2647,
+    "regime": "CMU"
+  },
+  {
+    "code": "21014317",
+    "name": "NORFIX CPR. ENROB. 400MG 10",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "NORFLOXACINE",
+    "category": "R",
+    "price": 4804,
+    "regime": "CMU"
+  },
+  {
+    "code": "61014317",
+    "name": "NORFLOXACINE TONG CPR. ENROB. 400MG 10",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "NORFLOXACINE",
+    "category": "R",
+    "price": 2306,
+    "regime": "CMU"
+  },
+  {
+    "code": "41014317",
+    "name": "NORFLOXINE CPR. 400MG 14",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "NORFLOXACINE",
+    "category": "R",
+    "price": 6866,
+    "regime": "CMU"
+  },
+  {
+    "code": "101011965",
+    "name": "ROLICIN CPR. PELLICU 500MG 3",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 2780,
+    "regime": "CMU"
+  },
+  {
+    "code": "41011750",
+    "name": "ROVAMYCINE CPR. PELLICU 3M 10",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "SPIRAMYCINE",
+    "category": "R",
+    "price": 5274,
+    "regime": "CMU"
+  },
+  {
+    "code": "11261025",
+    "name": "ROXANE CPR. 150MG 10",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "ROXITHROMYCINE",
+    "category": "R",
+    "price": 4127,
+    "regime": "CMU"
+  },
+  {
+    "code": "21261025",
+    "name": "ROXIMAX CPR.PELL.SEC 150MG 12",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "ROXITHROMYCINE",
+    "category": "R",
+    "price": 4108,
+    "regime": "CMU"
+  },
+  {
+    "code": "31261025",
+    "name": "ROX-MYCIN CPR. 150MG 10",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "ROXITHROMYCINE",
+    "category": "R",
+    "price": 3564,
+    "regime": "CMU"
+  },
+  {
+    "code": "31011750",
+    "name": "SPIRALIDE CPR. PELLICU 3M 10",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "SPIRAMYCINE",
+    "category": "R",
+    "price": 4987,
+    "regime": "CMU"
+  },
+  {
+    "code": "21011750",
+    "name": "SPIRALIDE CPR. PELLICU 3M 16",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "SPIRAMYCINE",
+    "category": "R",
+    "price": 6046,
+    "regime": "CMU"
+  },
+  {
+    "code": "71011965",
+    "name": "SUMAMOX CPR. ENROB. 500MG 3",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 3544,
+    "regime": "CMU"
+  },
+  {
+    "code": "20261019",
+    "name": "SWILIDE SUSP BUV 200MG/5ML FL/30ML",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 941,
+    "regime": "CMU"
+  },
+  {
+    "code": "61011965",
+    "name": "TRAMYCIN CPR. PELLICU 500MG 3",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 3379,
+    "regime": "CMU"
+  },
+  {
+    "code": "11261056",
+    "name": "TRAMYCIN 250MG CPR PELL B/6",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 3360,
+    "regime": "CMU"
+  },
+  {
+    "code": "11011750",
+    "name": "UNISPIRA CPR. PELLICU 3M 10",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "SPIRAMYCINE",
+    "category": "R",
+    "price": 4143,
+    "regime": "CMU"
+  },
+  {
+    "code": "30261019",
+    "name": "VIKTHRO SUSP BUV. 200MG 5ML 15ML",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 2098,
+    "regime": "CMU"
+  },
+  {
+    "code": "91017394",
+    "name": "XYLAR CPR. PELLICU 500MG 14",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "CLARITHROMYCINE",
+    "category": "R",
+    "price": 12539,
+    "regime": "CMU"
+  },
+  {
+    "code": "101017394",
+    "name": "ZECLAR CPR. PELLICU 500MG 14",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "CLARITHROMYCINE",
+    "category": "R",
+    "price": 10199,
+    "regime": "CMU"
+  },
+  {
+    "code": "10017319",
+    "name": "ZECLAR GRAN.PR SUSP 25MG 1ML 100ML",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "CLARITHROMYCINE",
+    "category": "R",
+    "price": 9448,
+    "regime": "CMU"
+  },
+  {
+    "code": "40261019",
+    "name": "ZOCIN SUSP BUV 200 MG/5 ML FL/15 ML",
+    "group": "ANTIBIOTIQUE, MACROLIDE",
+    "dci": "AZITHROMYCINE",
+    "category": "R",
+    "price": 2662,
+    "regime": "CMU"
+  },
+  {
+    "code": "91010258",
+    "name": "AMFOCIN C.PEL 500MG/ 62.5MG 16",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 4542,
+    "regime": "CMU"
+  },
+  {
+    "code": "20010303",
+    "name": "AMITRON 250MG SUSP BUV F/60ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 1100,
+    "regime": "CMU"
+  },
+  {
+    "code": "111010891",
+    "name": "AMOCLAN PDR P/SU SAC 1125MG 12",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 5226,
+    "regime": "CMU"
+  },
+  {
+    "code": "60010860",
+    "name": "AMOCLAN 100MG/12,5MG PDR SUSP",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 3030,
+    "regime": "CMU"
+  },
+  {
+    "code": "40010419",
+    "name": "AMODEX 125MG PDR SIR FL/60ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 1000,
+    "regime": "CMU"
+  },
+  {
+    "code": "21010203",
+    "name": "AMOXICAP GELULE 500MG 10",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 750,
+    "regime": "CMU"
+  },
+  {
+    "code": "91010203",
+    "name": "AMOXICILLI-CREACIL GEL.500MG 12",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 830,
+    "regime": "CMU"
+  },
+  {
+    "code": "81010203",
+    "name": "AMOXICILLIN SANDOZ GELULE 500MG 10",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 675,
+    "regime": "CMU"
+  },
+  {
+    "code": "71010203",
+    "name": "AMOXICILLINE ARROW GELULE 500MG 30",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 2741,
+    "regime": "CMU"
+  },
+  {
+    "code": "61010203",
+    "name": "AMOXICILLINE GELULE 500MG 12",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 690,
+    "regime": "CMU"
+  },
+  {
+    "code": "111010203",
+    "name": "AMOXICILLINE HIKMA CPR. 500MG B10",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 485,
+    "regime": "CMU"
+  },
+  {
+    "code": "51010203",
+    "name": "AMOXICILLINE TM CPR. 500MG 12",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 964,
+    "regime": "CMU"
+  },
+  {
+    "code": "41010203",
+    "name": "AMOXICILLINE UBI GEL.500MG 12",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 845,
+    "regime": "CMU"
+  },
+  {
+    "code": "30010419",
+    "name": "AMOXICILLINE UBI 125MG PDRE SU",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 760,
+    "regime": "CMU"
+  },
+  {
+    "code": "101010258",
+    "name": "AMOXICLAV DENK CPR. 500MG/ 62.5MG 16",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 4876,
+    "regime": "CMU"
+  },
+  {
+    "code": "31010203",
+    "name": "AMOXI-DENK CPR. 500MG 20",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 1942,
+    "regime": "CMU"
+  },
+  {
+    "code": "161010203",
+    "name": "AMOXYN CPR. 500MG 10",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 485,
+    "regime": "CMU"
+  },
+  {
+    "code": "10013150",
+    "name": "ASTAPH PDR PR SYR 125MG 5ML 60ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "FLUCLOXACILLINE",
+    "category": "R",
+    "price": 2328,
+    "regime": "CMU"
+  },
+  {
+    "code": "10013151",
+    "name": "ASTAPH PDR PR SYR 250MG 5ML 60ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "FLUCLOXACILLINE",
+    "category": "R",
+    "price": 3340,
+    "regime": "CMU"
+  },
+  {
+    "code": "81010258",
+    "name": "AUGMENTIN CPR.PELL ADT 500MG 16 /62",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 5399,
+    "regime": "CMU"
+  },
+  {
+    "code": "50010860",
+    "name": "AUGMENTIN PDR PR SUSP 100MG 5ML 30ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 2476,
+    "regime": "CMU"
+  },
+  {
+    "code": "11010203",
+    "name": "BACTOX GE GELULE 500MG 10",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 715,
+    "regime": "CMU"
+  },
+  {
+    "code": "31010891",
+    "name": "BIOTIC PLUS PDR SACH 1125MG 14",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 5542,
+    "regime": "CMU"
+  },
+  {
+    "code": "61010891",
+    "name": "BIOTIC PLUS PDR SACH 1125MG 24",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 10325,
+    "regime": "CMU"
+  },
+  {
+    "code": "40010860",
+    "name": "BLAMAZ 100MG/12,5MG PDRE SUSP",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 3070,
+    "regime": "CMU"
+  },
+  {
+    "code": "11010890",
+    "name": "BLAMAZ 1000MG/125MG CPR PELL B",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 5440,
+    "regime": "CMU"
+  },
+  {
+    "code": "20010419",
+    "name": "CLAMOXIL 125 MG PDRE F/60ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 1115,
+    "regime": "CMU"
+  },
+  {
+    "code": "111010258",
+    "name": "CLAVAM CPR. PELLICU 562MG 16",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 5275,
+    "regime": "CMU"
+  },
+  {
+    "code": "50010242",
+    "name": "CLAVAM PD P/SUS.BUV 281MG 5ML 60ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 3504,
+    "regime": "CMU"
+  },
+  {
+    "code": "71010258",
+    "name": "CLEDOMOX CPR. PELLICU 562MG 16",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 5336,
+    "regime": "CMU"
+  },
+  {
+    "code": "20010242",
+    "name": "CLEDOMOX PDR/SUS.BUV 281MG 5ML 60ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 3586,
+    "regime": "CMU"
+  },
+  {
+    "code": "71010890",
+    "name": "CLIQ 1000MG/125MG CPR PELL B/14",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 5925,
+    "regime": "CMU"
+  },
+  {
+    "code": "31010259",
+    "name": "CO-AMOXICLAV SACH ENF 500 62.5MG 12",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 4735,
+    "regime": "CMU"
+  },
+  {
+    "code": "91010891",
+    "name": "CO-AMOXICLAV SP SACH.1G/ 125MG 12",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 4984,
+    "regime": "CMU"
+  },
+  {
+    "code": "81010891",
+    "name": "CO-AMOXICLAV SP SACH.1G/ 125MG 16",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 10341,
+    "regime": "CMU"
+  },
+  {
+    "code": "71010891",
+    "name": "CO-AMOXICLAV SP SACH.1G/ 125MG 24",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 4601,
+    "regime": "CMU"
+  },
+  {
+    "code": "41010259",
+    "name": "CO-AMOXICLAV SP SACH.500MG/ 62.5MG 16",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 5200,
+    "regime": "CMU"
+  },
+  {
+    "code": "61010258",
+    "name": "CREACLAV CPR.PEL 500/ 62.5MG 16",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 4175,
+    "regime": "CMU"
+  },
+  {
+    "code": "51010258",
+    "name": "CURAM C.PEL 500MG/ 62.5MG 16",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 4917,
+    "regime": "CMU"
+  },
+  {
+    "code": "30010860",
+    "name": "CURAM SUSP 100MG/ 12.5MG 5ML 30ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 2600,
+    "regime": "CMU"
+  },
+  {
+    "code": "10010419",
+    "name": "EUROMOX 125MG SP F/60ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 840,
+    "regime": "CMU"
+  },
+  {
+    "code": "10010303",
+    "name": "EUROMOX 250MG SP F/60ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 1050,
+    "regime": "CMU"
+  },
+  {
+    "code": "41010258",
+    "name": "FLEMING CPR. PELLICU 562MG 16",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 4190,
+    "regime": "CMU"
+  },
+  {
+    "code": "20013151",
+    "name": "FLUCOGEN GELULE 500 MG B/12",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "FLUCLOXACILLINE",
+    "category": "R",
+    "price": 1765,
+    "regime": "CMU"
+  },
+  {
+    "code": "30013151",
+    "name": "FLUKOCIN SUSP BUV. 250MG 5ML 100ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "FLUCLOXACILLINE",
+    "category": "R",
+    "price": 2763,
+    "regime": "CMU"
+  },
+  {
+    "code": "40013151",
+    "name": "FUCLO GELULE 500MG 24",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "FLUCLOXACILLINE",
+    "category": "R",
+    "price": 4012,
+    "regime": "CMU"
+  },
+  {
+    "code": "50013151",
+    "name": "FUCLO SUSP. BUV 250MG 5ML 100ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "FLUCLOXACILLINE",
+    "category": "R",
+    "price": 3848,
+    "regime": "CMU"
+  },
+  {
+    "code": "11140825",
+    "name": "GBACTIN CPR. 500MG 24",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "THIAMPHENICOL",
+    "category": "R",
+    "price": 4806,
+    "regime": "CMU"
+  },
+  {
+    "code": "121010891",
+    "name": "GENCLAV PDRE P SUSP BUV SACHET DOSE 1G/ 125MG B/16",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 6890,
+    "regime": "CMU"
+  },
+  {
+    "code": "151010203",
+    "name": "IMOX 500 GEL /20",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 1960,
+    "regime": "CMU"
+  },
+  {
+    "code": "61010890",
+    "name": "IMUCLAV-1125 1000MG/125MG CPR",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 6200,
+    "regime": "CMU"
+  },
+  {
+    "code": "40010242",
+    "name": "JOYCLAV PD S/BU 250/ 31.3MG 60ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 3876,
+    "regime": "CMU"
+  },
+  {
+    "code": "10010242",
+    "name": "KLACIN PDR/SUS ENF 312MG 5ML 100ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 5385,
+    "regime": "CMU"
+  },
+  {
+    "code": "40010303",
+    "name": "LYAMOX 250MG PDRE SUSP BUV F/6",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 915,
+    "regime": "CMU"
+  },
+  {
+    "code": "121010203",
+    "name": "LYAMOX 500MG CP 10",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 510,
+    "regime": "CMU"
+  },
+  {
+    "code": "11010259",
+    "name": "MAXICLAV PD/SUSP SACH 562MG ENF 16",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 4810,
+    "regime": "CMU"
+  },
+  {
+    "code": "31010258",
+    "name": "MEDICLAV C.PEL 500MG/ 62.5MG 12",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 3323,
+    "regime": "CMU"
+  },
+  {
+    "code": "20010860",
+    "name": "MEDICLAV PD SU 100MG/ 12.5MG 60ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 3109,
+    "regime": "CMU"
+  },
+  {
+    "code": "21010891",
+    "name": "MEDICLAV SACH.1G/ 125MG 12",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 6104,
+    "regime": "CMU"
+  },
+  {
+    "code": "51010259",
+    "name": "MEDICLAV SACH.500MG/ 62.5MG 12",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 3863,
+    "regime": "CMU"
+  },
+  {
+    "code": "101010203",
+    "name": "MEDOMOX GELULE 500MG 10",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 630,
+    "regime": "CMU"
+  },
+  {
+    "code": "11013006",
+    "name": "OXACILLINE UBI GELULE 500MG 10",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "OXACILLINE",
+    "category": "R",
+    "price": 3160,
+    "regime": "CMU"
+  },
+  {
+    "code": "20013106",
+    "name": "OXACILLINE UBI PDR/SIROP 250MG 5ML 60ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "OXACILLINE",
+    "category": "R",
+    "price": 1504,
+    "regime": "CMU"
+  },
+  {
+    "code": "41013006",
+    "name": "OXAGRAM GELULE 500MG 24",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "OXACILLINE",
+    "category": "R",
+    "price": 4212,
+    "regime": "CMU"
+  },
+  {
+    "code": "31013006",
+    "name": "OXAPEN GELULE 500MG 12",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "OXACILLINE",
+    "category": "R",
+    "price": 4094,
+    "regime": "CMU"
+  },
+  {
+    "code": "30013106",
+    "name": "OXAPEN PDR/SIROP 250MG 5ML 60ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "OXACILLINE",
+    "category": "R",
+    "price": 2121,
+    "regime": "CMU"
+  },
+  {
+    "code": "20013150",
+    "name": "OXICLAR PDR/SUS.BUV 125MG 5ML 100ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "FLUCLOXACILLINE",
+    "category": "R",
+    "price": 2925,
+    "regime": "CMU"
+  },
+  {
+    "code": "60013151",
+    "name": "OXICLAR PDR/SUS.BUV 250MG 5ML 100ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "FLUCLOXACILLINE",
+    "category": "R",
+    "price": 3512,
+    "regime": "CMU"
+  },
+  {
+    "code": "30013150",
+    "name": "PENISTAPH PD P/SUS.BUV 125MG 5ML 100ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "FLUCLOXACILLINE",
+    "category": "R",
+    "price": 2301,
+    "regime": "CMU"
+  },
+  {
+    "code": "70013151",
+    "name": "PENISTAPH PD P/SUS.BUV 250MG 5ML 60ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "FLUCLOXACILLINE",
+    "category": "R",
+    "price": 2400,
+    "regime": "CMU"
+  },
+  {
+    "code": "21013006",
+    "name": "PHARPEN GELULE 500MG 12",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "OXACILLINE",
+    "category": "R",
+    "price": 2832,
+    "regime": "CMU"
+  },
+  {
+    "code": "10013106",
+    "name": "PHARPEN PD P/SUS.BUV 250MG 5ML 60ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "OXACILLINE",
+    "category": "R",
+    "price": 1732,
+    "regime": "CMU"
+  },
+  {
+    "code": "10010860",
+    "name": "PHIMOCLAV P/S B.SA100/ 12.5MG ENF 30ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 2093,
+    "regime": "CMU"
+  },
+  {
+    "code": "70010860",
+    "name": "PHIMOCLAV P/S B.SA100/ 12.5MG ENF 60ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 3092,
+    "regime": "CMU"
+  },
+  {
+    "code": "141010203",
+    "name": "POLYMOXYL GELULE 500MG 20",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 2034,
+    "regime": "CMU"
+  },
+  {
+    "code": "51010890",
+    "name": "RAPICLAV 1000MG/125MG CPR PELL",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 6685,
+    "regime": "CMU"
+  },
+  {
+    "code": "21010258",
+    "name": "RAPICLAV 500MG CPR/16",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 3152,
+    "regime": "CMU"
+  },
+  {
+    "code": "41010891",
+    "name": "SAPHIR SACH.ADL 1G/ 125MG 12",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 6972,
+    "regime": "CMU"
+  },
+  {
+    "code": "51010891",
+    "name": "SAPHIR SACH.ADL 1G/ 125MG 16",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 6911,
+    "regime": "CMU"
+  },
+  {
+    "code": "80013151",
+    "name": "STAPHYPEN GELULE 500MG 20",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "FLUCLOXACILLINE",
+    "category": "R",
+    "price": 3446,
+    "regime": "CMU"
+  },
+  {
+    "code": "21140825",
+    "name": "SULFOBACTIN CPR. 500MG 20",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "THIAMPHENICOL",
+    "category": "R",
+    "price": 6773,
+    "regime": "CMU"
+  },
+  {
+    "code": "11010258",
+    "name": "THEOCLAV CPR. 500MG/ 62.5MG 20",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 4782,
+    "regime": "CMU"
+  },
+  {
+    "code": "90010860",
+    "name": "THEOCLAV PDR/SUS.BUV 100MG 100ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 2917,
+    "regime": "CMU"
+  },
+  {
+    "code": "80010860",
+    "name": "THEOCLAV 100MG/12,5MG SUSP BUV",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 2600,
+    "regime": "CMU"
+  },
+  {
+    "code": "41010890",
+    "name": "THEOCLAV 1000MG/125MG CPR B/20",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 5485,
+    "regime": "CMU"
+  },
+  {
+    "code": "30010303",
+    "name": "THEOMOX 250MG SUSP BUV F/100ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 1155,
+    "regime": "CMU"
+  },
+  {
+    "code": "131010203",
+    "name": "THEOMOX 500 /20",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE",
+    "category": "R",
+    "price": 1460,
+    "regime": "CMU"
+  },
+  {
+    "code": "31140825",
+    "name": "THIOBACTIN T.A. CPR. 500MG 24",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "THIAMPHENICOL",
+    "category": "R",
+    "price": 9456,
+    "regime": "CMU"
+  },
+  {
+    "code": "10014882",
+    "name": "THIOBACTIN T.A. GRAN/SUS.BUV 250MG 5ML 60ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "THIAMPHENICOL",
+    "category": "R",
+    "price": 4199,
+    "regime": "CMU"
+  },
+  {
+    "code": "31010890",
+    "name": "TRACLAV 1000MG/125MG CPR PELL",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 6215,
+    "regime": "CMU"
+  },
+  {
+    "code": "21010890",
+    "name": "VERICLAV 1000MG/125MG CPR PELL",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 5510,
+    "regime": "CMU"
+  },
+  {
+    "code": "101010891",
+    "name": "ZAMOX PD/SUSP SACH 1125MG 12",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 5259,
+    "regime": "CMU"
+  },
+  {
+    "code": "11010891",
+    "name": "ZAMOX PD/SUSP SACH 1125MG 16",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 6359,
+    "regime": "CMU"
+  },
+  {
+    "code": "21010259",
+    "name": "ZAMOX PD/SUSP SACH 562MG 12",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 3687,
+    "regime": "CMU"
+  },
+  {
+    "code": "30010242",
+    "name": "ZICLAV P.SBV 250MG/ 31.3MG 60ML",
+    "group": "ANTIBIOTIQUE, PENICILLINE",
+    "dci": "AMOXICILLINE + ACIDE CLAVULANIQUE",
+    "category": "R",
+    "price": 3845,
+    "regime": "CMU"
+  },
+  {
+    "code": "20014363",
+    "name": "AFLACIN COLLYRE 3% 5ML",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "OFLOXACINE",
+    "category": "R",
+    "price": 1971,
+    "regime": "CMU"
+  },
+  {
+    "code": "51014751",
+    "name": "ALBACT CPR. 200MG 10",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "OFLOXACINE",
+    "category": "R",
+    "price": 2967,
+    "regime": "CMU"
+  },
+  {
+    "code": "11014805",
+    "name": "ALEVO CPR. 500MG 5",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "LEVOFLOXACINE",
+    "category": "R",
+    "price": 3554,
+    "regime": "CMU"
+  },
+  {
+    "code": "41014751",
+    "name": "ASMOFLOX CPR. 200MG 20",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "OFLOXACINE",
+    "category": "R",
+    "price": 4119,
+    "regime": "CMU"
+  },
+  {
+    "code": "11014843",
+    "name": "BONCIPRO CPR. PELLICU 500MG 10",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "CIPROFLOXACINE",
+    "category": "R",
+    "price": 2214,
+    "regime": "CMU"
+  },
+  {
+    "code": "21014447",
+    "name": "BONCIPRO CPR. PELLICU 750MG 20",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "CIPROFLOXACINE",
+    "category": "R",
+    "price": 7075,
+    "regime": "CMU"
+  },
+  {
+    "code": "20014875",
+    "name": "BONCIPRO GTTES 3% 5ML",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "CIPROFLOXACINE",
+    "category": "R",
+    "price": 2101,
+    "regime": "CMU"
+  },
+  {
+    "code": "21014843",
+    "name": "CACIP CPR. 500MG 10",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "CIPROFLOXACINE",
+    "category": "R",
+    "price": 1969,
+    "regime": "CMU"
+  },
+  {
+    "code": "11014454",
+    "name": "CIPRIN CPR. 250MG 10",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "CIPROFLOXACINE",
+    "category": "R",
+    "price": 1800,
+    "regime": "CMU"
+  },
+  {
+    "code": "30014875",
+    "name": "CIPRO COLLYRE .3% 5ML",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "CIPROFLOXACINE",
+    "category": "R",
+    "price": 2907,
+    "regime": "CMU"
+  },
+  {
+    "code": "11014447",
+    "name": "CIPROFLOXACINE UBI CPR. PELLICU 750MG",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "CIPROFLOXACINE",
+    "category": "R",
+    "price": 1173,
+    "regime": "CMU"
+  },
+  {
+    "code": "21014454",
+    "name": "CIPRONAT CPR. 250MG 14",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "CIPROFLOXACINE",
+    "category": "R",
+    "price": 1667,
+    "regime": "CMU"
+  },
+  {
+    "code": "31014843",
+    "name": "CIPRONAT CPR. 500MG 14",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "CIPROFLOXACINE",
+    "category": "R",
+    "price": 1964,
+    "regime": "CMU"
+  },
+  {
+    "code": "31014447",
+    "name": "CIPRONAT CPR. 750MG 14",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "CIPROFLOXACINE",
+    "category": "R",
+    "price": 3890,
+    "regime": "CMU"
+  },
+  {
+    "code": "10016510",
+    "name": "FLOXSOL COLLYRE .3% 5ML",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "NORFLOXACINE",
+    "category": "R",
+    "price": 1111,
+    "regime": "CMU"
+  },
+  {
+    "code": "31014751",
+    "name": "KETAFLOX CPR PEL SEC 200MG 10",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "OFLOXACINE",
+    "category": "R",
+    "price": 2736,
+    "regime": "CMU"
+  },
+  {
+    "code": "21014805",
+    "name": "LEVO DENK CP PELL 500 MG B/10",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "LEVOFLOXACINE",
+    "category": "R",
+    "price": 6920,
+    "regime": "CMU"
+  },
+  {
+    "code": "31014805",
+    "name": "LEVOAS CPR. 500MG 10",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "LEVOFLOXACINE",
+    "category": "R",
+    "price": 7550,
+    "regime": "CMU"
+  },
+  {
+    "code": "41014805",
+    "name": "LEVOBACT CPR. 500MG 10",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "LEVOFLOXACINE",
+    "category": "R",
+    "price": 8414,
+    "regime": "CMU"
+  },
+  {
+    "code": "11014812",
+    "name": "LEVO-DENK CPR.PELLICU 250MG 10",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "LEVOFLOXACINE",
+    "category": "R",
+    "price": 4339,
+    "regime": "CMU"
+  },
+  {
+    "code": "21014812",
+    "name": "LEVOMAC 250MG CPR B/5",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "LEVOFLOXACINE",
+    "category": "R",
+    "price": 3680,
+    "regime": "CMU"
+  },
+  {
+    "code": "51014805",
+    "name": "LEVORAY CPR. 500MG 5",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "LEVOFLOXACINE",
+    "category": "R",
+    "price": 3426,
+    "regime": "CMU"
+  },
+  {
+    "code": "41014843",
+    "name": "MICROFLOX CPR. PELLICU 500MG 10",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "CIPROFLOXACINE",
+    "category": "R",
+    "price": 2126,
+    "regime": "CMU"
+  },
+  {
+    "code": "40014875",
+    "name": "NOVAFLOX COLLYRE .3% 5ML",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "CIPROFLOXACINE",
+    "category": "R",
+    "price": 3021,
+    "regime": "CMU"
+  },
+  {
+    "code": "20014264",
+    "name": "OFLOCET SOL.AUR.UNDO 1.5MG 20 .5ML",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "OFLOXACINE",
+    "category": "R",
+    "price": 5980,
+    "regime": "CMU"
+  },
+  {
+    "code": "21014751",
+    "name": "OFLOMAC CPR. PELLICU 200MG 10",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "OFLOXACINE",
+    "category": "R",
+    "price": 2946,
+    "regime": "CMU"
+  },
+  {
+    "code": "10014264",
+    "name": "OFLOMED SOL AURIC 1.5MG 20 .5ML",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "OFLOXACINE",
+    "category": "R",
+    "price": 4220,
+    "regime": "CMU"
+  },
+  {
+    "code": "11014751",
+    "name": "OFLOXACINE TM CPR. 200MG 10",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "OFLOXACINE",
+    "category": "R",
+    "price": 2738,
+    "regime": "CMU"
+  },
+  {
+    "code": "61014751",
+    "name": "OFLOXYL CPR. PELLICU 200MG B10",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "OFLOXACINE",
+    "category": "R",
+    "price": 2930,
+    "regime": "CMU"
+  },
+  {
+    "code": "10014875",
+    "name": "OPTICIN COLLYRE .3% 5ML",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "CIPROFLOXACINE",
+    "category": "R",
+    "price": 2779,
+    "regime": "CMU"
+  },
+  {
+    "code": "10014363",
+    "name": "OPTIFLOX COLLYRE 5ML",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "OFLOXACINE",
+    "category": "R",
+    "price": 2511,
+    "regime": "CMU"
+  },
+  {
+    "code": "61014805",
+    "name": "REMEDIA CPR. PELLICU 500MG 10",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "LEVOFLOXACINE",
+    "category": "R",
+    "price": 8384,
+    "regime": "CMU"
+  },
+  {
+    "code": "71014805",
+    "name": "VIKLEVO CPR. 500MG 10",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "LEVOFLOXACINE",
+    "category": "R",
+    "price": 8538,
+    "regime": "CMU"
+  },
+  {
+    "code": "81014805",
+    "name": "ZOLINE CPR.PELLICU 500MG 10",
+    "group": "ANTIBIOTIQUE, QUINOLONE",
+    "dci": "LEVOFLOXACINE",
+    "category": "R",
+    "price": 7129,
+    "regime": "CMU"
+  },
+  {
+    "code": "10015889",
+    "name": "ALFATIL PD P/SUS.BUV 125MG 5ML 60ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFACLOR",
+    "category": "R",
+    "price": 2500,
+    "regime": "CMU"
+  },
+  {
+    "code": "10015872",
+    "name": "BACTIGRAM 250MG/5ML SUSP BUV F",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFACLOR",
+    "category": "R",
+    "price": 6860,
+    "regime": "CMU"
+  },
+  {
+    "code": "90015964",
+    "name": "BACTOXIME DS PDR/SUS.BUV 100MG 5ML 60ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 4396,
+    "regime": "CMU"
+  },
+  {
+    "code": "111010920",
+    "name": "BACTOXIME DT CPR. DISPERS 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 4660,
+    "regime": "CMU"
+  },
+  {
+    "code": "121010920",
+    "name": "BEKRACINE CPR. DISPERS 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 5118,
+    "regime": "CMU"
+  },
+  {
+    "code": "80015964",
+    "name": "BEKRACINE PD P/SUS.BUV 100MG 5ML 60ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 4761,
+    "regime": "CMU"
+  },
+  {
+    "code": "30011195",
+    "name": "BIODROXIL GR.P/SUS.BUV 250MG 5ML 60ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFADROXIL",
+    "category": "R",
+    "price": 3284,
+    "regime": "CMU"
+  },
+  {
+    "code": "11010937",
+    "name": "BROCEF GELULE 500MG 12",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFRADINE",
+    "category": "R",
+    "price": 3237,
+    "regime": "CMU"
+  },
+  {
+    "code": "131010920",
+    "name": "BRUFIX CPR. PELLICU 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 3700,
+    "regime": "CMU"
+  },
+  {
+    "code": "20011195",
+    "name": "CEDROX PDR PR SYR 250MG 5ML 60ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFADROXIL",
+    "category": "R",
+    "price": 3136,
+    "regime": "CMU"
+  },
+  {
+    "code": "11011217",
+    "name": "CEDROX 500MG GEL B/12",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFADROXIL",
+    "category": "R",
+    "price": 4765,
+    "regime": "CMU"
+  },
+  {
+    "code": "141010920",
+    "name": "CEFALORAL CPR. PELLICU 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 3945,
+    "regime": "CMU"
+  },
+  {
+    "code": "10016008",
+    "name": "CEFALORAL PDR/SUS.BUV 40MG 5ML 40ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 2823,
+    "regime": "CMU"
+  },
+  {
+    "code": "21015826",
+    "name": "CEFAMOR CPR. 500MG 20",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFALEXINE",
+    "category": "R",
+    "price": 4087,
+    "regime": "CMU"
+  },
+  {
+    "code": "20015841",
+    "name": "CEFAMOR PDR/SUS.BUV 125MG 5ML 100ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFALEXINE",
+    "category": "R",
+    "price": 1812,
+    "regime": "CMU"
+  },
+  {
+    "code": "70015964",
+    "name": "CEFEXOL SUSP. BUV 100MG 5ML 30ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 2204,
+    "regime": "CMU"
+  },
+  {
+    "code": "100015964",
+    "name": "CEFICAP SUSP. 100MG 5ML 50ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 4864,
+    "regime": "CMU"
+  },
+  {
+    "code": "151010920",
+    "name": "CEFIM GELULE 200MG 12",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 5090,
+    "regime": "CMU"
+  },
+  {
+    "code": "161010920",
+    "name": "CEFISON CPR. DISPERS 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 5903,
+    "regime": "CMU"
+  },
+  {
+    "code": "171010920",
+    "name": "CEFIX CPR. PELLICU 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 5000,
+    "regime": "CMU"
+  },
+  {
+    "code": "181010920",
+    "name": "CEFIXIME BGR CPR. 200MG 8",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 4008,
+    "regime": "CMU"
+  },
+  {
+    "code": "191010920",
+    "name": "CEFIXIME GH CPR. 200MG 8",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 3492,
+    "regime": "CMU"
+  },
+  {
+    "code": "201010920",
+    "name": "CEFIXIME TDS CPR. PELLICU 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 5291,
+    "regime": "CMU"
+  },
+  {
+    "code": "60015964",
+    "name": "CEFIXIME TDS PDR/SUS.BUV 100MG 5ML 60ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 5328,
+    "regime": "CMU"
+  },
+  {
+    "code": "51015970",
+    "name": "CEFIZ CPR. 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFPODOXIME",
+    "category": "R",
+    "price": 5602,
+    "regime": "CMU"
+  },
+  {
+    "code": "211010920",
+    "name": "CEFOLAC CPR. PELLICU 200MG 8",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 3952,
+    "regime": "CMU"
+  },
+  {
+    "code": "11015970",
+    "name": "CEPODEM CPR. PELLICU 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFPODOXIME",
+    "category": "R",
+    "price": 8185,
+    "regime": "CMU"
+  },
+  {
+    "code": "221010920",
+    "name": "CIELCEF CPR. 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 4232,
+    "regime": "CMU"
+  },
+  {
+    "code": "50015964",
+    "name": "CIELCEF SYROP 100MG 5ML 60ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 4208,
+    "regime": "CMU"
+  },
+  {
+    "code": "10011195",
+    "name": "FEDROX PDR/SUS.BUV 250MG 5ML 60ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFADROXIL",
+    "category": "R",
+    "price": 3136,
+    "regime": "CMU"
+  },
+  {
+    "code": "231010920",
+    "name": "FIXEF CPR. 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 4754,
+    "regime": "CMU"
+  },
+  {
+    "code": "11010920",
+    "name": "FIXINECT CPR. PELLICU 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 3974,
+    "regime": "CMU"
+  },
+  {
+    "code": "21010920",
+    "name": "FIXXE CPR. DISPERS 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 5559,
+    "regime": "CMU"
+  },
+  {
+    "code": "40015964",
+    "name": "FIXXE PDR S.BUV 100MG 5ML 60ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 4531,
+    "regime": "CMU"
+  },
+  {
+    "code": "31010920",
+    "name": "GRAMOCEF CPR. 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 5048,
+    "regime": "CMU"
+  },
+  {
+    "code": "41010920",
+    "name": "INTERCEF CPR.PELLICU 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 3632,
+    "regime": "CMU"
+  },
+  {
+    "code": "30015964",
+    "name": "INTERCEF PDR SOL BUV 100MG 1ML 30ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 1607,
+    "regime": "CMU"
+  },
+  {
+    "code": "10011560",
+    "name": "KEFROX PDR/SUS.BUV 125MG 5ML 50ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFUROXIME",
+    "category": "R",
+    "price": 3028,
+    "regime": "CMU"
+  },
+  {
+    "code": "30016008",
+    "name": "MEGACEF PDR/SUS.BUV 40MG 5ML 60ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 3602,
+    "regime": "CMU"
+  },
+  {
+    "code": "20016008",
+    "name": "MEXIME PDRE P SUSP BUV 40MG/5ML FL/60ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 2838,
+    "regime": "CMU"
+  },
+  {
+    "code": "51010920",
+    "name": "OFIKEN CPR. PELLICU 200MG 16",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 8765,
+    "regime": "CMU"
+  },
+  {
+    "code": "40015988",
+    "name": "ORELOX GR/SU.BUV EN 8MG 1ML 50ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFPODOXIME",
+    "category": "R",
+    "price": 5926,
+    "regime": "CMU"
+  },
+  {
+    "code": "11015826",
+    "name": "OREX GELULE 500MG 12",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFALEXINE",
+    "category": "R",
+    "price": 4021,
+    "regime": "CMU"
+  },
+  {
+    "code": "10015841",
+    "name": "OREX PDR/SUS.BUV 125MG 5ML 60ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFALEXINE",
+    "category": "R",
+    "price": 1586,
+    "regime": "CMU"
+  },
+  {
+    "code": "10015834",
+    "name": "OREX PDR/SUS.BUV 250MG 5ML 60ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFALEXINE",
+    "category": "R",
+    "price": 3080,
+    "regime": "CMU"
+  },
+  {
+    "code": "21015970",
+    "name": "PUDOX CPR.PELLICU 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFPODOXIME",
+    "category": "R",
+    "price": 5717,
+    "regime": "CMU"
+  },
+  {
+    "code": "30015988",
+    "name": "PUDOX PD P/SUS.BUV 40MG 5ML 60ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFPODOXIME",
+    "category": "R",
+    "price": 4270,
+    "regime": "CMU"
+  },
+  {
+    "code": "20015988",
+    "name": "PUDOX PD P/SUS.BUV 40MG 5ML 60ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFPODOXIME",
+    "category": "R",
+    "price": 4270,
+    "regime": "CMU"
+  },
+  {
+    "code": "21011507",
+    "name": "RUFEX 500MG CPR PELL B/10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFUROXIME",
+    "category": "R",
+    "price": 5660,
+    "regime": "CMU"
+  },
+  {
+    "code": "11011507",
+    "name": "SEFUROX 500MG CPR B/10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFUROXIME",
+    "category": "R",
+    "price": 7355,
+    "regime": "CMU"
+  },
+  {
+    "code": "61010920",
+    "name": "SOLEXIM CPR. PELLICU 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 4500,
+    "regime": "CMU"
+  },
+  {
+    "code": "71010920",
+    "name": "SUFIX CPR. PELLICU 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 5032,
+    "regime": "CMU"
+  },
+  {
+    "code": "20015964",
+    "name": "SUFIX SUSP. 100MG 5ML 100ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 5080,
+    "regime": "CMU"
+  },
+  {
+    "code": "31015970",
+    "name": "SWICH CPR. PELLICU 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFPODOXIME",
+    "category": "R",
+    "price": 7989,
+    "regime": "CMU"
+  },
+  {
+    "code": "81010920",
+    "name": "THEOFIX CPR. 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 4011,
+    "regime": "CMU"
+  },
+  {
+    "code": "91010920",
+    "name": "TOCFIM CPR. DISPERS 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 3456,
+    "regime": "CMU"
+  },
+  {
+    "code": "10015964",
+    "name": "TOCFIM PDR/SUS.BUV 100MG 5ML 60ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 3400,
+    "regime": "CMU"
+  },
+  {
+    "code": "101010920",
+    "name": "UMEXIM CAPS 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFIXIME",
+    "category": "R",
+    "price": 5285,
+    "regime": "CMU"
+  },
+  {
+    "code": "41015970",
+    "name": "ZEPOTIL CPR. PELLICU 200MG 10",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFPODOXIME",
+    "category": "R",
+    "price": 5514,
+    "regime": "CMU"
+  },
+  {
+    "code": "10015988",
+    "name": "ZEPOTIL PDR/SUS.BUV 50MG 5ML 60ML",
+    "group": "ANTIBIOTIQUES, CEPHALOSPORINE",
+    "dci": "CEFPODOXIME",
+    "category": "R",
+    "price": 5478,
+    "regime": "CMU"
+  },
+  {
+    "code": "180015056",
+    "name": "CANAFLUCAN GELULE 150MG",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 2510,
+    "regime": "CMU"
+  },
+  {
+    "code": "140015056",
+    "name": "CANDI CPR. 150MG 4",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 3176,
+    "regime": "CMU"
+  },
+  {
+    "code": "41014522",
+    "name": "CONASEC CREME 15G",
+    "group": "ANTIFONGIQUES",
+    "dci": "KETOCONAZOLE",
+    "category": "R",
+    "price": 1240,
+    "regime": "CMU"
+  },
+  {
+    "code": "130015056",
+    "name": "DIFLUZOL GELULE 150MG",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 2165,
+    "regime": "CMU"
+  },
+  {
+    "code": "120015056",
+    "name": "DIFLUZOL GELULE 150MG 2",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 3846,
+    "regime": "CMU"
+  },
+  {
+    "code": "110015056",
+    "name": "DIFLUZOL GELULE 150MG 4",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 7349,
+    "regime": "CMU"
+  },
+  {
+    "code": "20015056",
+    "name": "DURACAN CAPS 150MG",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 3479,
+    "regime": "CMU"
+  },
+  {
+    "code": "20014516",
+    "name": "ECONAZOLE EGN CREME DERM 1% 30G",
+    "group": "ANTIFONGIQUES",
+    "dci": "ECONAZOLE",
+    "category": "R",
+    "price": 1954,
+    "regime": "CMU"
+  },
+  {
+    "code": "41014508",
+    "name": "ECOREX OVULE 150MG 3",
+    "group": "ANTIFONGIQUES",
+    "dci": "ECONAZOLE",
+    "category": "R",
+    "price": 3527,
+    "regime": "CMU"
+  },
+  {
+    "code": "11014508",
+    "name": "ECOZOLE OVULE 150MG 3",
+    "group": "ANTIFONGIQUES",
+    "dci": "ECONAZOLE",
+    "category": "R",
+    "price": 2791,
+    "regime": "CMU"
+  },
+  {
+    "code": "90015056",
+    "name": "FLUCAP GELULE 150MG",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 3165,
+    "regime": "CMU"
+  },
+  {
+    "code": "20014561",
+    "name": "FLUCAZOL PDR/SUS.BUV 50MG 5ML 60ML",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 2595,
+    "regime": "CMU"
+  },
+  {
+    "code": "80015056",
+    "name": "FLUCOMYC CPR. 150MG",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 400,
+    "regime": "CMU"
+  },
+  {
+    "code": "70015056",
+    "name": "FLUCONA DENK 150MG CAPS",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 1515,
+    "regime": "CMU"
+  },
+  {
+    "code": "10014561",
+    "name": "FLUGEN PD P/SUS.BUV 50MG 5ML 60ML",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 2081,
+    "regime": "CMU"
+  },
+  {
+    "code": "60015056",
+    "name": "FLUZON CPR. 150MG 2",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 3060,
+    "regime": "CMU"
+  },
+  {
+    "code": "10014516",
+    "name": "FONGICIL CREME 1% 30G",
+    "group": "ANTIFONGIQUES",
+    "dci": "ECONAZOLE",
+    "category": "R",
+    "price": 1767,
+    "regime": "CMU"
+  },
+  {
+    "code": "31014508",
+    "name": "FONGICIL OVULE 150MG 3",
+    "group": "ANTIFONGIQUES",
+    "dci": "ECONAZOLE",
+    "category": "R",
+    "price": 2742,
+    "regime": "CMU"
+  },
+  {
+    "code": "40014516",
+    "name": "FUNGILYSE CREME 1% 25G",
+    "group": "ANTIFONGIQUES",
+    "dci": "ECONAZOLE",
+    "category": "R",
+    "price": 2021,
+    "regime": "CMU"
+  },
+  {
+    "code": "11014911",
+    "name": "GRISEO POM.MICRONIS 5% 15G",
+    "group": "ANTIFONGIQUES",
+    "dci": "GRISEOFULVINE",
+    "category": "R",
+    "price": 1061,
+    "regime": "CMU"
+  },
+  {
+    "code": "21014911",
+    "name": "GRISEO SALICYLEE POM.MICRONIS 5% 15G",
+    "group": "ANTIFONGIQUES",
+    "dci": "GRISEOFULVINE",
+    "category": "R",
+    "price": 1166,
+    "regime": "CMU"
+  },
+  {
+    "code": "41014904",
+    "name": "GRISEOFULVINE CPR. 250MG PQ/10",
+    "group": "ANTIFONGIQUES",
+    "dci": "GRISEOFULVINE",
+    "category": "R",
+    "price": 700,
+    "regime": "CMU"
+  },
+  {
+    "code": "21014904",
+    "name": "GRISEOFULVINE CRE CPR. 250MG PQ10",
+    "group": "ANTIFONGIQUES",
+    "dci": "GRISEOFULVINE",
+    "category": "R",
+    "price": 730,
+    "regime": "CMU"
+  },
+  {
+    "code": "31014904",
+    "name": "GRISEOFULVINE CRE CPR. 500MG B20",
+    "group": "ANTIFONGIQUES",
+    "dci": "GRISEOFULVINE",
+    "category": "R",
+    "price": 3575,
+    "regime": "CMU"
+  },
+  {
+    "code": "11014903",
+    "name": "GRISEOPHARM CPR. 125MG 32",
+    "group": "ANTIFONGIQUES",
+    "dci": "GRISEOFULVINE",
+    "category": "R",
+    "price": 1098,
+    "regime": "CMU"
+  },
+  {
+    "code": "51014904",
+    "name": "GRISEOPHARM CPR. 250MG 30",
+    "group": "ANTIFONGIQUES",
+    "dci": "GRISEOFULVINE",
+    "category": "R",
+    "price": 2058,
+    "regime": "CMU"
+  },
+  {
+    "code": "11014904",
+    "name": "GRISEOPHARM CPR. 500MG 20",
+    "group": "ANTIFONGIQUES",
+    "dci": "GRISEOFULVINE",
+    "category": "R",
+    "price": 2221,
+    "regime": "CMU"
+  },
+  {
+    "code": "11014669",
+    "name": "GYNO-MYCOLEX OVULE 400MG 3",
+    "group": "ANTIFONGIQUES",
+    "dci": "MICONAZOLE",
+    "category": "R",
+    "price": 3410,
+    "regime": "CMU"
+  },
+  {
+    "code": "51014522",
+    "name": "KEOZOL CREME TB 2% 30G",
+    "group": "ANTIFONGIQUES",
+    "dci": "KETOCONAZOLE",
+    "category": "R",
+    "price": 1385,
+    "regime": "CMU"
+  },
+  {
+    "code": "31014522",
+    "name": "KETOCON CREME 2% 15G",
+    "group": "ANTIFONGIQUES",
+    "dci": "KETOCONAZOLE",
+    "category": "R",
+    "price": 1053,
+    "regime": "CMU"
+  },
+  {
+    "code": "21014591",
+    "name": "KNZ CPR. 200MG 10",
+    "group": "ANTIFONGIQUES",
+    "dci": "KETOCONAZOLE",
+    "category": "R",
+    "price": 2692,
+    "regime": "CMU"
+  },
+  {
+    "code": "10014646",
+    "name": "MICAZOLE GEL ORAL 2% 20G",
+    "group": "ANTIFONGIQUES",
+    "dci": "MICONAZOLE",
+    "category": "R",
+    "price": 1475,
+    "regime": "CMU"
+  },
+  {
+    "code": "21014522",
+    "name": "MICOZAL CREME 2% 15G",
+    "group": "ANTIFONGIQUES",
+    "dci": "KETOCONAZOLE",
+    "category": "R",
+    "price": 1779,
+    "regime": "CMU"
+  },
+  {
+    "code": "20014639",
+    "name": "MIZOLE CREME 2% 15G",
+    "group": "ANTIFONGIQUES",
+    "dci": "MICONAZOLE",
+    "category": "R",
+    "price": 1838,
+    "regime": "CMU"
+  },
+  {
+    "code": "50015056",
+    "name": "MUKESTAT CPR. 150MG 4",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 2864,
+    "regime": "CMU"
+  },
+  {
+    "code": "40015056",
+    "name": "MYCOFLU GELULE 150MG 4",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 4440,
+    "regime": "CMU"
+  },
+  {
+    "code": "10014639",
+    "name": "MYCOLEX CREME 2% 20G",
+    "group": "ANTIFONGIQUES",
+    "dci": "MICONAZOLE",
+    "category": "R",
+    "price": 1175,
+    "regime": "CMU"
+  },
+  {
+    "code": "10014653",
+    "name": "MYCOSTER CREME DERM 1% 30G",
+    "group": "ANTIFONGIQUES",
+    "dci": "CICLOPIROXOLAMINE",
+    "category": "R",
+    "price": 4055,
+    "regime": "CMU"
+  },
+  {
+    "code": "11014522",
+    "name": "NIZODERM CREME 2% 15G",
+    "group": "ANTIFONGIQUES",
+    "dci": "KETOCONAZOLE",
+    "category": "R",
+    "price": 1602,
+    "regime": "CMU"
+  },
+  {
+    "code": "30015056",
+    "name": "NOMYC GELULE 150MG 2",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 4850,
+    "regime": "CMU"
+  },
+  {
+    "code": "100015056",
+    "name": "NOMYC GELULE 150MG 4",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 8265,
+    "regime": "CMU"
+  },
+  {
+    "code": "10015056",
+    "name": "NOMYC GELULE 150MG 7",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 6916,
+    "regime": "CMU"
+  },
+  {
+    "code": "30014516",
+    "name": "PEVAGINE CREME 1% 30G",
+    "group": "ANTIFONGIQUES",
+    "dci": "ECONAZOLE",
+    "category": "R",
+    "price": 2212,
+    "regime": "CMU"
+  },
+  {
+    "code": "21014508",
+    "name": "PEVAGINE OVULE 150MG 3",
+    "group": "ANTIFONGIQUES",
+    "dci": "ECONAZOLE",
+    "category": "R",
+    "price": 2687,
+    "regime": "CMU"
+  },
+  {
+    "code": "11014591",
+    "name": "PHYTORAL CPR. 200MG 10",
+    "group": "ANTIFONGIQUES",
+    "dci": "KETOCONAZOLE",
+    "category": "R",
+    "price": 3272,
+    "regime": "CMU"
+  },
+  {
+    "code": "170015056",
+    "name": "RUBIX GELULE 150MG",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 1135,
+    "regime": "CMU"
+  },
+  {
+    "code": "150015056",
+    "name": "RUBIX GELULE 150MG 2",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 2275,
+    "regime": "CMU"
+  },
+  {
+    "code": "10014325",
+    "name": "TERBIGEN CREME 1% 15G",
+    "group": "ANTIFONGIQUES",
+    "dci": "TERBINAFINE",
+    "category": "R",
+    "price": 1835,
+    "regime": "CMU"
+  },
+  {
+    "code": "20014325",
+    "name": "TERBOSIL CREME 15G",
+    "group": "ANTIFONGIQUES",
+    "dci": "TERBINAFINE",
+    "category": "R",
+    "price": 2473,
+    "regime": "CMU"
+  },
+  {
+    "code": "160015056",
+    "name": "T-FLUZOLE CPR. 150MG",
+    "group": "ANTIFONGIQUES",
+    "dci": "FLUCONAZOLE",
+    "category": "R",
+    "price": 1702,
+    "regime": "CMU"
+  },
+  {
+    "code": "20330982",
+    "name": "ACYCLOVIR-DENK CREME 5% 7G",
+    "group": "ANTIHERPETIQUES",
+    "dci": "ACICLOVIR",
+    "category": "R",
+    "price": 4800,
+    "regime": "CMU"
+  },
+  {
+    "code": "21330967",
+    "name": "ALVIR CPR. DISPERS 200MG 30",
+    "group": "ANTIHERPETIQUES",
+    "dci": "ACICLOVIR",
+    "category": "R",
+    "price": 8044,
+    "regime": "CMU"
+  },
+  {
+    "code": "10330982",
+    "name": "ALVIR CREME 5% 5G",
+    "group": "ANTIHERPETIQUES",
+    "dci": "ACICLOVIR",
+    "category": "R",
+    "price": 4383,
+    "regime": "CMU"
+  },
+  {
+    "code": "11330967",
+    "name": "CICLOVIRAL CPR. 200MG 25",
+    "group": "ANTIHERPETIQUES",
+    "dci": "ACICLOVIR",
+    "category": "R",
+    "price": 5789,
+    "regime": "CMU"
+  },
+  {
+    "code": "61060703",
+    "name": "ATENOLOL DENK CP PELLICULE 50MG PQ 10",
+    "group": "ANTIHYPERTENSEUR, BÊTABLOQUANT",
+    "dci": "ATENOLOL",
+    "category": "EP",
+    "price": 950,
+    "regime": "CMU"
+  },
+  {
+    "code": "31060727",
+    "name": "BIBLOC CPR.PELLICU 5MG 30",
+    "group": "ANTIHYPERTENSEUR, BÊTABLOQUANT",
+    "dci": "BISOPROLOL",
+    "category": "EP",
+    "price": 2700,
+    "regime": "CMU"
+  },
+  {
+    "code": "31060710",
+    "name": "BISOPROLOL BGR CPR.PELL.SEC 10MG 30",
+    "group": "ANTIHYPERTENSEUR, BÊTABLOQUANT",
+    "dci": "BISOPROLOL",
+    "category": "EP",
+    "price": 4160,
+    "regime": "CMU"
+  },
+  {
+    "code": "21060727",
+    "name": "BISOPROLOL BGR CPR.PELL.SEC 5MG 30",
+    "group": "ANTIHYPERTENSEUR, BÊTABLOQUANT",
+    "dci": "BISOPROLOL",
+    "category": "EP",
+    "price": 2404,
+    "regime": "CMU"
+  },
+  {
+    "code": "41060710",
+    "name": "BISOPROLOL SANDOZ CPR. PELLICU 10MG 30",
+    "group": "ANTIHYPERTENSEUR, BÊTABLOQUANT",
+    "dci": "BISOPROLOL",
+    "category": "EP",
+    "price": 4620,
+    "regime": "CMU"
+  },
+  {
+    "code": "21060710",
+    "name": "BISOPROLOL SANDOZ CPR. PELLICU 10MG 30",
+    "group": "ANTIHYPERTENSEUR, BÊTABLOQUANT",
+    "dci": "BISOPROLOL",
+    "category": "EP",
+    "price": 4620,
+    "regime": "CMU"
+  },
+  {
+    "code": "11060727",
+    "name": "BISOPROLOL SANDOZ CPR. PELLICU 5MG 30",
+    "group": "ANTIHYPERTENSEUR, BÊTABLOQUANT",
+    "dci": "BISOPROLOL",
+    "category": "EP",
+    "price": 1922,
+    "regime": "CMU"
+  },
+  {
+    "code": "11060710",
+    "name": "BISOPROLOL-GH CPR. PELLICU 10MG 30",
+    "group": "ANTIHYPERTENSEUR, BÊTABLOQUANT",
+    "dci": "BISOPROLOL",
+    "category": "EP",
+    "price": 3269,
+    "regime": "CMU"
+  },
+  {
+    "code": "41060703",
+    "name": "BLOKIUM CPR. 50MG 30",
+    "group": "ANTIHYPERTENSEUR, BÊTABLOQUANT",
+    "dci": "ATENOLOL",
+    "category": "EP",
+    "price": 5077,
+    "regime": "CMU"
+  },
+  {
+    "code": "51060703",
+    "name": "HYPOTEN CPR. 50MG 30",
+    "group": "ANTIHYPERTENSEUR, BÊTABLOQUANT",
+    "dci": "ATENOLOL",
+    "category": "EP",
+    "price": 3389,
+    "regime": "CMU"
+  },
+  {
+    "code": "31060703",
+    "name": "NOVATEN CPR. 50MG 28",
+    "group": "ANTIHYPERTENSEUR, BÊTABLOQUANT",
+    "dci": "ATENOLOL",
+    "category": "EP",
+    "price": 4448,
+    "regime": "CMU"
+  },
+  {
+    "code": "21060703",
+    "name": "TENORMINE CPR. PELLICU 50MG 30",
+    "group": "ANTIHYPERTENSEUR, BÊTABLOQUANT",
+    "dci": "ATENOLOL",
+    "category": "EP",
+    "price": 3852,
+    "regime": "CMU"
+  },
+  {
+    "code": "11060703",
+    "name": "TENSICARD CPR. 50MG 30",
+    "group": "ANTIHYPERTENSEUR, BÊTABLOQUANT",
+    "dci": "ATENOLOL",
+    "category": "EP",
+    "price": 3342,
+    "regime": "CMU"
+  },
+  {
+    "code": "11060803",
+    "name": "AMADAY CPR. 10MG B/30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 7785,
+    "regime": "CMU"
+  },
+  {
+    "code": "61060802",
+    "name": "AMADAY CPR. 5MG 30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 5114,
+    "regime": "CMU"
+  },
+  {
+    "code": "71060802",
+    "name": "AMAPINE CPR. 5MG 30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 4698,
+    "regime": "CMU"
+  },
+  {
+    "code": "131060803",
+    "name": "AMCAN CPR. 10MG 30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 4599,
+    "regime": "CMU"
+  },
+  {
+    "code": "81060802",
+    "name": "AMCAN CPR. 5MG 30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 3739,
+    "regime": "CMU"
+  },
+  {
+    "code": "91060802",
+    "name": "AMCARD CPR. 5MG 28",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 4096,
+    "regime": "CMU"
+  },
+  {
+    "code": "121060803",
+    "name": "AMEP CPR. 10MG 28",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 5420,
+    "regime": "CMU"
+  },
+  {
+    "code": "101060802",
+    "name": "AMEP CPR. 5MG 14",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 2679,
+    "regime": "CMU"
+  },
+  {
+    "code": "111060802",
+    "name": "AMEP CPR. 5MG 28",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 4625,
+    "regime": "CMU"
+  },
+  {
+    "code": "121060802",
+    "name": "AMICAL CPR. 5MG 30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 2705,
+    "regime": "CMU"
+  },
+  {
+    "code": "131060802",
+    "name": "AMLIBON CPR. 5MG 30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 5481,
+    "regime": "CMU"
+  },
+  {
+    "code": "31060803",
+    "name": "AMLO-DENK CPR. 10MG PQ 10",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 2250,
+    "regime": "CMU"
+  },
+  {
+    "code": "41060802",
+    "name": "AMLO-DENK CPR. 5MG PQ 10",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 1900,
+    "regime": "CMU"
+  },
+  {
+    "code": "111060803",
+    "name": "AMLODIPINE BIOGAR. GELULE 10MG 30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 4657,
+    "regime": "CMU"
+  },
+  {
+    "code": "101060803",
+    "name": "AMLODIPINE GH CPR. 10MG 28",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 3141,
+    "regime": "CMU"
+  },
+  {
+    "code": "141060802",
+    "name": "AMLODIPINE GH CPR. 5MG 28",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 3010,
+    "regime": "CMU"
+  },
+  {
+    "code": "91060803",
+    "name": "AMLODIS CPR. 10MG 30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 3997,
+    "regime": "CMU"
+  },
+  {
+    "code": "151060802",
+    "name": "AMLODIS CPR. 5MG 30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 5885,
+    "regime": "CMU"
+  },
+  {
+    "code": "81060803",
+    "name": "AMLOR GELULE 10MG 30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 5116,
+    "regime": "CMU"
+  },
+  {
+    "code": "71060803",
+    "name": "AMLOSTAR CPR. 10MG 30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 5717,
+    "regime": "CMU"
+  },
+  {
+    "code": "161060802",
+    "name": "AMLOSTAR CPR. 5MG 30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 5371,
+    "regime": "CMU"
+  },
+  {
+    "code": "61060803",
+    "name": "AMLOTENSINE CPR. 10MG 30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 5020,
+    "regime": "CMU"
+  },
+  {
+    "code": "31060802",
+    "name": "AMLOTENSINE CPR. 5MG 30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 4576,
+    "regime": "CMU"
+  },
+  {
+    "code": "51060802",
+    "name": "AMLOTOME CPR. 5MG 100",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 3347,
+    "regime": "CMU"
+  },
+  {
+    "code": "51060803",
+    "name": "AMLOTROY CPR. 10MG 30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 5386,
+    "regime": "CMU"
+  },
+  {
+    "code": "171060802",
+    "name": "AMLOVAS CPR. 5MG 30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 4620,
+    "regime": "CMU"
+  },
+  {
+    "code": "181060802",
+    "name": "ANGLOR CPR. 5MG 28",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 2204,
+    "regime": "CMU"
+  },
+  {
+    "code": "41060803",
+    "name": "CALCHEK CPR. 10MG 30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 2242,
+    "regime": "CMU"
+  },
+  {
+    "code": "191060802",
+    "name": "CALCHEK CPR. 5MG 30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 5840,
+    "regime": "CMU"
+  },
+  {
+    "code": "21060803",
+    "name": "CALCINIB CPR. 10MG 28",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 4798,
+    "regime": "CMU"
+  },
+  {
+    "code": "11060802",
+    "name": "CALCINIB CPR. 5MG 28",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 3807,
+    "regime": "CMU"
+  },
+  {
+    "code": "21060802",
+    "name": "LOPINE CPR. 5MG 30",
+    "group": "ANTIHYPERTENSEUR, INHIBITEUR CALCIQUE",
+    "dci": "AMLODIPINE",
+    "category": "EP",
+    "price": 6102,
+    "regime": "CMU"
+  },
+  {
+    "code": "21060208",
+    "name": "CAPEN CPR.SECAB 25MG 30",
+    "group": "ANTIHYPERTENSEUR,INHIBITEUR ENZYME DE CONVERSION, DIURETIQUE",
+    "dci": "CAPTOPRIL",
+    "category": "EP",
+    "price": 3152,
+    "regime": "CMU"
+  },
+  {
+    "code": "11060208",
+    "name": "CAPTOPRIL DENK CPR. 25MG PQ10",
+    "group": "ANTIHYPERTENSEUR,INHIBITEUR ENZYME DE CONVERSION, DIURETIQUE",
+    "dci": "CAPTOPRIL",
+    "category": "EP",
+    "price": 870,
+    "regime": "CMU"
+  },
+  {
+    "code": "31060208",
+    "name": "CAPTOPRIL DENK CPR. 25MG 20",
+    "group": "ANTIHYPERTENSEUR,INHIBITEUR ENZYME DE CONVERSION, DIURETIQUE",
+    "dci": "CAPTOPRIL",
+    "category": "EP",
+    "price": 2292,
+    "regime": "CMU"
+  },
+  {
+    "code": "50121177",
+    "name": "ANTAFENE BUV PED 100MG 5ML 90ML",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 1321,
+    "regime": "CMU"
+  },
+  {
+    "code": "151121107",
+    "name": "ANTAFENE 400MG CPR PELL B/20",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 1500,
+    "regime": "CMU"
+  },
+  {
+    "code": "141121107",
+    "name": "APIFEN CPR. 400MG 30",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 2076,
+    "regime": "CMU"
+  },
+  {
+    "code": "51120995",
+    "name": "AXEN SUP AD 100MG 10",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "KETOPROFENE",
+    "category": "R",
+    "price": 2213,
+    "regime": "CMU"
+  },
+  {
+    "code": "40121177",
+    "name": "BUFENOL SUSP BUV FL/120 ML",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 1105,
+    "regime": "CMU"
+  },
+  {
+    "code": "10120873",
+    "name": "CATAFLAM SUSP. BUV 1.8MG 1ML 120ML",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "DICLOFENAC",
+    "category": "R",
+    "price": 1625,
+    "regime": "CMU"
+  },
+  {
+    "code": "61230731",
+    "name": "CELECOXIB BGR GELULES 200 MG",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "CELECOXIB",
+    "category": "R",
+    "price": 5792,
+    "regime": "CMU"
+  },
+  {
+    "code": "51230731",
+    "name": "CELECOXIB TEDIS GELULES 200 MG",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "CELECOXIB",
+    "category": "R",
+    "price": 8110,
+    "regime": "CMU"
+  },
+  {
+    "code": "20140758",
+    "name": "CINET SIROP 1MG 1ML 200ML",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "DOMPERIDONE",
+    "category": "R",
+    "price": 2834,
+    "regime": "CMU"
+  },
+  {
+    "code": "131121107",
+    "name": "CREAFEN 400MG CPR PELL B/30",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 1875,
+    "regime": "CMU"
+  },
+  {
+    "code": "31120162",
+    "name": "DEKLOMOL 50MG CPR PQ10",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "DICLOFENAC",
+    "category": "R",
+    "price": 630,
+    "regime": "CMU"
+  },
+  {
+    "code": "11120162",
+    "name": "DICLO DENK 50MG CPR B/20",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "DICLOFENAC",
+    "category": "R",
+    "price": 1200,
+    "regime": "CMU"
+  },
+  {
+    "code": "21120162",
+    "name": "DICLO DENK 50MG CPR PQ10",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "DICLOFENAC",
+    "category": "R",
+    "price": 530,
+    "regime": "CMU"
+  },
+  {
+    "code": "41120162",
+    "name": "DICLOAS 50MG CPR ENR GAST RES",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "DICLOFENAC",
+    "category": "R",
+    "price": 1255,
+    "regime": "CMU"
+  },
+  {
+    "code": "11120858",
+    "name": "DICLOFEN 100MG SUPPO B/10",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "DICLOFENAC",
+    "category": "R",
+    "price": 1515,
+    "regime": "CMU"
+  },
+  {
+    "code": "81120162",
+    "name": "DICLOFEN 50MG CPR ENR B/30",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "DICLOFENAC",
+    "category": "R",
+    "price": 1515,
+    "regime": "CMU"
+  },
+  {
+    "code": "71120162",
+    "name": "DICLOFENAC SODIUM TM 50MG CPR",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "DICLOFENAC",
+    "category": "R",
+    "price": 1155,
+    "regime": "CMU"
+  },
+  {
+    "code": "10120866",
+    "name": "DIFENASOL COLLYRE .1% 5ML",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "DICLOFENAC",
+    "category": "R",
+    "price": 1098,
+    "regime": "CMU"
+  },
+  {
+    "code": "61120162",
+    "name": "DOLEX 50MG CPR B/30",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "DICLOFENAC",
+    "category": "R",
+    "price": 1720,
+    "regime": "CMU"
+  },
+  {
+    "code": "60121177",
+    "name": "DOLVEN SIROP 100MG 5ML 120ML",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 1277,
+    "regime": "CMU"
+  },
+  {
+    "code": "121121107",
+    "name": "DOLVEN 400MG CPR PELL B/20",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 1420,
+    "regime": "CMU"
+  },
+  {
+    "code": "30140758",
+    "name": "DOMPY SUSP. ORAL 1MG 1ML 200ML",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "DOMPERIDONE",
+    "category": "R",
+    "price": 2259,
+    "regime": "CMU"
+  },
+  {
+    "code": "21120308",
+    "name": "ECONIF 250MG GEL B/10",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "ACIDE NIFLUMIQUE",
+    "category": "R",
+    "price": 680,
+    "regime": "CMU"
+  },
+  {
+    "code": "10140758",
+    "name": "EVIDAN SUSP BUV. 1MG 1ML 200ML",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "DOMPERIDONE",
+    "category": "R",
+    "price": 2436,
+    "regime": "CMU"
+  },
+  {
+    "code": "40140758",
+    "name": "EVIDAN SUSP BUV. 1MG 1ML 200ML",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "DOMPERIDONE",
+    "category": "R",
+    "price": 2436,
+    "regime": "CMU"
+  },
+  {
+    "code": "41230731",
+    "name": "EXXIB GELULES 200 MG",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "CELECOXIB",
+    "category": "R",
+    "price": 2788,
+    "regime": "CMU"
+  },
+  {
+    "code": "30121177",
+    "name": "IBUDOL 100MG 5ML 100ML",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 1264,
+    "regime": "CMU"
+  },
+  {
+    "code": "111121107",
+    "name": "IBUDOL 400MG CPR B/20",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 1470,
+    "regime": "CMU"
+  },
+  {
+    "code": "20121177",
+    "name": "IBUPROFEN GH 100MG 5ML 200ML",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 1593,
+    "regime": "CMU"
+  },
+  {
+    "code": "101121107",
+    "name": "IBUPROFENE AFRICURE 400MG CPR",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 1410,
+    "regime": "CMU"
+  },
+  {
+    "code": "91121107",
+    "name": "IBUPROFENE BIOG 400MG CPR PELL",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 1185,
+    "regime": "CMU"
+  },
+  {
+    "code": "81121107",
+    "name": "IBUPROFENE CREAT 400MG CPR 10",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 560,
+    "regime": "CMU"
+  },
+  {
+    "code": "71121107",
+    "name": "IBUPROFENE DENK 400MG CPR10",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 555,
+    "regime": "CMU"
+  },
+  {
+    "code": "61121107",
+    "name": "IBUPROFENE IG 400MG CAPS MOLLE",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 1240,
+    "regime": "CMU"
+  },
+  {
+    "code": "31230731",
+    "name": "INICOX GELULES 200 MG",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "CELECOXIB",
+    "category": "R",
+    "price": 8805,
+    "regime": "CMU"
+  },
+  {
+    "code": "10121177",
+    "name": "KALFEN 100MG 5ML 60ML",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 1093,
+    "regime": "CMU"
+  },
+  {
+    "code": "51121107",
+    "name": "KALFEN 400MG CPR PELL 10",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 290,
+    "regime": "CMU"
+  },
+  {
+    "code": "61120995",
+    "name": "KETOFLEX SUPPO 100MG 10",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "KETOPROFENE",
+    "category": "R",
+    "price": 1771,
+    "regime": "CMU"
+  },
+  {
+    "code": "41120995",
+    "name": "KETONAL SUPPO 100MG 12",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "KETOPROFENE",
+    "category": "R",
+    "price": 2276,
+    "regime": "CMU"
+  },
+  {
+    "code": "11120933",
+    "name": "KETONAL 100MG CPR B/20",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "KETOPROFENE",
+    "category": "R",
+    "price": 1875,
+    "regime": "CMU"
+  },
+  {
+    "code": "31120995",
+    "name": "KETOPROFEN GH SUP 100MG 12",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "KETOPROFENE",
+    "category": "R",
+    "price": 1744,
+    "regime": "CMU"
+  },
+  {
+    "code": "41120933",
+    "name": "KETOPROFEN GH 100MG CPR B/30",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "KETOPROFENE",
+    "category": "R",
+    "price": 1585,
+    "regime": "CMU"
+  },
+  {
+    "code": "31120933",
+    "name": "KETOPROFENE UBI 100MG CPR 10 B",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "KETOPROFENE",
+    "category": "R",
+    "price": 7440,
+    "regime": "CMU"
+  },
+  {
+    "code": "70140758",
+    "name": "MOTILIUM SUSP. ORAL 5MG 5ML 200ML",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "DOMPERIDONE",
+    "category": "R",
+    "price": 2750,
+    "regime": "CMU"
+  },
+  {
+    "code": "60140758",
+    "name": "NAUSELIUM SUSP. BUV 1MG 1ML 200ML",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "DOMPERIDONE",
+    "category": "R",
+    "price": 2291,
+    "regime": "CMU"
+  },
+  {
+    "code": "11120308",
+    "name": "NIFLURIL 250MG GEL B/30",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "ACIDE NIFLUMIQUE",
+    "category": "R",
+    "price": 2325,
+    "regime": "CMU"
+  },
+  {
+    "code": "11120407",
+    "name": "NIFLURIL 400MG ENF SUPPO SEC B",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "ACIDE NIFLUMIQUE",
+    "category": "R",
+    "price": 1775,
+    "regime": "CMU"
+  },
+  {
+    "code": "11121459",
+    "name": "NIFLURIL 700MG AD SUPPO B/8",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "ACIDE NIFLUMIQUE",
+    "category": "R",
+    "price": 2050,
+    "regime": "CMU"
+  },
+  {
+    "code": "41121107",
+    "name": "NUREFLEX CPR. ENROB. 400MG 20",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 2204,
+    "regime": "CMU"
+  },
+  {
+    "code": "31121107",
+    "name": "NUREFLEX CPR. ENROB. 400MG 24",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 2204,
+    "regime": "CMU"
+  },
+  {
+    "code": "21121107",
+    "name": "NUROFENFEM CPR. PELLICU 400MG 12",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 6040,
+    "regime": "CMU"
+  },
+  {
+    "code": "21230731",
+    "name": "OXICEB GELULES 200 MG",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "CELECOXIB",
+    "category": "R",
+    "price": 8871,
+    "regime": "CMU"
+  },
+  {
+    "code": "70121177",
+    "name": "PEDIFEN ENF 100MG 5ML 100ML",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 1554,
+    "regime": "CMU"
+  },
+  {
+    "code": "50140758",
+    "name": "PERIDYS SUSP. BUV 5MG 5ML 200ML",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "DOMPERIDONE",
+    "category": "R",
+    "price": 2323,
+    "regime": "CMU"
+  },
+  {
+    "code": "11230731",
+    "name": "PLENCOXIB GELULES 200 MG",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "CELECOXIB",
+    "category": "R",
+    "price": 3781,
+    "regime": "CMU"
+  },
+  {
+    "code": "21120995",
+    "name": "PROFENID SUP AD 100MG 12",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "KETOPROFENE",
+    "category": "R",
+    "price": 2782,
+    "regime": "CMU"
+  },
+  {
+    "code": "11120995",
+    "name": "PROKEFEN SUPPO 100MG 10",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "KETOPROFENE",
+    "category": "R",
+    "price": 1705,
+    "regime": "CMU"
+  },
+  {
+    "code": "21120933",
+    "name": "PROKEFEN 100MG CPR DISP B/30",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "KETOPROFENE",
+    "category": "R",
+    "price": 1750,
+    "regime": "CMU"
+  },
+  {
+    "code": "11120971",
+    "name": "RECTOFLAM SUPPO 100MG 10",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "INDOMETACINE",
+    "category": "R",
+    "price": 890,
+    "regime": "CMU"
+  },
+  {
+    "code": "11121107",
+    "name": "SPEDIFEN CPR. PELLICU 400MG 12",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 4455,
+    "regime": "CMU"
+  },
+  {
+    "code": "161121107",
+    "name": "TASKINE CAPS MOLLE 400MG 20",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 3843,
+    "regime": "CMU"
+  },
+  {
+    "code": "80121177",
+    "name": "TRIFENE BUV 100MG 5ML 200ML",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "IBUPROFENE",
+    "category": "R",
+    "price": 1957,
+    "regime": "CMU"
+  },
+  {
+    "code": "51120162",
+    "name": "VOTREX 50MG CPR B/20",
+    "group": "ANTI-INFLAMMATOIRE NON STEROIDIEN (AINS)",
+    "dci": "DICLOFENAC",
+    "category": "R",
+    "price": 1240,
+    "regime": "CMU"
+  },
+  {
+    "code": "30120613",
+    "name": "ALERGOSONE GTTESBUV 5MG 1ML 30ML",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "BETAMETHASONE",
+    "category": "R",
+    "price": 3154,
+    "regime": "CMU"
+  },
+  {
+    "code": "60120613",
+    "name": "BETAMED SUSP BUV GTT 30ML",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "BETAMETHASONE",
+    "category": "R",
+    "price": 3632,
+    "regime": "CMU"
+  },
+  {
+    "code": "20120613",
+    "name": "BETAMETHASONE ARR GTTES 05% 30ML",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "BETAMETHASONE",
+    "category": "R",
+    "price": 2715,
+    "regime": "CMU"
+  },
+  {
+    "code": "40120613",
+    "name": "BETASONE GTTESBUV 5MG 1ML 30ML",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "BETAMETHASONE",
+    "category": "R",
+    "price": 3617,
+    "regime": "CMU"
+  },
+  {
+    "code": "11120599",
+    "name": "BETASTENE CPR. DISPERS 2MG 20",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "BETAMETHASONE",
+    "category": "R",
+    "price": 3300,
+    "regime": "CMU"
+  },
+  {
+    "code": "50120613",
+    "name": "BETASTENE GTTESBUV 5% 30ML",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "BETAMETHASONE",
+    "category": "R",
+    "price": 3049,
+    "regime": "CMU"
+  },
+  {
+    "code": "21120599",
+    "name": "CELESTENE CPR. DISPERS 2MG 20",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "BETAMETHASONE",
+    "category": "R",
+    "price": 3390,
+    "regime": "CMU"
+  },
+  {
+    "code": "10120613",
+    "name": "CELESTENE GTTESBUV 5MG 1ML 30ML",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "BETAMETHASONE",
+    "category": "R",
+    "price": 3243,
+    "regime": "CMU"
+  },
+  {
+    "code": "11121381",
+    "name": "CORTANCYL 20MG CPR B/20",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "PREDNISOLONE",
+    "category": "R",
+    "price": 3305,
+    "regime": "CMU"
+  },
+  {
+    "code": "11121367",
+    "name": "CORTANCYL 5MG CPR BT 30",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "PREDNISOLONE",
+    "category": "R",
+    "price": 1745,
+    "regime": "CMU"
+  },
+  {
+    "code": "41121381",
+    "name": "CORTIPRED 20MG CPR B/20",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "PREDNISOLONE",
+    "category": "R",
+    "price": 3520,
+    "regime": "CMU"
+  },
+  {
+    "code": "11121366",
+    "name": "DERINOX SOL PULV NAS F/15ML",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "PREDNISOLONE",
+    "category": "R",
+    "price": 2285,
+    "regime": "CMU"
+  },
+  {
+    "code": "10120637",
+    "name": "DEXAMEX 0,1% COLL F/5ML",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "DEXAMETHASONE",
+    "category": "R",
+    "price": 1770,
+    "regime": "CMU"
+  },
+  {
+    "code": "31121381",
+    "name": "ISOLONE 20MG CPR EFFV B/20",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "PREDNISOLONE",
+    "category": "R",
+    "price": 3115,
+    "regime": "CMU"
+  },
+  {
+    "code": "21121367",
+    "name": "ISOLONE 5MG CPR EFFV B/30",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "PREDNISOLONE",
+    "category": "R",
+    "price": 1625,
+    "regime": "CMU"
+  },
+  {
+    "code": "20250129",
+    "name": "LOCAPRED CREME 0,1% T/15 G",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "DESONIDE",
+    "category": "R",
+    "price": 1945,
+    "regime": "CMU"
+  },
+  {
+    "code": "10250129",
+    "name": "LOCATOP 0,1% CREME TB 30G",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "DESONIDE",
+    "category": "R",
+    "price": 2385,
+    "regime": "CMU"
+  },
+  {
+    "code": "20120637",
+    "name": "MAXIDEX CY 0,1% FL/3 ML",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "DEXAMETHASONE",
+    "category": "R",
+    "price": 1008,
+    "regime": "CMU"
+  },
+  {
+    "code": "11121435",
+    "name": "MEDROL CPR.SECAB 4MG 30",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "METHYLPREDNISOLONE",
+    "category": "R",
+    "price": 2654,
+    "regime": "CMU"
+  },
+  {
+    "code": "10121375",
+    "name": "NEOPRED COLLYRE 5ML",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "PREDNISOLONE + NEOMYCINE",
+    "category": "R",
+    "price": 1135,
+    "regime": "CMU"
+  },
+  {
+    "code": "11121380",
+    "name": "OPTIPRED COLLYRE 1% 5ML",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "PREDNISOLONE",
+    "category": "R",
+    "price": 2345,
+    "regime": "CMU"
+  },
+  {
+    "code": "21121381",
+    "name": "PREDNI 20MG COOPER CPR SEC EFF",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "PREDNISOLONE",
+    "category": "R",
+    "price": 3250,
+    "regime": "CMU"
+  },
+  {
+    "code": "11120742",
+    "name": "STERDEX POMMADE OPHTALMIQUE",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "DEXAMETHASONE + OXYTETRACYCLINE",
+    "category": "R",
+    "price": 1932,
+    "regime": "CMU"
+  },
+  {
+    "code": "30250129",
+    "name": "TRIDESONIT CREME T/30 G",
+    "group": "ANTI-INFLAMMATOIRE STEROIDIEN",
+    "dci": "DESONIDE",
+    "category": "R",
+    "price": 1825,
+    "regime": "CMU"
+  },
+  {
+    "code": "11234012",
+    "name": "MAXILASE 200U/ML SIROP FL125ML",
+    "group": "ANTI-INFLAMMATOIRES ENZYMATIQUES",
+    "dci": "ALPHA AMYLASE",
+    "category": "R",
+    "price": 2550,
+    "regime": "CMU"
+  },
+  {
+    "code": "11234029",
+    "name": "MAXILASE 3000 CPR DRG BT 24",
+    "group": "ANTI-INFLAMMATOIRES ENZYMATIQUES",
+    "dci": "ALPHA AMYLASE",
+    "category": "R",
+    "price": 3595,
+    "regime": "CMU"
+  },
+  {
+    "code": "10020616",
+    "name": "ASCALOL LOTION 25% 125ML",
+    "group": "ANTIPARASITAIRES EXTERNES",
+    "dci": "BENZOATE DE BENZYLE",
+    "category": "R",
+    "price": 1248,
+    "regime": "CMU"
+  },
+  {
+    "code": "10230756",
+    "name": "BETADINE SOL GYNECO 10% 125ML",
+    "group": "ANTISEPTIQUES",
+    "dci": "POLIVIDONE IODEE",
+    "category": "R",
+    "price": 1442,
+    "regime": "CMU"
+  },
+  {
+    "code": "20230657",
+    "name": "BETADINE SOL. LOCALE 10% 125ML",
+    "group": "ANTISEPTIQUES",
+    "dci": "POLIVIDONE IODEE",
+    "category": "R",
+    "price": 1591,
+    "regime": "CMU"
+  },
+  {
+    "code": "10230855",
+    "name": "BETADINE SOL.SCRUB 4% 125ML",
+    "group": "ANTISEPTIQUES",
+    "dci": "POLIVIDONE IODEE",
+    "category": "R",
+    "price": 1479,
+    "regime": "CMU"
+  },
+  {
+    "code": "30121139",
+    "name": "C-PLUS BAIN BOUCHE 120ML",
+    "group": "ANTISEPTIQUES",
+    "dci": "BENZYDAMINE",
+    "category": "R",
+    "price": 2609,
+    "regime": "CMU"
+  },
+  {
+    "code": "10221327",
+    "name": "HEXOMEDINE SOL. LOCALE .1% 250ML",
+    "group": "ANTISEPTIQUES",
+    "dci": "HEXAMIDINE",
+    "category": "R",
+    "price": 3377,
+    "regime": "CMU"
+  },
+  {
+    "code": "10230657",
+    "name": "PYODINE SOL. 10% 60ML",
+    "group": "ANTISEPTIQUES",
+    "dci": "POLIVIDONE IODEE",
+    "category": "R",
+    "price": 1041,
+    "regime": "CMU"
+  },
+  {
+    "code": "20230756",
+    "name": "PYODINE SURGIC.SCRUB 10% 60ML",
+    "group": "ANTISEPTIQUES",
+    "dci": "POLIVIDONE IODEE",
+    "category": "R",
+    "price": 1054,
+    "regime": "CMU"
+  },
+  {
+    "code": "20121139",
+    "name": "VERAX BLEU COLUT 15% 120ML",
+    "group": "ANTISEPTIQUES",
+    "dci": "BENZYDAMINE",
+    "category": "R",
+    "price": 2350,
+    "regime": "CMU"
+  },
+  {
+    "code": "10121139",
+    "name": "VERAX BLEU COLUT 15% 30ML",
+    "group": "ANTISEPTIQUES",
+    "dci": "BENZYDAMINE",
+    "category": "R",
+    "price": 2314,
+    "regime": "CMU"
+  },
+  {
+    "code": "11151203",
+    "name": "DEBRIDAT CPR. PELLICU 100MG 30",
+    "group": "ANTISPASMODIQUES MUSCULOTROPES",
+    "dci": "TRIMEBUTINE",
+    "category": "R",
+    "price": 5325,
+    "regime": "CMU"
+  },
+  {
+    "code": "11151202",
+    "name": "DEBRIDAT CPR. PELLICU 200MG 30",
+    "group": "ANTISPASMODIQUES MUSCULOTROPES",
+    "dci": "TRIMEBUTINE",
+    "category": "R",
+    "price": 6323,
+    "regime": "CMU"
+  },
+  {
+    "code": "31151053",
+    "name": "DEBRIDAT PD P/SUS.BUV 7.87MG 1ML 250ML",
+    "group": "ANTISPASMODIQUES MUSCULOTROPES",
+    "dci": "TRIMEBUTINE",
+    "category": "R",
+    "price": 3030,
+    "regime": "CMU"
+  },
+  {
+    "code": "11151210",
+    "name": "DIGESTAT SUPPO 100MG 10",
+    "group": "ANTISPASMODIQUES MUSCULOTROPES",
+    "dci": "TRIMEBUTINE",
+    "category": "R",
+    "price": 722,
+    "regime": "CMU"
+  },
+  {
+    "code": "21140450",
+    "name": "KINAFON CPR. ENROB. 80MG 30",
+    "group": "ANTISPASMODIQUES MUSCULOTROPES",
+    "dci": "PHLOROGLUCINOL",
+    "category": "R",
+    "price": 1670,
+    "regime": "CMU"
+  },
+  {
+    "code": "21151053",
+    "name": "SPASMOBUTINE GRAN/SUS.BUV 250ML",
+    "group": "ANTISPASMODIQUES MUSCULOTROPES",
+    "dci": "TRIMEBUTINE",
+    "category": "R",
+    "price": 2841,
+    "regime": "CMU"
+  },
+  {
+    "code": "31140450",
+    "name": "SPASMOCALM CPR ORODISP. 80MG 20",
+    "group": "ANTISPASMODIQUES MUSCULOTROPES",
+    "dci": "PHLOROGLUCINOL",
+    "category": "R",
+    "price": 2891,
+    "regime": "CMU"
+  },
+  {
+    "code": "11140450",
+    "name": "SPASMOSYL CPR. DISPERS 80MG 20",
+    "group": "ANTISPASMODIQUES MUSCULOTROPES",
+    "dci": "PHLOROGLUCINOL",
+    "category": "R",
+    "price": 2093,
+    "regime": "CMU"
+  },
+  {
+    "code": "11151053",
+    "name": "TRIBUTINE GRAN/SUS.BUV .787% 250ML",
+    "group": "ANTISPASMODIQUES MUSCULOTROPES",
+    "dci": "TRIMEBUTINE",
+    "category": "R",
+    "price": 2728,
+    "regime": "CMU"
+  },
+  {
+    "code": "11140207",
+    "name": "VISCERALGINE CPR. PELLICU 50MG 30",
+    "group": "ANTISPASMODIQUES NEUROTROPES",
+    "dci": "TIEMONIUM",
+    "category": "R",
+    "price": 2120,
+    "regime": "CMU"
+  },
+  {
+    "code": "10140253",
+    "name": "VISCERALGINE SIROP 10MG 5ML 150ML",
+    "group": "ANTISPASMODIQUES NEUROTROPES",
+    "dci": "TIEMONIUM",
+    "category": "R",
+    "price": 1638,
+    "regime": "CMU"
+  },
+  {
+    "code": "11140504",
+    "name": "VISCERALGINE SUP AD 20MG 20",
+    "group": "ANTISPASMODIQUES NEUROTROPES",
+    "dci": "TIEMONIUM",
+    "category": "R",
+    "price": 1647,
+    "regime": "CMU"
+  },
+  {
+    "code": "10160411",
+    "name": "BIOCALYPTOL SP 131% 200ML",
+    "group": "ANTITUSSIFS",
+    "dci": "PHOLCODINE",
+    "category": "R",
+    "price": 2683,
+    "regime": "CMU"
+  },
+  {
+    "code": "10180242",
+    "name": "VITAMINE B12 COLLYRE .5% 5ML",
+    "group": "AUTRES MEDICAMENTS UTILISES EN OPHTALMOLOGIE",
+    "dci": "CYANOCOBALAMINE",
+    "category": "R",
+    "price": 4119,
+    "regime": "CMU"
+  },
+  {
+    "code": "11140214",
+    "name": "EURYTHMIC CPR. 200MG 30",
+    "group": "CARDIOLOGIE, ANTIARYTHMIQUES",
+    "dci": "AMIODARONE",
+    "category": "R",
+    "price": 8678,
+    "regime": "CMU"
+  },
+  {
+    "code": "10231913",
+    "name": "CERULYSE GTTES OTO. 5% 10ML",
+    "group": "CERUMENOLYTIQUES",
+    "dci": "XYLENE",
+    "category": "R",
+    "price": 2077,
+    "regime": "CMU"
+  },
+  {
+    "code": "10250303",
+    "name": "PHYSIOMERSPR NAS HYPE 135ML",
+    "group": "DECONGESTIONNANTS",
+    "dci": "EAU DE MER",
+    "category": "R",
+    "price": 2066,
+    "regime": "CMU"
+  },
+  {
+    "code": "10140338",
+    "name": "RESPIBIEN NEBUL NASAL .05% 15ML",
+    "group": "DECONGESTIONNANTS",
+    "dci": "OXYMETAZOLINE",
+    "category": "R",
+    "price": 1661,
+    "regime": "CMU"
+  },
+  {
+    "code": "30250303",
+    "name": "STERIMARS.HYP NAS AD 50ML",
+    "group": "DECONGESTIONNANTS",
+    "dci": "EAU DE MER",
+    "category": "R",
+    "price": 1970,
+    "regime": "CMU"
+  },
+  {
+    "code": "20250303",
+    "name": "UNIMERS.NAS HY PED 22% 100ML",
+    "group": "DECONGESTIONNANTS",
+    "dci": "EAU DE MER",
+    "category": "R",
+    "price": 2035,
+    "regime": "CMU"
+  },
+  {
+    "code": "71140702",
+    "name": "DOMPERIDONE BGR CPR. PELLICU 10MG 20",
+    "group": "GASTRO EH, NAUSEES ET VOMISSEMENTS",
+    "dci": "DOMPERIDONE",
+    "category": "R",
+    "price": 1228,
+    "regime": "CMU"
+  },
+  {
+    "code": "31140702",
+    "name": "DOMPY CPR. 10MG 30",
+    "group": "GASTRO EH, NAUSEES ET VOMISSEMENTS",
+    "dci": "DOMPERIDONE",
+    "category": "R",
+    "price": 2080,
+    "regime": "CMU"
+  },
+  {
+    "code": "51140702",
+    "name": "EVIDAN CPR. 10MG B/10",
+    "group": "GASTRO EH, NAUSEES ET VOMISSEMENTS",
+    "dci": "DOMPERIDONE",
+    "category": "R",
+    "price": 2252,
+    "regime": "CMU"
+  },
+  {
+    "code": "41140702",
+    "name": "MOTILIUM CPR. PELLICU 10MG 40",
+    "group": "GASTRO EH, NAUSEES ET VOMISSEMENTS",
+    "dci": "DOMPERIDONE",
+    "category": "R",
+    "price": 3325,
+    "regime": "CMU"
+  },
+  {
+    "code": "11140702",
+    "name": "NAUSELIUM CPR. PELLICU 10MG 20",
+    "group": "GASTRO EH, NAUSEES ET VOMISSEMENTS",
+    "dci": "DOMPERIDONE",
+    "category": "R",
+    "price": 2299,
+    "regime": "CMU"
+  },
+  {
+    "code": "21140702",
+    "name": "OROPERIDYS CPR. DISPERS 10MG 21",
+    "group": "GASTRO EH, NAUSEES ET VOMISSEMENTS",
+    "dci": "DOMPERIDONE",
+    "category": "R",
+    "price": 2870,
+    "regime": "CMU"
+  },
+  {
+    "code": "61140702",
+    "name": "PERIDYS CPR. PELLICU 10MG 21",
+    "group": "GASTRO EH, NAUSEES ET VOMISSEMENTS",
+    "dci": "DOMPERIDONE",
+    "category": "R",
+    "price": 1774,
+    "regime": "CMU"
+  },
+  {
+    "code": "11150916",
+    "name": "VOGALENE SUP AD 5MG 10",
+    "group": "GASTRO EH, NAUSEES ET VOMISSEMENTS",
+    "dci": "METOPIMAZINE",
+    "category": "R",
+    "price": 1098,
+    "regime": "CMU"
+  },
+  {
+    "code": "21280477",
+    "name": "DAFRAZOL GELULE 20MG 28",
+    "group": "GASTRO EH, ULCERE GASTRO-DUODENAL GASTRODUODENAL",
+    "dci": "OMEPRAZOLE",
+    "category": "EP",
+    "price": 4558,
+    "regime": "CMU"
+  },
+  {
+    "code": "11280477",
+    "name": "GASPRAL GELULE 20MG 30",
+    "group": "GASTRO EH, ULCERE GASTRO-DUODENAL GASTRODUODENAL",
+    "dci": "OMEPRAZOLE",
+    "category": "EP",
+    "price": 5534,
+    "regime": "CMU"
+  },
+  {
+    "code": "71280477",
+    "name": "IPEPRAZOLE CPR.ENR.GAST 20MG 14",
+    "group": "GASTRO EH, ULCERE GASTRO-DUODENAL GASTRODUODENAL",
+    "dci": "OMEPRAZOLE",
+    "category": "EP",
+    "price": 1850,
+    "regime": "CMU"
+  },
+  {
+    "code": "121280477",
+    "name": "IPP GELULE 20MG 28",
+    "group": "GASTRO EH, ULCERE GASTRO-DUODENAL GASTRODUODENAL",
+    "dci": "OMEPRAZOLE",
+    "category": "EP",
+    "price": 4837,
+    "regime": "CMU"
+  },
+  {
+    "code": "111280477",
+    "name": "LOMAC GELULE 20 MG B/14",
+    "group": "GASTRO EH, ULCERE GASTRO-DUODENAL GASTRODUODENAL",
+    "dci": "OMEPRAZOLE",
+    "category": "EP",
+    "price": 3805,
+    "regime": "CMU"
+  },
+  {
+    "code": "101280477",
+    "name": "OMEGEN GELULE MCGR 20MG 28",
+    "group": "GASTRO EH, ULCERE GASTRO-DUODENAL GASTRODUODENAL",
+    "dci": "OMEPRAZOLE",
+    "category": "EP",
+    "price": 4536,
+    "regime": "CMU"
+  },
+  {
+    "code": "91280477",
+    "name": "OMEPRAZOLE UBI 20MG CPR.10",
+    "group": "GASTRO EH, ULCERE GASTRO-DUODENAL GASTRODUODENAL",
+    "dci": "OMEPRAZOLE",
+    "category": "EP",
+    "price": 1400,
+    "regime": "CMU"
+  },
+  {
+    "code": "81280477",
+    "name": "OMETIL GELULE 20MG 10",
+    "group": "GASTRO EH, ULCERE GASTRO-DUODENAL GASTRODUODENAL",
+    "dci": "OMEPRAZOLE",
+    "category": "EP",
+    "price": 1600,
+    "regime": "CMU"
+  },
+  {
+    "code": "131280477",
+    "name": "OMIZEC GELULE 20MG 28",
+    "group": "GASTRO EH, ULCERE GASTRO-DUODENAL GASTRODUODENAL",
+    "dci": "OMEPRAZOLE",
+    "category": "EP",
+    "price": 4878,
+    "regime": "CMU"
+  },
+  {
+    "code": "61280477",
+    "name": "OPRAZOLE CPR. 20MG 28",
+    "group": "GASTRO EH, ULCERE GASTRO-DUODENAL GASTRODUODENAL",
+    "dci": "OMEPRAZOLE",
+    "category": "EP",
+    "price": 5010,
+    "regime": "CMU"
+  },
+  {
+    "code": "51280477",
+    "name": "SEZOL GELULE 20MG 30",
+    "group": "GASTRO EH, ULCERE GASTRO-DUODENAL GASTRODUODENAL",
+    "dci": "OMEPRAZOLE",
+    "category": "EP",
+    "price": 4238,
+    "regime": "CMU"
+  },
+  {
+    "code": "41280477",
+    "name": "T-OCID GELULE 20MG 10",
+    "group": "GASTRO EH, ULCERE GASTRO-DUODENAL GASTRODUODENAL",
+    "dci": "OMEPRAZOLE",
+    "category": "EP",
+    "price": 1060,
+    "regime": "CMU"
+  },
+  {
+    "code": "31280477",
+    "name": "ULCIZONE GELULE 20MG 14",
+    "group": "GASTRO EH, ULCERE GASTRO-DUODENAL GASTRODUODENAL",
+    "dci": "OMEPRAZOLE",
+    "category": "EP",
+    "price": 1966,
+    "regime": "CMU"
+  },
+  {
+    "code": "11180326",
+    "name": "ACIDE FOLIQUE TM 5MG CPR B/40",
+    "group": "HEMATOLOGIE, ANTIANEMIQUES",
+    "dci": "ACIDE FOLIQUE",
+    "category": "R",
+    "price": 950,
+    "regime": "CMU"
+  },
+  {
+    "code": "51180364",
+    "name": "FERACID GEL B/36",
+    "group": "HEMATOLOGIE, ANTIANEMIQUES",
+    "dci": "FER III + ACIDE FOLIQUE",
+    "category": "R",
+    "price": 1935,
+    "regime": "CMU"
+  },
+  {
+    "code": "10180334",
+    "name": "FER/ACIDE FOLIQ WINT 200/0,25M",
+    "group": "HEMATOLOGIE, ANTIANEMIQUES",
+    "dci": "FER + ACIDE FOLIQUE",
+    "category": "R",
+    "price": 1625,
+    "regime": "CMU"
+  },
+  {
+    "code": "30180334",
+    "name": "FERCEFOL SP F/150ML",
+    "group": "HEMATOLOGIE, ANTIANEMIQUES",
+    "dci": "FER + ACIDE FOLIQUE",
+    "category": "R",
+    "price": 1915,
+    "regime": "CMU"
+  },
+  {
+    "code": "41180364",
+    "name": "FERFOLTONE GEL B/30",
+    "group": "HEMATOLOGIE, ANTIANEMIQUES",
+    "dci": "FER III + ACIDE FOLIQUE",
+    "category": "R",
+    "price": 1470,
+    "regime": "CMU"
+  },
+  {
+    "code": "40180266",
+    "name": "FERRIC CITR AMM UBI 160MG/15ML",
+    "group": "HEMATOLOGIE, ANTIANEMIQUES",
+    "dci": "FER III",
+    "category": "R",
+    "price": 2275,
+    "regime": "CMU"
+  },
+  {
+    "code": "10180266",
+    "name": "FERROFIT SP F/200ML",
+    "group": "HEMATOLOGIE, ANTIANEMIQUES",
+    "dci": "FER III",
+    "category": "R",
+    "price": 1305,
+    "regime": "CMU"
+  },
+  {
+    "code": "30180266",
+    "name": "FERROSTRANE SIROP F/125ML",
+    "group": "HEMATOLOGIE, ANTIANEMIQUES",
+    "dci": "FER III",
+    "category": "R",
+    "price": 1885,
+    "regime": "CMU"
+  },
+  {
+    "code": "21180364",
+    "name": "FINANEMI 300MG/1MG CPR B/30",
+    "group": "HEMATOLOGIE, ANTIANEMIQUES",
+    "dci": "FER III + ACIDE FOLIQUE",
+    "category": "R",
+    "price": 1550,
+    "regime": "CMU"
+  },
+  {
+    "code": "20180334",
+    "name": "FUMARATE FER+ACID FOL TM200/0,",
+    "group": "HEMATOLOGIE, ANTIANEMIQUES",
+    "dci": "FER + ACIDE FOLIQUE",
+    "category": "R",
+    "price": 1570,
+    "regime": "CMU"
+  },
+  {
+    "code": "11180364",
+    "name": "MALTOFER FOL 100MG CPR B/30",
+    "group": "HEMATOLOGIE, ANTIANEMIQUES",
+    "dci": "FER III + ACIDE FOLIQUE",
+    "category": "R",
+    "price": 1723,
+    "regime": "CMU"
+  },
+  {
+    "code": "31180364",
+    "name": "OROFER GEL B/40",
+    "group": "HEMATOLOGIE, ANTIANEMIQUES",
+    "dci": "FER III + ACIDE FOLIQUE",
+    "category": "R",
+    "price": 1570,
+    "regime": "CMU"
+  },
+  {
+    "code": "50180266",
+    "name": "OROFER 50MG SP F/150ML",
+    "group": "HEMATOLOGIE, ANTIANEMIQUES",
+    "dci": "FER III",
+    "category": "R",
+    "price": 1515,
+    "regime": "CMU"
+  },
+  {
+    "code": "20180266",
+    "name": "T-FER SP F/200ML",
+    "group": "HEMATOLOGIE, ANTIANEMIQUES",
+    "dci": "FER III",
+    "category": "R",
+    "price": 1680,
+    "regime": "CMU"
+  },
+  {
+    "code": "11030645",
+    "name": "SINTROM CPR.SECAB 4MG 30",
+    "group": "HEMOSTASE, ANTICOAGULANTS ORAUX",
+    "dci": "ACENOCOUMAROL",
+    "category": "R",
+    "price": 3120,
+    "regime": "CMU"
+  },
+  {
+    "code": "11030676",
+    "name": "EXACYL A.BUV 1G 5 10ML",
+    "group": "HÉMOSTATIQUES ET ANTI-FIBRINOLYTIQUES",
+    "dci": "ACIDE TRANEXAMIQUE",
+    "category": "R",
+    "price": 3750,
+    "regime": "CMU"
+  },
+  {
+    "code": "21030669",
+    "name": "EXACYL CPR. PELLICU 500MG 20",
+    "group": "HÉMOSTATIQUES ET ANTI-FIBRINOLYTIQUES",
+    "dci": "ACIDE TRANEXAMIQUE",
+    "category": "R",
+    "price": 5010,
+    "regime": "CMU"
+  },
+  {
+    "code": "11030669",
+    "name": "TRENAXA CPR. PELLICU 500MG 30",
+    "group": "HÉMOSTATIQUES ET ANTI-FIBRINOLYTIQUES",
+    "dci": "ACIDE TRANEXAMIQUE",
+    "category": "R",
+    "price": 5938,
+    "regime": "CMU"
+  },
+  {
+    "code": "11130840",
+    "name": "ALLOPURINOL ARROW CPR. 200MG 28",
+    "group": "INHIBITEURS DE LA XANTHINE OXYDASE",
+    "dci": "ALLOPURINOL",
+    "category": "R",
+    "price": 1116,
+    "regime": "CMU"
+  },
+  {
+    "code": "11020806",
+    "name": "ZYLORIC CPR.SECAB 100MG 28",
+    "group": "INHIBITEURS DE LA XANTHINE OXYDASE",
+    "dci": "ALLOPURINOL",
+    "category": "R",
+    "price": 1585,
+    "regime": "CMU"
+  },
+  {
+    "code": "21130840",
+    "name": "ZYLORIC CPR.SECAB 200MG 28",
+    "group": "INHIBITEURS DE LA XANTHINE OXYDASE",
+    "dci": "ALLOPURINOL",
+    "category": "R",
+    "price": 2483,
+    "regime": "CMU"
+  },
+  {
+    "code": "10211984",
+    "name": "LARMES ARTIFICIE COLLYRE 10ML",
+    "group": "LARMES ARTIFICIELLES",
+    "dci": "CHLORURE DE SODIUM",
+    "category": "R",
+    "price": 685,
+    "regime": "CMU"
+  },
+  {
+    "code": "20211984",
+    "name": "VITASOL SOL P/LENTI. 24 10ML",
+    "group": "LARMES ARTIFICIELLES",
+    "dci": "CHLORURE DE SODIUM",
+    "category": "R",
+    "price": 666,
+    "regime": "CMU"
+  },
+  {
+    "code": "11121558",
+    "name": "ALDOMET CPR. ENROB. 250MG 30",
+    "group": "MEDICAMENTS DU PRE-ECLAMPSIE ET DE L'ECLAMPSIE",
+    "dci": "METHYLDOPA",
+    "category": "R",
+    "price": 2561,
+    "regime": "CMU"
+  },
+  {
+    "code": "10140123",
+    "name": "ATROPINE ALCON COLLYRE .5% 10ML",
+    "group": "MYDRIATIQUES",
+    "dci": "ATROPINE",
+    "category": "R",
+    "price": 1430,
+    "regime": "CMU"
+  },
+  {
+    "code": "51021216",
+    "name": "APAZIDE GELULE 200MG 16",
+    "group": "NITROFURANES",
+    "dci": "NIFUROXAZIDE",
+    "category": "R",
+    "price": 1683,
+    "regime": "CMU"
+  },
+  {
+    "code": "41021216",
+    "name": "DIARYL GELULE 200MG 20",
+    "group": "NITROFURANES",
+    "dci": "NIFUROXAZIDE",
+    "category": "R",
+    "price": 2189,
+    "regime": "CMU"
+  },
+  {
+    "code": "10021224",
+    "name": "DIARYL SUSP. BUV 200MG 5ML 60ML",
+    "group": "NITROFURANES",
+    "dci": "NIFUROXAZIDE",
+    "category": "R",
+    "price": 1714,
+    "regime": "CMU"
+  },
+  {
+    "code": "31021216",
+    "name": "DYSENTYL GELULE 200MG 30",
+    "group": "NITROFURANES",
+    "dci": "NIFUROXAZIDE",
+    "category": "R",
+    "price": 2677,
+    "regime": "CMU"
+  },
+  {
+    "code": "11021216",
+    "name": "ERCEFURYL GELULE 200MG 28",
+    "group": "NITROFURANES",
+    "dci": "NIFUROXAZIDE",
+    "category": "R",
+    "price": 3165,
+    "regime": "CMU"
+  },
+  {
+    "code": "21021216",
+    "name": "NIFOX GELULE 200MG 16",
+    "group": "NITROFURANES",
+    "dci": "NIFUROXAZIDE",
+    "category": "R",
+    "price": 1385,
+    "regime": "CMU"
+  },
+  {
+    "code": "50021002",
+    "name": "AMIBAZOL SUSP. BUV 125MG 5ML 100ML",
+    "group": "NITROIMIDAZOLES",
+    "dci": "METRONIDAZOLE",
+    "category": "R",
+    "price": 1791,
+    "regime": "CMU"
+  },
+  {
+    "code": "41021261",
+    "name": "CIMETROL CPR. 500MG 20",
+    "group": "NITROIMIDAZOLES",
+    "dci": "METRONIDAZOLE",
+    "category": "R",
+    "price": 1474,
+    "regime": "CMU"
+  },
+  {
+    "code": "40021002",
+    "name": "METROL SUSP BUV. 125MG 5ML 120ML",
+    "group": "NITROIMIDAZOLES",
+    "dci": "METRONIDAZOLE",
+    "category": "R",
+    "price": 1050,
+    "regime": "CMU"
+  },
+  {
+    "code": "31021230",
+    "name": "METRONIDAZOL CRE CPR. 250MG PQ 10",
+    "group": "NITROIMIDAZOLES",
+    "dci": "METRONIDAZOLE",
+    "category": "R",
+    "price": 450,
+    "regime": "CMU"
+  },
+  {
+    "code": "31021261",
+    "name": "METRONIDAZOL CRE CPR. 500MG 20",
+    "group": "NITROIMIDAZOLES",
+    "dci": "METRONIDAZOLE",
+    "category": "R",
+    "price": 1589,
+    "regime": "CMU"
+  },
+  {
+    "code": "11021261",
+    "name": "METRONIDAZOLE QT CPR. 500MG 10",
+    "group": "NITROIMIDAZOLES",
+    "dci": "METRONIDAZOLE",
+    "category": "R",
+    "price": 500,
+    "regime": "CMU"
+  },
+  {
+    "code": "10021002",
+    "name": "METRONIDAZOLE QT SUSP. BUV 125MG 5ML 100ML",
+    "group": "NITROIMIDAZOLES",
+    "dci": "METRONIDAZOLE",
+    "category": "R",
+    "price": 1094,
+    "regime": "CMU"
+  },
+  {
+    "code": "51021261",
+    "name": "METRONIDAZOLE TM CPR. 500MG 20",
+    "group": "NITROIMIDAZOLES",
+    "dci": "METRONIDAZOLE",
+    "category": "R",
+    "price": 1056,
+    "regime": "CMU"
+  },
+  {
+    "code": "20021002",
+    "name": "METRONIDAZOLE UBI PDR/SIROP 125MG 5ML 100ML",
+    "group": "NITROIMIDAZOLES",
+    "dci": "METRONIDAZOLE",
+    "category": "R",
+    "price": 793,
+    "regime": "CMU"
+  },
+  {
+    "code": "21021230",
+    "name": "METRONIDAZOLE UBI 250MG CPR 10",
+    "group": "NITROIMIDAZOLES",
+    "dci": "METRONIDAZOLE",
+    "category": "R",
+    "price": 1680,
+    "regime": "CMU"
+  },
+  {
+    "code": "30021002",
+    "name": "METRONYL SIROP 200MG 5ML 100ML",
+    "group": "NITROIMIDAZOLES",
+    "dci": "METRONIDAZOLE",
+    "category": "R",
+    "price": 1185,
+    "regime": "CMU"
+  },
+  {
+    "code": "11021230",
+    "name": "METROWIN CPR. 250MG 20",
+    "group": "NITROIMIDAZOLES",
+    "dci": "METRONIDAZOLE",
+    "category": "R",
+    "price": 929,
+    "regime": "CMU"
+  },
+  {
+    "code": "21021261",
+    "name": "METROWIN CPR. 500MG 10",
+    "group": "NITROIMIDAZOLES",
+    "dci": "METRONIDAZOLE",
+    "category": "R",
+    "price": 625,
+    "regime": "CMU"
+  },
+  {
+    "code": "60021002",
+    "name": "METROZAL SUSP BUV. 125MG 5ML 120ML",
+    "group": "NITROIMIDAZOLES",
+    "dci": "METRONIDAZOLE",
+    "category": "R",
+    "price": 1641,
+    "regime": "CMU"
+  },
+  {
+    "code": "10020838",
+    "name": "ABZ SUSP BUV FL/10 ML",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "ALBENDAZOLE",
+    "category": "R",
+    "price": 705,
+    "regime": "CMU"
+  },
+  {
+    "code": "71020806",
+    "name": "ALBELA CPR A CROQUE 400MG",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "ALBENDAZOLE",
+    "category": "R",
+    "price": 415,
+    "regime": "CMU"
+  },
+  {
+    "code": "61020806",
+    "name": "ALBENDAZOLE TM CPR. 400MG",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "ALBENDAZOLE",
+    "category": "R",
+    "price": 426,
+    "regime": "CMU"
+  },
+  {
+    "code": "51020806",
+    "name": "ALBENTOX CPR. 400MG 3",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "ALBENDAZOLE",
+    "category": "R",
+    "price": 1457,
+    "regime": "CMU"
+  },
+  {
+    "code": "20020838",
+    "name": "ALBENTOX SUSP. BUV 400MG 15ML",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "ALBENDAZOLE",
+    "category": "R",
+    "price": 838,
+    "regime": "CMU"
+  },
+  {
+    "code": "30020838",
+    "name": "ALBETAP SUSP BUV. 400MG 10ML",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "ALBENDAZOLE",
+    "category": "R",
+    "price": 964,
+    "regime": "CMU"
+  },
+  {
+    "code": "41020806",
+    "name": "ALBEX CPR. 400MG",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "ALBENDAZOLE",
+    "category": "R",
+    "price": 510,
+    "regime": "CMU"
+  },
+  {
+    "code": "40020838",
+    "name": "BENDEX SUSP BUV 4% FL/10 ML",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "ALBENDAZOLE",
+    "category": "R",
+    "price": 882,
+    "regime": "CMU"
+  },
+  {
+    "code": "50020838",
+    "name": "CALBEN SIROP 400 MG / 10 ML FL/10 ML",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "ALBENDAZOLE",
+    "category": "R",
+    "price": 870,
+    "regime": "CMU"
+  },
+  {
+    "code": "30020821",
+    "name": "CARBEN SUSP. BUV 100MG 5ML 30ML",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "MEBENDAZOLE",
+    "category": "R",
+    "price": 1336,
+    "regime": "CMU"
+  },
+  {
+    "code": "30022115",
+    "name": "COMBIFRINIL SUSP. BUV 5% 15ML",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "PYRANTEL",
+    "category": "R",
+    "price": 1568,
+    "regime": "CMU"
+  },
+  {
+    "code": "20020845",
+    "name": "FLUB SUSP. BUV 600MG 30ML",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "FLUBENDAZOLE",
+    "category": "R",
+    "price": 2946,
+    "regime": "CMU"
+  },
+  {
+    "code": "10020845",
+    "name": "FLUVERMAL SUSP. BUV 100MG 5ML 30ML",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "FLUBENDAZOLE",
+    "category": "R",
+    "price": 2417,
+    "regime": "CMU"
+  },
+  {
+    "code": "20022115",
+    "name": "HELMINTOX SUSP. BUV 5% 15ML",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "PYRANTEL",
+    "category": "R",
+    "price": 1438,
+    "regime": "CMU"
+  },
+  {
+    "code": "60020838",
+    "name": "LICDAZOL 400MG SUSP BUV FL/10 ML",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "ALBENDAZOLE",
+    "category": "R",
+    "price": 820,
+    "regime": "CMU"
+  },
+  {
+    "code": "10020821",
+    "name": "MEBENDAZOLE UBI SUSP. BUV 100MG 5ML 30ML",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "MEBENDAZOLE",
+    "category": "R",
+    "price": 904,
+    "regime": "CMU"
+  },
+  {
+    "code": "10022115",
+    "name": "PYRANTOX SUSP. BUV 50MG 1ML 15ML",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "PYRANTEL",
+    "category": "R",
+    "price": 1262,
+    "regime": "CMU"
+  },
+  {
+    "code": "31020806",
+    "name": "SANIVER CPR. 400MG",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "ALBENDAZOLE",
+    "category": "R",
+    "price": 417,
+    "regime": "CMU"
+  },
+  {
+    "code": "70020838",
+    "name": "SANIVER SUSP. BUV 40MG 1ML 10ML",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "ALBENDAZOLE",
+    "category": "R",
+    "price": 691,
+    "regime": "CMU"
+  },
+  {
+    "code": "21020806",
+    "name": "SANOZOL CPR. 400MG 3",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "ALBENDAZOLE",
+    "category": "R",
+    "price": 1196,
+    "regime": "CMU"
+  },
+  {
+    "code": "80020838",
+    "name": "VERZOL SUSP. BUV 4% 10ML",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "ALBENDAZOLE",
+    "category": "R",
+    "price": 1008,
+    "regime": "CMU"
+  },
+  {
+    "code": "20020821",
+    "name": "WORMIN SUSP. BUV 100MG 5ML 30ML",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "MEBENDAZOLE",
+    "category": "R",
+    "price": 1216,
+    "regime": "CMU"
+  },
+  {
+    "code": "90020838",
+    "name": "ZEROVER SOL BUV FL/30 ML",
+    "group": "PARASITOLOGIE, ANTHELMINTIQUE",
+    "dci": "ALBENDAZOLE",
+    "category": "R",
+    "price": 995,
+    "regime": "CMU"
+  },
+  {
+    "code": "50021729",
+    "name": "ALLNAT F.IV LYOPH 120MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 2878,
+    "regime": "CMU"
+  },
+  {
+    "code": "110021712",
+    "name": "ALLNAT F.IV LYOPH 60MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 1720,
+    "regime": "CMU"
+  },
+  {
+    "code": "100021712",
+    "name": "AQUANATE AMP. INJ. 60MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 1378,
+    "regime": "CMU"
+  },
+  {
+    "code": "11021801",
+    "name": "ARSIQUINOFORME CPR. PELLICU 250MG 15",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "QUININE",
+    "category": "R",
+    "price": 3471,
+    "regime": "CMU"
+  },
+  {
+    "code": "90021712",
+    "name": "ARTEGEN FL.POUDRE 60MG 2ML",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 1463,
+    "regime": "CMU"
+  },
+  {
+    "code": "20021711",
+    "name": "ARTEQUIN LACT.300/375MG B/6",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE + MEFLOQUINE",
+    "category": "R",
+    "price": 3482,
+    "regime": "CMU"
+  },
+  {
+    "code": "10021711",
+    "name": "ARTEQUIN LACT.600/750MG B/6",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE + MEFLOQUINE",
+    "category": "R",
+    "price": 4563,
+    "regime": "CMU"
+  },
+  {
+    "code": "60021729",
+    "name": "ARTESUN FL.POUDRE 120MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 3175,
+    "regime": "CMU"
+  },
+  {
+    "code": "40021730",
+    "name": "ARTESUN FL.POUDRE 30MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 996,
+    "regime": "CMU"
+  },
+  {
+    "code": "80021712",
+    "name": "ARTESUN FL.POUDRE 60MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 1823,
+    "regime": "CMU"
+  },
+  {
+    "code": "10021713",
+    "name": "ARTESUPPO SUP.SECABL. 100MG B/6",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 2910,
+    "regime": "CMU"
+  },
+  {
+    "code": "20021713",
+    "name": "ARTESUPPO SUP.SECABL. 200MG B/6",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 3541,
+    "regime": "CMU"
+  },
+  {
+    "code": "30021713",
+    "name": "ARTESUPPO SUP.SECABL. 50MG B/6",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 1934,
+    "regime": "CMU"
+  },
+  {
+    "code": "21022544",
+    "name": "ASARTEM-P CPR. 40MG/ 320MG 9",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 3484,
+    "regime": "CMU"
+  },
+  {
+    "code": "31022546",
+    "name": "ASARTEM-P PD S/BUV 90/ 720MG 60ML",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 3965,
+    "regime": "CMU"
+  },
+  {
+    "code": "70021729",
+    "name": "CIELSUNATE PDR INJ+SOLV 120MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 3089,
+    "regime": "CMU"
+  },
+  {
+    "code": "70021712",
+    "name": "CIELSUNATE PDR INJ+SOLV 60MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 2243,
+    "regime": "CMU"
+  },
+  {
+    "code": "31022544",
+    "name": "COMBICURE SP CP.PEL 40MG/ 320MG 9",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 3783,
+    "regime": "CMU"
+  },
+  {
+    "code": "41022546",
+    "name": "COMBICURE SP SUSP 90MG/ 720MG 5ML 60ML",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 3017,
+    "regime": "CMU"
+  },
+  {
+    "code": "51021802",
+    "name": "COMBIMAL CPR. 500MG 50 /25",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "SULFADOXINE + PYRIMETHAMINE",
+    "category": "R",
+    "price": 480,
+    "regime": "CMU"
+  },
+  {
+    "code": "31022545",
+    "name": "DARTE Q GELULE 8",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 3961,
+    "regime": "CMU"
+  },
+  {
+    "code": "11022543",
+    "name": "D-ARTEPP CPR PELL20MG 160MG 6",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 1419,
+    "regime": "CMU"
+  },
+  {
+    "code": "41022544",
+    "name": "D-ARTEPP CPR PELL40MG 320MG 6",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 2963,
+    "regime": "CMU"
+  },
+  {
+    "code": "51022544",
+    "name": "D-ARTEPP CPR PELL40MG 320MG 9",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 3272,
+    "regime": "CMU"
+  },
+  {
+    "code": "41022545",
+    "name": "D-ARTEPP CPR PELL80MG 640MG 6",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 3857,
+    "regime": "CMU"
+  },
+  {
+    "code": "11022542",
+    "name": "DIARTEM IG CP.PEL 120/ 960MG 3",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 2940,
+    "regime": "CMU"
+  },
+  {
+    "code": "61022544",
+    "name": "DIARTEM IG CP.PEL 320/ 40MG 12",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 3165,
+    "regime": "CMU"
+  },
+  {
+    "code": "51022545",
+    "name": "DIARTEM IG CPR. PELLICU 1G ADLT 3",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 3542,
+    "regime": "CMU"
+  },
+  {
+    "code": "51022546",
+    "name": "DIARTEM IG PD P/SUS.BUV 120ML",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 2737,
+    "regime": "CMU"
+  },
+  {
+    "code": "71022544",
+    "name": "DIP 3 CPR SEC 40/ 320MG 9",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 2938,
+    "regime": "CMU"
+  },
+  {
+    "code": "81022544",
+    "name": "DIPHOS CPR. 40MG/ 320MG 9",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 3205,
+    "regime": "CMU"
+  },
+  {
+    "code": "91022544",
+    "name": "DUO COTECXIN CPR. 40MG/ 320MG 9",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 4043,
+    "regime": "CMU"
+  },
+  {
+    "code": "11022544",
+    "name": "DUOCOTEXCIN CPR. 320/40 MG B/9",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 5495,
+    "regime": "CMU"
+  },
+  {
+    "code": "101022544",
+    "name": "DUOQUIN CP.PEL 320/ 40MG 8",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 2500,
+    "regime": "CMU"
+  },
+  {
+    "code": "111022544",
+    "name": "DUOTAB CPR. 40MG/ 320MG 9",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 3478,
+    "regime": "CMU"
+  },
+  {
+    "code": "121022544",
+    "name": "DYARIAM CPR. 40MG/ 320MG 10",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 3511,
+    "regime": "CMU"
+  },
+  {
+    "code": "131022544",
+    "name": "EURARTESIM CP.PEL 40MG/ 320MG 9",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 3717,
+    "regime": "CMU"
+  },
+  {
+    "code": "141022544",
+    "name": "EURARTESIM CP.PEL320MG/ 40MG 12",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 4069,
+    "regime": "CMU"
+  },
+  {
+    "code": "11021802",
+    "name": "FANSIDAR CPR. 500/25 MG B3",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "SULFADOXINE + PYRIMETHAMINE",
+    "category": "R",
+    "price": 1240,
+    "regime": "CMU"
+  },
+  {
+    "code": "90021729",
+    "name": "GEN-M FL.POUDRE 120MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 3121,
+    "regime": "CMU"
+  },
+  {
+    "code": "80021729",
+    "name": "GEN-M FL.POUDRE 120MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 4547,
+    "regime": "CMU"
+  },
+  {
+    "code": "10021730",
+    "name": "GEN-M FL.POUDRE 30MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 927,
+    "regime": "CMU"
+  },
+  {
+    "code": "30021730",
+    "name": "GEN-M FL.POUDRE 30MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 1628,
+    "regime": "CMU"
+  },
+  {
+    "code": "60021712",
+    "name": "GEN-M FL.POUDRE 60MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 2190,
+    "regime": "CMU"
+  },
+  {
+    "code": "10021712",
+    "name": "GEN-M FL.POUDRE 60MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 1597,
+    "regime": "CMU"
+  },
+  {
+    "code": "41021802",
+    "name": "LARIDOX CPR. 525MG 3",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "SULFADOXINE + PYRIMETHAMINE",
+    "category": "R",
+    "price": 585,
+    "regime": "CMU"
+  },
+  {
+    "code": "50021712",
+    "name": "LARINATE FL.POUDRE 60MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 1323,
+    "regime": "CMU"
+  },
+  {
+    "code": "31021802",
+    "name": "MADAR CPR. 3",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "SULFADOXINE + PYRIMETHAMINE",
+    "category": "R",
+    "price": 446,
+    "regime": "CMU"
+  },
+  {
+    "code": "21022543",
+    "name": "MALACUR CP.DIS 20MG/ 160MG 6",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 2580,
+    "regime": "CMU"
+  },
+  {
+    "code": "151022544",
+    "name": "MALACUR CPR. 40MG/ 320MG 12",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 3959,
+    "regime": "CMU"
+  },
+  {
+    "code": "161022544",
+    "name": "MALACUR CPR. 40MG/ 320MG 9",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 3697,
+    "regime": "CMU"
+  },
+  {
+    "code": "61022546",
+    "name": "MALACUR SUS B 90MG/ 720MG 5ML 60ML",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 2559,
+    "regime": "CMU"
+  },
+  {
+    "code": "40021729",
+    "name": "MALAVAN FL.POUDRE 120MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 3136,
+    "regime": "CMU"
+  },
+  {
+    "code": "20021712",
+    "name": "MALAVAN FL.POUDRE 60MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 2147,
+    "regime": "CMU"
+  },
+  {
+    "code": "20021730",
+    "name": "MALAVAN PDR SOL INJ 30MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 955,
+    "regime": "CMU"
+  },
+  {
+    "code": "50021713",
+    "name": "MALAVAN SUP 50MG 2",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 1336,
+    "regime": "CMU"
+  },
+  {
+    "code": "21022701",
+    "name": "MALOXINE CPR.SECAB 3",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "SULFADOXINE + PYRIMETHAMINE",
+    "category": "R",
+    "price": 699,
+    "regime": "CMU"
+  },
+  {
+    "code": "11022701",
+    "name": "PALUXINE SULF/PYRI CPR. 25MG/ 500MG 3",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "SULFADOXINE + PYRIMETHAMINE",
+    "category": "R",
+    "price": 737,
+    "regime": "CMU"
+  },
+  {
+    "code": "30021729",
+    "name": "PHARSUNATE PD.SOL IM/IV 120MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 2943,
+    "regime": "CMU"
+  },
+  {
+    "code": "31022543",
+    "name": "PLASMOCUR CPR. 20MG/ 160MG 6",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 1672,
+    "regime": "CMU"
+  },
+  {
+    "code": "171022544",
+    "name": "PLASMOCUR CPR. 40MG/ 320MG 12",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 2349,
+    "regime": "CMU"
+  },
+  {
+    "code": "181022544",
+    "name": "PLASMOCUR CPR. 40MG/ 320MG 6",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 2070,
+    "regime": "CMU"
+  },
+  {
+    "code": "191022544",
+    "name": "PLASMOCUR CPR. 40MG/ 320MG 9",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 2129,
+    "regime": "CMU"
+  },
+  {
+    "code": "61022545",
+    "name": "PLASMOCUR CPR. 80MG/ 640MG 6",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 3445,
+    "regime": "CMU"
+  },
+  {
+    "code": "71022545",
+    "name": "PLASMOCUR CPR. 80MG/ 640MG 8",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 4330,
+    "regime": "CMU"
+  },
+  {
+    "code": "11022546",
+    "name": "PLASMOCUR SUSP BUV. 60ML",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 2212,
+    "regime": "CMU"
+  },
+  {
+    "code": "21022546",
+    "name": "PLASMOCUR SUSP BUV. 90ML",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 2838,
+    "regime": "CMU"
+  },
+  {
+    "code": "40021713",
+    "name": "PLASMOTRIM RECTOCAPS 50MG B/6",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 2548,
+    "regime": "CMU"
+  },
+  {
+    "code": "30021711",
+    "name": "PYRAMAX CPR 180MG/ 60MG B/6",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE + PYRONARIDINE",
+    "category": "R",
+    "price": 3265,
+    "regime": "CMU"
+  },
+  {
+    "code": "10021710",
+    "name": "PYRAMAX S.BUV 60MG/ 20MG B/6",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE + PYRONARIDINE",
+    "category": "R",
+    "price": 1930,
+    "regime": "CMU"
+  },
+  {
+    "code": "41021801",
+    "name": "QUINEX CPR. PELLICU 300MG 18",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "QUININE",
+    "category": "R",
+    "price": 3066,
+    "regime": "CMU"
+  },
+  {
+    "code": "51021801",
+    "name": "QUININE SULF APH CPR. 300MG 20",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "QUININE",
+    "category": "R",
+    "price": 5235,
+    "regime": "CMU"
+  },
+  {
+    "code": "21021801",
+    "name": "QUININE SULFAT CRE CPR. 300MG 10",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "QUININE",
+    "category": "R",
+    "price": 1350,
+    "regime": "CMU"
+  },
+  {
+    "code": "20021729",
+    "name": "RAPINATE AMP. INJ. 120MG 1ML",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 2727,
+    "regime": "CMU"
+  },
+  {
+    "code": "40021712",
+    "name": "RAPINATE AMP. INJ. 60ML",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 1609,
+    "regime": "CMU"
+  },
+  {
+    "code": "201022544",
+    "name": "RIDMAL CP.PEL 40MG/ 320MG 12",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 4596,
+    "regime": "CMU"
+  },
+  {
+    "code": "211022544",
+    "name": "RIDMAL CP.PEL 40MG/ 320MG 3",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 3785,
+    "regime": "CMU"
+  },
+  {
+    "code": "221022544",
+    "name": "RIDMAL CP.PEL 40MG/ 320MG 6",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 4884,
+    "regime": "CMU"
+  },
+  {
+    "code": "231022544",
+    "name": "RIDMAL CP.PEL 40MG/ 320MG 9",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 4161,
+    "regime": "CMU"
+  },
+  {
+    "code": "21022542",
+    "name": "RIDMAL CPR. 120MG/ 960MG 3",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 3799,
+    "regime": "CMU"
+  },
+  {
+    "code": "21022545",
+    "name": "RIDMAL CPR. 80MG/ 640MG 3",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 2873,
+    "regime": "CMU"
+  },
+  {
+    "code": "11022545",
+    "name": "RIDMAL CPR. 80MG/ 640MG 6",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 4166,
+    "regime": "CMU"
+  },
+  {
+    "code": "41022543",
+    "name": "RIDMAL DT CPR 20MG/ 160MG 3",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 2120,
+    "regime": "CMU"
+  },
+  {
+    "code": "241022544",
+    "name": "RIDMAL DT CPR. 40MG/ 320MG 3",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "DIHYDROARTEMISININ + PIPERAQUINE",
+    "category": "R",
+    "price": 2410,
+    "regime": "CMU"
+  },
+  {
+    "code": "21021802",
+    "name": "SP-LIC CPR. 525MG 3",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "SULFADOXINE + PYRIMETHAMINE",
+    "category": "R",
+    "price": 584,
+    "regime": "CMU"
+  },
+  {
+    "code": "30021712",
+    "name": "SUNATE PDR V. IM/IV 60MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 1493,
+    "regime": "CMU"
+  },
+  {
+    "code": "10021729",
+    "name": "SUNAVEINE FL + SOLV 120MG",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "ARTESUNATE",
+    "category": "R",
+    "price": 2512,
+    "regime": "CMU"
+  },
+  {
+    "code": "31021801",
+    "name": "SURQUINA CPR. 250MG 18",
+    "group": "PARASITOLOGIE, ANTIPALUDIQUE",
+    "dci": "QUININE",
+    "category": "R",
+    "price": 3018,
+    "regime": "CMU"
+  },
+  {
+    "code": "30170397",
+    "name": "AEROL 100MCG SUSP INH DOSE F/2",
+    "group": "PNEUMOLOGIE, ANTIASTHMATIQUE",
+    "dci": "SALBUTAMOL",
+    "category": "R",
+    "price": 2895,
+    "regime": "CMU"
+  },
+  {
+    "code": "30170410",
+    "name": "ASTHALEX SYROP 2MG 5ML 100ML",
+    "group": "PNEUMOLOGIE, ANTIASTHMATIQUE",
+    "dci": "SALBUTAMOL",
+    "category": "R",
+    "price": 2480,
+    "regime": "CMU"
+  },
+  {
+    "code": "10170397",
+    "name": "BUTAMYL 100MCG/DOSE AERO DOSE/",
+    "group": "PNEUMOLOGIE, ANTIASTHMATIQUE",
+    "dci": "SALBUTAMOL",
+    "category": "R",
+    "price": 3030,
+    "regime": "CMU"
+  },
+  {
+    "code": "20170397",
+    "name": "LOXAIR 100MCG AER DOSES/200",
+    "group": "PNEUMOLOGIE, ANTIASTHMATIQUE",
+    "dci": "SALBUTAMOL",
+    "category": "R",
+    "price": 3045,
+    "regime": "CMU"
+  },
+  {
+    "code": "20170410",
+    "name": "SALBUTUS SIROP 2MG 5ML 200ML",
+    "group": "PNEUMOLOGIE, ANTIASTHMATIQUE",
+    "dci": "SALBUTAMOL",
+    "category": "R",
+    "price": 2095,
+    "regime": "CMU"
+  },
+  {
+    "code": "10170410",
+    "name": "VENTOLINE SOL.BUV 2MG 5ML 150ML",
+    "group": "PNEUMOLOGIE, ANTIASTHMATIQUE",
+    "dci": "SALBUTAMOL",
+    "category": "R",
+    "price": 3248,
+    "regime": "CMU"
+  },
+  {
+    "code": "11160717",
+    "name": "NIFCAL CPR. 10MG 30",
+    "group": "UTÉRORELAXANTS",
+    "dci": "NIFEDIPINE",
+    "category": "R",
+    "price": 3171,
+    "regime": "CMU"
+  },
+  {
+    "code": "21160717",
+    "name": "NIFEDI-DENK CPR L.P 10MG 10",
+    "group": "UTÉRORELAXANTS",
+    "dci": "NIFEDIPINE",
+    "category": "R",
+    "price": 580,
+    "regime": "CMU"
+  }
+]

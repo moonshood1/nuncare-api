@@ -18,8 +18,6 @@ const getArticleComments = async ({ query }, res, next) => {
       article: article._id,
     });
 
-    console.log({ comments });
-
     return res.status(200).json({ success: true, comments });
   } catch (error) {
     console.log(error);
