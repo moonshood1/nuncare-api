@@ -6,7 +6,10 @@ const { getUserArticles } = require("./getUserArticles");
 const { likeArticle } = require("./likeArticle");
 const { readNotification } = require("./readNotification");
 const { registerChatRoom } = require("./registerChatRoom");
+const { submitKyc } = require("./submitKyc");
+const { toggleHiddensValues } = require("./toggleHiddensValues");
 const { updateAllUserInformations } = require("./updateAllUserInformations");
+const { updateArticle } = require("./updateArticle");
 const { updateUserInformations } = require("./updateUserInformations");
 
 module.exports = {
@@ -20,4 +23,7 @@ module.exports = {
   createArticle,
   updateAllUserInformations,
   commentArticle,
+  updateArticle,
+  toggleHiddensValues,
+  submitKyc,
 };

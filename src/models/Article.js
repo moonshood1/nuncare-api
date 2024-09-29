@@ -49,6 +49,14 @@ const ArticleSchema = new Schema(
       type: Boolean,
       default: true,
     },
+    externalLink: {
+      type: String,
+      default: "",
+    },
+    externalLinkTitle: {
+      type: String,
+      default: "",
+    },
   },
   {
     timestamps: true,

@@ -1,0 +1,69 @@
+[
+  {
+    "name": "ADJAME",
+    "areas": ["CENTRE", "220 LOGEMENTS", "WILLIAMSVILLE"]
+  },
+  {
+    "name": "ABOBO",
+    "areas": [
+      "DOKUI - ABOBO TE",
+      "ABOBO BAOULE - BELLE VILLE",
+      "NDOTRE - PK18",
+      "KENEDY - KLOUETCHA",
+      "ABORDS DE L'AUTOROUTE",
+      "DERRIERE MAIRIE - AVOCATIER - AKEIKOI"
+    ]
+  },
+  {
+    "name": "KOUMASSI",
+    "areas": ["REMBLAIS", "CENTRE", "PRODOMO", "BIETRY"]
+  },
+  {
+    "name": "MARCORY",
+    "areas": ["CENTRE", "ALLIODAN", "ZONE 4"]
+  },
+  {
+    "name": "TREICHVILLE",
+    "areas": ["CENTRE", "ZONE DU PORT", "SITARAIL-ZONE 2", "ARRAS - BELLEVILLE"]
+  },
+  {
+    "name": "PLATEAU",
+    "areas": ["CENTRE", "RUE DU COMMERCE"]
+  },
+  {
+    "name": "COCODY",
+    "areas": [
+      "CENTRE",
+      "CANEBIERE - LYCEE TECHNIQUE",
+      "RIVIERA 1 -2",
+      "BONOUMIN - ATTOBAN",
+      "RIVIERA 3 - MPOUTO",
+      "PALMERAIE",
+      "FAYA",
+      "DEUX PLATEAUX",
+      "7E TRANCHE",
+      "ANGRE - MAHOU",
+      "DJIBI - 8E TRANCHE - 9E TRANCHE"
+    ]
+  },
+  {
+    "name": "YOPOUGON",
+    "areas": ["EST", "CENTRE", "OUEST"]
+  },
+  {
+    "name": "PORT BOUET",
+    "areas": ["PORT BOUET - VRIDI", "GONZAGUEVILLE - ADJOUFFOU"]
+  },
+  {
+    "name": "ATTECOUBE",
+    "areas": ["ATTECOUBE"]
+  },
+  {
+    "name": "ANYAMA",
+    "areas": ["ANYAMA"]
+  },
+  {
+    "name": "BINGERVILLE",
+    "areas": ["BINGERVILLE"]
+  }
+]

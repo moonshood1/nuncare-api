@@ -20,6 +20,14 @@ const InfoSchema = new Schema(
       type: Array,
       default: [],
     },
+    link: {
+      type: String,
+      required: true,
+    },
+    isActive: {
+      type: Boolean,
+      default: true,
+    },
   },
   {
     timestamps: true,

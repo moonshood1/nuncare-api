@@ -2,6 +2,13 @@ const mongoose = require("mongoose");
 
 const Schema = mongoose.Schema;
 
+const KYC_STATUSES = {
+  NOT_STARTED: "NOT_STARTED",
+  PENDING: "PENDING",
+  REJECTED: "REJECTED",
+  APPROVED: "APPROVED",
+};
+
 const UserSchema = new Schema(
   {
     firebaseId: {
@@ -64,6 +71,10 @@ const UserSchema = new Schema(
       type: String,
       default: "",
     },
+    isPhoneHidden: {
+      type: Boolean,
+      default: false,
+    },
     lat: {
       type: Number,
       default: 0,
@@ -92,6 +103,10 @@ const UserSchema = new Schema(
       type: String,
       default: "",
     },
+    isOrderNumberHidden: {
+      type: Boolean,
+      default: false,
+    },
     deviceId: {
       type: String,
       default: "",
@@ -99,6 +114,10 @@ const UserSchema = new Schema(
     promotion: {
       type: String,
       default: "",
+    },
+    kycStatus: {
+      type: String,
+      default: KYC_STATUSES.NOT_STARTED,
     },
   },
   {

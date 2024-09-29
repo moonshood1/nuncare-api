@@ -14,13 +14,19 @@ const createArticle = async ({ body, user }, res, next) => {
           "Un article avec ce titre existe deja sur votre compte , veuillez le modifier",
       });
     }
+
+    let titleFormatted =
+      body.title.charAt(0).toUpperCase() + body.title.slice(1);
+
     await Article.create({
-      title: body.title,
+      title: titleFormatted,
       description: body.description,
       content: body.content,
       img: body.img,
       author: user._id,
       authorName: user.firstName + " " + user.lastName,
+      externalLink: body.externalLink ?? "",
+      externalLinkTitle: body.externalLinkTitle ?? "",
     });
     return res.status(200).json({
       success: true,
@@ -29,6 +35,10 @@ const createArticle = async ({ body, user }, res, next) => {
     });
   } catch (error) {
     console.log(error);
+    return res.status(400).json({
+      success: false,
+      message: "Une erreur est survenur lors de la création de l'article",
+    });
     next(error);
   }
 };

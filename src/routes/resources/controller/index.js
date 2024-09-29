@@ -26,6 +26,12 @@ const { getDoctorsArticles } = require("./getDoctorsArticles");
 const { getPromotions } = require("./getPromotions");
 const { getArticleComments } = require("./getCommentsForArticle");
 const { getRegions } = require("./getRegions");
+const { getSections } = require("./getSections");
+const { getAreasForSelectedSection } = require("./getAreasForSelectedSection");
+const {
+  getPharmaciesWithCustomSearch,
+} = require("./getPharmaciesWithCustomSearch");
+const { getKycDocumentType } = require("./getKycDocumentType");
 
 module.exports = {
   getAds,
@@ -54,4 +60,8 @@ module.exports = {
   getPromotions,
   getArticleComments,
   getRegions,
+  getSections,
+  getAreasForSelectedSection,
+  getPharmaciesWithCustomSearch,
+  getKycDocumentType,
 };

@@ -26,6 +26,10 @@ const {
   getPromotions,
   getArticleComments,
   getRegions,
+  getSections,
+  getAreasForSelectedSection,
+  getPharmaciesWithCustomSearch,
+  getKycDocumentType,
 } = require("./controller");
 const { firebaseToken } = require("../../services/auth");
 
@@ -54,6 +58,7 @@ router.post("/hospitals-localize", localizeHospitals);
 router.get("/pharmacies", getPharmacies);
 router.post("/pharmacies-search", searchPharmacies);
 router.post("/pharmacies-localize", localizePharmacies);
+router.post("/pharmacies-custom-search", getPharmaciesWithCustomSearch);
 
 router.get("/medecines", getMedecines);
 router.post("/medecines-search", searchMedecines);
@@ -67,5 +72,8 @@ router.get("/districts", getDistricts);
 router.get("/regions-search", getRegionsForSelectedDistrict);
 router.get("/regions", getRegions);
 router.get("/cities-search", getCitiesForSelectedRegion);
+router.get("/sections", getSections);
+router.get("/areas-search", getAreasForSelectedSection);
+router.get("/kyc-documents", getKycDocumentType);
 
 module.exports = router;

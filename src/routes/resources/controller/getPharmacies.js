@@ -6,7 +6,7 @@ const getPharmacies = async ({ query }, res, next) => {
     const { size } = query;
 
     const pharmacies = await Pharmacy.find({})
-      .sort({ createdAt: -1 })
+      .sort({ isGuard: -1 })
       .limit(size)
       .exec();
 
