@@ -1,4 +1,5 @@
 const Doctor = require("../../../models/User");
+const _ = require("lodash");
 
 const localizeDoctors = async ({ query, user }, res, next) => {
   try {

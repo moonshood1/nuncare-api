@@ -57,7 +57,7 @@ router.post("/hospitals-localize", localizeHospitals);
 
 router.get("/pharmacies", getPharmacies);
 router.post("/pharmacies-search", searchPharmacies);
-router.post("/pharmacies-localize", localizePharmacies);
+router.get("/pharmacies-localize", localizePharmacies);
 router.post("/pharmacies-custom-search", getPharmaciesWithCustomSearch);
 
 router.get("/medecines", getMedecines);
