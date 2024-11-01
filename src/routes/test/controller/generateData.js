@@ -5,6 +5,7 @@ const sections = require("../../test/controller/sections_and_areas.json");
 const Section = require("../../../models/Section");
 const Area = require("../../../models/Area");
 const Info = require("../../../models/Info");
+const Ad = require("../../../models/Ad");
 
 const generateData = async (req, res, next) => {
   try {

@@ -6,6 +6,7 @@ const { getUserArticles } = require("./getUserArticles");
 const { likeArticle } = require("./likeArticle");
 const { readNotification } = require("./readNotification");
 const { registerChatRoom } = require("./registerChatRoom");
+const { requestDeletion } = require("./requestDeletion");
 const { submitKyc } = require("./submitKyc");
 const { toggleHiddensValues } = require("./toggleHiddensValues");
 const { updateAllUserInformations } = require("./updateAllUserInformations");
@@ -26,4 +27,5 @@ module.exports = {
   updateArticle,
   toggleHiddensValues,
   submitKyc,
+  requestDeletion,
 };
