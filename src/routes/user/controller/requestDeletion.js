@@ -1,5 +1,5 @@
 const _ = require("lodash");
-const Deletion = require("../../../models/");
+const Deletion = require("../../../models/AccountDeletion");
 
 const requestDeletion = async ({ body, user }, res, next) => {
   try {
@@ -18,13 +18,11 @@ const requestDeletion = async ({ body, user }, res, next) => {
       reason: body.reason,
     });
 
-    return res
-      .status(200)
-      .json({
-        success: true,
-        message:
-          "Votre demande de suppression de compte a bien été prise en compte",
-      });
+    return res.status(200).json({
+      success: true,
+      message:
+        "Votre demande de suppression de compte a bien été prise en compte",
+    });
   } catch (error) {
     console.log(error);
     next(error);
