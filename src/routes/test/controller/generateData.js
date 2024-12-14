@@ -6,6 +6,7 @@ const Section = require("../../../models/Section");
 const Area = require("../../../models/Area");
 const Info = require("../../../models/Info");
 const Ad = require("../../../models/Ad");
+const Article = require("../../../models/Article");
 
 const generateData = async (req, res, next) => {
   try {
@@ -15,6 +16,9 @@ const generateData = async (req, res, next) => {
     //   img: "",
     //   link: "",
     // });
+
+    await Article.deleteMany({});
+    await User.deleteMany({});
 
     return res.status(200).json({ success: true });
   } catch (error) {

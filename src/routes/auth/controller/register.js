@@ -41,7 +41,6 @@ const register = async ({ body }, res, next) => {
       years: body.years,
       img: "https://res.cloudinary.com/dhc0siki5/image/upload/v1710070251/nuncare/person_i8vdce.jpg",
       phone: body.phone,
-      city: "",
       address: "",
       lat: 0,
       lng: 0,
@@ -49,8 +48,9 @@ const register = async ({ body }, res, next) => {
       isActive: true,
       deviceId: "",
       promotion: body.promotion,
-      district: "",
+      // district: "",
       region: body.region,
+      city: body.city,
     });
 
     return res.status(200).json({
