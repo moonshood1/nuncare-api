@@ -1,8 +1,12 @@
 const Medecine = require("../../../models/Medecine");
 
-const getMedecines = async (req, res, next) => {
+const getMedecines = async ({ query }, res, next) => {
   try {
-    const medecines = await Medecine.find({}).limit(10).sort({ createdAt: -1 });
+    let limit = query.limit ?? 10;
+
+    const medecines = await Medecine.find({})
+      .limit(limit)
+      .sort({ createdAt: -1 });
 
     return res.status(200).json({
       success: true,

@@ -1,6 +1,6 @@
 const Medecine = require("../../../models/Medecine");
 
-const addMedecine = async (req, res, next) => {
+const addMedecine = async ({ body }, res, next) => {
   try {
     const medecine = await Medecine.findOne({
       label: body.label,

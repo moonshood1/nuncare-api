@@ -9,8 +9,6 @@ const getAdmins = async (req, res, next) => {
     let adminPermissions = [];
 
     for (let i = 0; i < admins.length; i++) {
-      console.log({ permissions: admins[i].permissions });
-
       for (let j = 0; j < admins[i].permissions.length; j++) {
         const permissionId = admins[i].permissions[j];
 

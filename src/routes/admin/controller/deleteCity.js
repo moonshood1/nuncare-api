@@ -1,7 +1,25 @@
-const deleteCity = (req, res, next) => {
+const City = require("../../../models/City");
+
+const deleteCity = async ({ body }, res, next) => {
   try {
+    const { _id } = body;
+
+    const result = await City.findById(_id);
+
+    if (!result) {
+      return res.status(400).json({
+        success: false,
+        message: "Ville introuvable",
+      });
+    }
+
+    await City.deleteOne({
+      _id: result._id,
+    });
+
     return res.status(200).json({
       success: true,
+      message: "Ville supprimée",
     });
   } catch (error) {
     console.log(error);

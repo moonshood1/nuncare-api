@@ -17,8 +17,8 @@ const generateData = async (req, res, next) => {
     //   link: "",
     // });
 
-    await Article.deleteMany({});
-    await User.deleteMany({});
+    // await Article.deleteMany({});
+    // await User.deleteMany({});
 
     return res.status(200).json({ success: true });
   } catch (error) {

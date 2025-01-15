@@ -1,8 +1,12 @@
 const Article = require("../../../models/Article");
 
-const getArticles = async (req, res, next) => {
+const getArticles = async ({ query }, res, next) => {
   try {
-    const articles = await Article.find({}).limit(10).sort({ createdAt: -1 });
+    let limit = query.limit ?? 10;
+
+    const articles = await Article.find({})
+      .limit(limit)
+      .sort({ createdAt: -1 });
 
     return res.status(200).json({
       success: true,

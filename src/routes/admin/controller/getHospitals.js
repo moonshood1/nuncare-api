@@ -1,8 +1,12 @@
 const Hospital = require("../../../models/Hospital");
 
-const getHospitals = async (req, res, next) => {
+const getHospitals = async ({ query }, res, next) => {
   try {
-    const hospitals = await Hospital.find({}).limit(10).sort({ createdAt: -1 });
+    let limit = query.limit ?? 10;
+
+    const hospitals = await Hospital.find({})
+      .limit(limit)
+      .sort({ createdAt: -1 });
 
     return res.status(200).json({
       success: true,

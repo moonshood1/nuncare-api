@@ -1,8 +1,10 @@
 const Region = require("../../../models/Region");
 
-const getRegions = async (req, res, next) => {
+const getRegions = async ({ query }, res, next) => {
   try {
-    const regions = await Region.find({}).limit(10).sort({ createdAt: -1 });
+    let limit = query.limit ?? 10;
+
+    const regions = await Region.find({}).limit(limit).sort({ createdAt: -1 });
 
     return res.status(200).json({
       success: true,

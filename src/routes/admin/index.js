@@ -30,24 +30,17 @@ const {
   getArticles,
   updateArticle,
   deleteArticle,
+  getSpecialities,
+  updateSpeciality,
+  deleteSpeciality,
+  getDeletionRequests,
+  updateDeletionAccountRequest,
 } = require("./controller");
 const { adminToken } = require("../../services/auth");
 
 const router = express.Router();
 
-router.post(
-  "/login",
-  // [
-  //   body("email")
-  //     .isEmail()
-  //     .withMessage("Veuillez fournir un email valide")
-  //     .not()
-  //     .isEmpty()
-  //     .withMessage("L'email ne peut pas être vide"),
-  //   body("password").not().isEmpty().withMessage("Le mot de passe est requis"),
-  // ],
-  login
-);
+router.post("/login", login);
 
 router.get("/admins-get", adminToken, getAdmins);
 router.put("/admins-update", adminToken, updateAdminPermission);
@@ -89,5 +82,16 @@ router.delete("/hospital-delete", adminToken, deleteHospital);
 router.get("/articles", getArticles);
 router.put("/articles-update", adminToken, updateArticle);
 router.delete("/articles-delete", adminToken, deleteArticle);
+
+router.get("/speciality", getSpecialities);
+router.put("/speciality-update", adminToken, updateSpeciality);
+router.delete("/speciality-delete", adminToken, deleteSpeciality);
+
+router.get("/requests/account-deletions", getDeletionRequests);
+router.put(
+  "/requests/account-deletions",
+  adminToken,
+  updateDeletionAccountRequest
+);
 
 module.exports = router;

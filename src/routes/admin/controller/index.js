@@ -31,6 +31,14 @@ const { updateAdminPermission } = require("./updateAdminPermission");
 const { getArticles } = require("./getArticles");
 const { updateArticle } = require("./updateArticle");
 const { deleteArticle } = require("./deleteArticle");
+const { addSpeciality } = require("./addSpeciality");
+const { getSpecialities } = require("./getSpecialities");
+const { deleteSpeciality } = require("./deleteSpeciality");
+const { updateSpeciality } = require("./updateSpeciality");
+const { getDeletionRequests } = require("./getDeletionRequest");
+const {
+  updateDeletionAccountRequest,
+} = require("./updateDeletionAccountRequest");
 
 module.exports = {
   login,
@@ -45,6 +53,8 @@ module.exports = {
   updateMedecine,
   updatePharmacy,
   updateArticle,
+  updateSpeciality,
+  updateDeletionAccountRequest,
 
   addMedecine,
   addPharmacy,
@@ -52,6 +62,7 @@ module.exports = {
   addRegion,
   addCity,
   addHospital,
+  addSpeciality,
 
   getAds,
   getDoctors,
@@ -61,6 +72,8 @@ module.exports = {
   getPharmacies,
   getMedecines,
   getArticles,
+  getSpecialities,
+  getDeletionRequests,
 
   deleteAds,
   deleteDoctor,
@@ -70,4 +83,5 @@ module.exports = {
   deleteMedecine,
   deletePharmacy,
   deleteArticle,
+  deleteSpeciality,
 };

@@ -1,8 +1,10 @@
 const Ad = require("../../../models/Ad");
 
-const getAds = async (req, res, next) => {
+const getAds = async ({ query }, res, next) => {
   try {
-    const ads = await Ad.find({}).limit(10).sort({ createdAt: -1 });
+    let limit = query.limit ?? 10;
+
+    const ads = await Ad.find({}).limit(limit).sort({ createdAt: -1 });
 
     return res.status(200).json({
       success: true,

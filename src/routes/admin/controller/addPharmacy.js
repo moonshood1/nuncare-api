@@ -1,7 +1,7 @@
 const Pharmacy = require("../../../models/Pharmacy");
 const _ = require("lodash");
 
-const addPharmacy = async (req, res, next) => {
+const addPharmacy = async ({ body }, res, next) => {
   try {
     if (_.isEmpty(body.name)) {
       return res.status(400).json({
