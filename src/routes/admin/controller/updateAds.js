@@ -5,7 +5,7 @@ const updateAds = async (req, res, next) => {
   try {
     const { body } = req;
 
-    const ad = await Ad.findById(body._id);
+    const ad = await Ad.findById(body.id);
 
     const updatedAd = _.assign(ad, { ...body.data });
 

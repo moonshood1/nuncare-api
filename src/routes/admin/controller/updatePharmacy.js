@@ -5,7 +5,7 @@ const updatePharmacy = async (req, res, next) => {
   try {
     const { body } = req;
 
-    const pharmacy = await Pharmacy.findById(body._id);
+    const pharmacy = await Pharmacy.findById(body.id);
 
     const updatedPharmacy = _.assign(pharmacy, { ...body.data });
 

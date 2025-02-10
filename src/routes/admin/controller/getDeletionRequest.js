@@ -5,7 +5,9 @@ const getDeletionRequests = async ({ query }, res, next) => {
   try {
     let limit = query.limit ?? 10;
 
-    const requests = Deletion.find({}).limit(limit).sort({ createdAt: -1 });
+    const requests = await Deletion.find({})
+      .limit(limit)
+      .sort({ createdAt: -1 });
 
     return res.status(200).json({
       success: true,

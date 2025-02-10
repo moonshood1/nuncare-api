@@ -5,7 +5,14 @@ const updateDoctor = async (req, res, next) => {
   try {
     const { body } = req;
 
-    const user = await Doctor.findById(body._id);
+    const user = await Doctor.findById(body.id);
+
+    if (!user) {
+      return res.status(400).json({
+        success: false,
+        message: "Aucun docteur correspond à cet identifiant",
+      });
+    }
 
     const updatedDoctor = _.assign(user, { ...body.data });
 
