@@ -27,6 +27,7 @@ const createArticle = async ({ body, user }, res, next) => {
       authorName: user.firstName + " " + user.lastName,
       externalLink: body.externalLink ?? "",
       externalLinkTitle: body.externalLinkTitle ?? "",
+      type: body.type,
     });
     return res.status(200).json({
       success: true,
