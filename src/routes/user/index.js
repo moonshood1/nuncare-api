@@ -22,7 +22,7 @@ const router = express.Router();
 router.get("/", firebaseToken, getInformations);
 router.get("/articles", firebaseToken, getUserArticles);
 router.post("/articles-create", firebaseToken, createArticle);
-router.purge("/article-update", firebaseToken, updateArticle);
+router.put("/article-update", firebaseToken, updateArticle);
 router.put("/", firebaseToken, updateUserInformations);
 router.put("/update-informations", firebaseToken, updateAllUserInformations);
 router.post("/chat-room", firebaseToken, registerChatRoom);
