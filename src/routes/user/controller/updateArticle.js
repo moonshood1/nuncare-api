@@ -1,4 +1,5 @@
 const Article = require("../../../models/Article");
+const _ = require("lodash");
 
 const updateArticle = async ({ body, user }, res, next) => {
   try {
@@ -13,12 +14,12 @@ const updateArticle = async ({ body, user }, res, next) => {
         message: "Une erreur est survenur lors de la modification de l'article",
       });
     }
-    const fieldsToUpdate = body;
+    const fieldsToUpdate = _.omit(body, "id");
 
     await Article.updateOne(
       {
         author: user._id,
-        _id: body._id,
+        _id: body.id,
       },
       {
         $set: fieldsToUpdate,
@@ -35,7 +36,6 @@ const updateArticle = async ({ body, user }, res, next) => {
       success: false,
       message: "Une erreur est survenur lors de la modification de l'article",
     });
-    next(error);
   }
 };
 
