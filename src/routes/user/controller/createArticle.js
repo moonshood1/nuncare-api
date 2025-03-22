@@ -28,6 +28,7 @@ const createArticle = async ({ body, user }, res, next) => {
       externalLink: body.externalLink ?? "",
       externalLinkTitle: body.externalLinkTitle ?? "",
       type: body.type,
+      coverImage: body.coverImage,
     });
     return res.status(200).json({
       success: true,

@@ -4,7 +4,7 @@ const updateArticle = async ({ body, user }, res, next) => {
   try {
     const article = await Article.findOne({
       author: user._id,
-      _id: body._id,
+      _id: body.id,
     });
 
     if (!article) {
