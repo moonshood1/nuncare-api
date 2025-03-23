@@ -7,7 +7,7 @@ const getDoctors = async ({ user }, res, next) => {
       firebaseId: { $ne: user.firebaseId },
     })
       .sort({ createdAt: -1 })
-      .limit(5);
+      .limit(15);
 
     // const db = admin.firestore();
 
