@@ -55,12 +55,16 @@ const firebaseToken = (req, res, next) => {
     .auth()
     .verifyIdToken(token)
     .then(async (decodedToken) => {
+      console.log({ token });
       const user = await User.findOne({ firebaseId: decodedToken.uid });
       req.user = user;
       next();
     })
     .catch((error) => {
-      console.error("Erreur lors de la vérification du token Firebase:", error);
+      console.error(
+        "Erreur lors de la vérification du token Firebase AUTH:",
+        error
+      );
       return res
         .status(401)
         .json({ success: false, message: "Veuillez vous identifier" });
