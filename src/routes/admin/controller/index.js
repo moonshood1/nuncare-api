@@ -39,6 +39,8 @@ const { getDeletionRequests } = require("./getDeletionRequest");
 const {
   updateDeletionAccountRequest,
 } = require("./updateDeletionAccountRequest");
+const { updateKycSubmission } = require("./updateKycSubmission");
+const { getKycSubmissions } = require("./getKycSubmissions");
 
 module.exports = {
   login,
@@ -84,4 +86,7 @@ module.exports = {
   deletePharmacy,
   deleteArticle,
   deleteSpeciality,
+
+  updateKycSubmission,
+  getKycSubmissions,
 };

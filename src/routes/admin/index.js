@@ -35,6 +35,9 @@ const {
   deleteSpeciality,
   getDeletionRequests,
   updateDeletionAccountRequest,
+  updateKycSubmission,
+  addSpeciality,
+  getKycSubmissions,
 } = require("./controller");
 const { adminToken } = require("../../services/auth");
 
@@ -84,6 +87,7 @@ router.put("/articles-update", adminToken, updateArticle);
 router.delete("/articles-delete", adminToken, deleteArticle);
 
 router.get("/speciality", getSpecialities);
+router.post("/speciality-create", adminToken, addSpeciality);
 router.put("/speciality-update", adminToken, updateSpeciality);
 router.delete("/speciality-delete", adminToken, deleteSpeciality);
 
@@ -93,5 +97,7 @@ router.put(
   adminToken,
   updateDeletionAccountRequest
 );
+router.get("/requests/kyc-submission", adminToken, getKycSubmissions);
+router.put("/requests/kyc-submission", adminToken, updateKycSubmission);
 
 module.exports = router;

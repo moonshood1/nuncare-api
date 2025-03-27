@@ -126,3 +126,4 @@ const UserSchema = new Schema(
 );
 
 module.exports = mongoose.model("User", UserSchema);
+module.exports = { KYC_STATUSES };

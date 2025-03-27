@@ -4,7 +4,7 @@ const getLastRegistered = async ({ user }, res, next) => {
   try {
     const doctors = await Doctor.find({ firebaseId: { $ne: user.firebaseId } })
       .sort({ createdAt: -1 })
-      .limit(5)
+      .limit(6)
       .exec();
 
     return res.status(200).json({
