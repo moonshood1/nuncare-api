@@ -37,7 +37,7 @@ const updateKycSubmission = async (req, res, next) => {
         {
           $set: {
             isActive: true,
-            kycStatus: Doctor.KYC_STATUSES.APPROVED,
+            kycStatus: "APPROVED",
             firstName: request.firstName,
             lastName: request.lastName,
           },
@@ -50,7 +50,7 @@ const updateKycSubmission = async (req, res, next) => {
         },
         {
           $set: {
-            status: KycRequest.KYC_STATUSES.APPROVED,
+            status: KycRequest.KYC_STATUSES.REJECTED,
           },
         }
       );
@@ -61,7 +61,7 @@ const updateKycSubmission = async (req, res, next) => {
         },
         {
           $set: {
-            kycStatus: Doctor.KYC_STATUSES.REJECTED,
+            kycStatus: "REJECTED",
           },
         }
       );

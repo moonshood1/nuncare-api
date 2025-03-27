@@ -55,6 +55,8 @@ const firebaseToken = (req, res, next) => {
     .auth()
     .verifyIdToken(token)
     .then(async (decodedToken) => {
+      console.log(typeof User);
+      console.log({ User });
       console.log({ token });
       const user = await User.findOne({ firebaseId: decodedToken.uid });
       req.user = user;
