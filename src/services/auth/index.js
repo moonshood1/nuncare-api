@@ -44,6 +44,11 @@ const firebaseToken = (req, res, next) => {
   const authHeader = req.headers["authorization"];
   const token = authHeader && authHeader.split(" ")[1];
 
+  console.log({ headers: req.headers });
+
+  console.log({ authHeader });
+  console.log({ token });
+
   if (!token) {
     console.log("Jeton Utilisateur introuvable");
     return res
