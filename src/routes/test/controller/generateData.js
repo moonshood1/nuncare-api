@@ -7,6 +7,7 @@ const Area = require("../../../models/Area");
 const Info = require("../../../models/Info");
 const Ad = require("../../../models/Ad");
 const Article = require("../../../models/Article");
+const Document = require("../../../models/KycDocumentType");
 
 const generateData = async (req, res, next) => {
   try {

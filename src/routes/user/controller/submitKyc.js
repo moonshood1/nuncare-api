@@ -16,7 +16,15 @@ const submitKyc = async ({ body, user }, res, next) => {
       });
     }
 
-    const { recto, verso, picture, firstName, lastName, documentNumber } = body;
+    const {
+      recto,
+      verso,
+      picture,
+      firstName,
+      lastName,
+      documentNumber,
+      documentType,
+    } = body;
 
     if (recto == "" || verso == "" || picture == "") {
       return res.status(400).json({
@@ -60,7 +68,6 @@ const submitKyc = async ({ body, user }, res, next) => {
       message:
         "Une erreur s'est produite lors de la verification de votre compte",
     });
-    next(error);
   }
 };
 
