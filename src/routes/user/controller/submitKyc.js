@@ -48,6 +48,7 @@ const submitKyc = async ({ body, user }, res, next) => {
     }
 
     await KycRequest.create({
+      user: user._id,
       firstName,
       lastName,
       documentNumber,
