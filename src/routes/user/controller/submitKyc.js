@@ -1,11 +1,11 @@
 const _ = require("lodash");
-const KYC = require("../../../models/Verification");
+const KycRequest = require("../../../models/Verification");
 
 const submitKyc = async ({ body, user }, res, next) => {
   try {
-    const verification = await KYC.findOne({
+    const verification = await KycRequest.findOne({
       user: user._id,
-      status: KYC.KYC_STATUSES.PENDING,
+      status: "PENDING",
     });
 
     if (verification) {
@@ -55,7 +55,7 @@ const submitKyc = async ({ body, user }, res, next) => {
     });
   } catch (error) {
     console.log(error);
-    return re.statsu(400).json({
+    return res.status(400).json({
       success: false,
       message:
         "Une erreur s'est produite lors de la verification de votre compte",

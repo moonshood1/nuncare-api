@@ -54,4 +54,3 @@ const VerificationSchema = new Schema(
 );
 
 module.exports = mongoose.model("Verification", VerificationSchema);
-module.exports = { KYC_STATUSES };

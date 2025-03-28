@@ -9,7 +9,7 @@ const updateKycSubmission = async (req, res, next) => {
 
     const request = await KycRequest.findOne({ _id: params.id });
 
-    if (request.status != KycRequest.KYC_STATUSES.PENDING) {
+    if (request.status != "PENDING") {
       return res.status(400).json({
         success: false,
         message: "La requete a deja été traitée",
@@ -25,7 +25,7 @@ const updateKycSubmission = async (req, res, next) => {
         },
         {
           $set: {
-            status: KycRequest.KYC_STATUSES.APPROVED,
+            status: "APPROVED",
           },
         }
       );
@@ -50,7 +50,7 @@ const updateKycSubmission = async (req, res, next) => {
         },
         {
           $set: {
-            status: KycRequest.KYC_STATUSES.REJECTED,
+            status: "REJECTED",
           },
         }
       );
