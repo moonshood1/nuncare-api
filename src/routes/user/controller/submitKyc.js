@@ -39,7 +39,7 @@ const submitKyc = async ({ body, user }, res, next) => {
       });
     }
 
-    await KYC.create({
+    await KycRequest.create({
       firstName,
       lastName,
       documentNumber,
