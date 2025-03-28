@@ -33,5 +33,6 @@ router.post("/notification-read", firebaseToken, readNotification);
 router.put("/hidden-values", firebaseToken, toggleHiddensValues);
 router.post("/kyc-submit", firebaseToken, submitKyc);
 router.get("/submit-account-deletion", requestDeletion);
+router.post("/submit-verification-data", firebaseToken, submitKyc);
 
 module.exports = router;
