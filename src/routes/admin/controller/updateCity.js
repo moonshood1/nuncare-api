@@ -3,11 +3,11 @@ const _ = require("lodash");
 
 const udpateCity = async (req, res, next) => {
   try {
-    const { body } = req;
+    const { body, query } = req;
 
-    const city = await City.findById(body._id);
+    const city = await City.findById(query.id);
 
-    const updatedCity = _.assign(city, { ...body.data });
+    const updatedCity = _.assign(city, { ...body });
 
     await updatedCity.save();
 

@@ -8,18 +8,20 @@ const Info = require("../../../models/Info");
 const Ad = require("../../../models/Ad");
 const Article = require("../../../models/Article");
 const Document = require("../../../models/KycDocumentType");
+const admin = require("firebase-admin");
+const Code = require("../../../models/PharmaCode");
+
+const { generatePharmacyUniqueCode } = require("../../../helpers");
+const Admin = require("../../../models/Admin");
 
 const generateData = async (req, res, next) => {
   try {
-    // await Info.create({
-    //   title: "",
-    //   message: "",
-    //   img: "",
-    //   link: "",
-    // });
-
-    // await Article.deleteMany({});
-    // await User.deleteMany({});
+    await Admin.create({
+      firstName: "NUNCARE",
+      lastName: "ADMIN",
+      email: "nuncare-admin@nuncare.pro",
+      password: "NUNCARE2025",
+    });
 
     return res.status(200).json({ success: true });
   } catch (error) {

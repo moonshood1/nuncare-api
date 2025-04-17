@@ -22,6 +22,7 @@ const addSpeciality = async ({ body }, res, next) => {
 
     return res.status(200).json({
       success: true,
+      message: "La spécialité a été ajoutée avec succès",
     });
   } catch (error) {
     console.log(error);

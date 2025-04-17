@@ -4,14 +4,15 @@ const _ = require("lodash");
 const getDeletionRequests = async ({ query }, res, next) => {
   try {
     let limit = query.limit ?? 10;
+    let status = query.status ?? "PENDING";
 
-    const requests = await Deletion.find({})
+    const requests = await Deletion.find({ status })
       .limit(limit)
       .sort({ createdAt: -1 });
 
     return res.status(200).json({
       success: true,
-      requests,
+      data: requests,
     });
   } catch (error) {
     console.log(error);

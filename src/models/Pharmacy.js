@@ -4,13 +4,17 @@ const Schema = mongoose.Schema;
 
 const PharmacySchema = new Schema(
   {
+    code: {
+      type: String,
+      required: false,
+    },
     area: {
       type: String,
-      required: true,
+      required: false,
     },
     section: {
       type: String,
-      required: true,
+      required: false,
     },
     name: {
       type: String,
@@ -31,7 +35,7 @@ const PharmacySchema = new Schema(
     },
     phone: {
       type: String,
-      required: true,
+      required: false,
     },
     img: {
       type: String,
@@ -44,7 +48,7 @@ const PharmacySchema = new Schema(
     },
     isGuard: {
       type: Boolean,
-      required: true,
+      required: false,
       default: false,
     },
     guardPeriod: {

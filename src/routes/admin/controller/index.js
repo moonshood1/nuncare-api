@@ -13,6 +13,7 @@ const { updateDoctor } = require("./updateDoctor");
 const { updateMedecine } = require("./updateMedecine");
 const { updatePharmacy } = require("./updatePharmacy");
 const { getCities } = require("./getCities");
+const { getDistricts } = require("./getDistricts");
 const { getRegions } = require("./getRegions");
 const { getHospitals } = require("./getHospitals");
 const { getPharmacies } = require("./getPharmacies");
@@ -41,12 +42,30 @@ const {
 } = require("./updateDeletionAccountRequest");
 const { updateKycSubmission } = require("./updateKycSubmission");
 const { getKycSubmissions } = require("./getKycSubmissions");
+const { addKycDocument } = require("./addKycDocuments");
+const { getKycDocuments } = require("./getKycDocuments");
+const { getMainStats } = require("./getMainStats");
+const { getMe } = require("./getMe");
+const { getDoctorsWithParameters } = require("./getDoctorsWithParameters");
+const { getCitiesForSelectedRegion } = require("./getCitiesForSelectedRegion");
+const { searchDoctorsWithLabel } = require("./searchDoctorsWithLabel");
+const {
+  getSpecialitiesWithParameters,
+} = require("./getSpecialitiesWithParameters");
+const { addMedecineBulk } = require("./addMedecinesBulk");
+const { getMedecinesAttributes } = require("./getMedecinesAttributes");
+const { deleteMedecineBulk } = require("./deleteMedecineBulk");
+const { getSections } = require("./getPharmacySections");
+const { getAreas } = require("./getPharmacyAreas");
+const { updatePharmacyGuardList } = require("./updatePharmacyGuardList");
+const { getPharmaciesExport } = require("./getPharmaciesExport");
 
 module.exports = {
   login,
   getAdmins,
   updateAdminPermission,
-
+  getMainStats,
+  getMe,
   updateHospital,
   updateRegion,
   udpateCity,
@@ -57,6 +76,7 @@ module.exports = {
   updateArticle,
   updateSpeciality,
   updateDeletionAccountRequest,
+  updatePharmacyGuardList,
 
   addMedecine,
   addPharmacy,
@@ -65,17 +85,27 @@ module.exports = {
   addCity,
   addHospital,
   addSpeciality,
+  addMedecineBulk,
 
   getAds,
   getDoctors,
+  getDoctorsWithParameters,
   getCities,
+  getCitiesForSelectedRegion,
+  getDistricts,
   getRegions,
   getHospitals,
   getPharmacies,
   getMedecines,
   getArticles,
   getSpecialities,
+  getSpecialitiesWithParameters,
   getDeletionRequests,
+  searchDoctorsWithLabel,
+  getMedecinesAttributes,
+  getSections,
+  getAreas,
+  getPharmaciesExport,
 
   deleteAds,
   deleteDoctor,
@@ -86,7 +116,10 @@ module.exports = {
   deletePharmacy,
   deleteArticle,
   deleteSpeciality,
+  deleteMedecineBulk,
 
   updateKycSubmission,
   getKycSubmissions,
+  addKycDocument,
+  getKycDocuments,
 };

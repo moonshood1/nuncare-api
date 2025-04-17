@@ -2,13 +2,36 @@ const Ad = require("../../../models/Ad");
 
 const getAds = async ({ query }, res, next) => {
   try {
-    let limit = query.limit ?? 10;
+    let queryParams = { ...query };
+    let limit = 0;
 
-    const ads = await Ad.find({}).limit(limit).sort({ createdAt: -1 });
+    Object.keys(queryParams).forEach((key) => {
+      const value = queryParams[key];
+
+      if (value === undefined || value === "") {
+        delete queryParams[key];
+      } else if (key === "limit") {
+        limit = parseInt(value, 10);
+        delete queryParams[key];
+      } else if (
+        typeof value === "string" &&
+        isNaN(Number(value)) &&
+        value !== "true" &&
+        value !== "false"
+      ) {
+        queryParams[key] = { $regex: value, $options: "i" };
+      } else if (value === "true" || value === "false") {
+        queryParams[key] = value === "true";
+      }
+    });
+
+    const ads = await Ad.find(queryParams)
+      .limit(limit || 0)
+      .sort({ createdAt: -1 });
 
     return res.status(200).json({
       success: true,
-      ads,
+      data: ads,
     });
   } catch (error) {
     console.log(error);

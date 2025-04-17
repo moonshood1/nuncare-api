@@ -3,11 +3,11 @@ const _ = require("lodash");
 
 const updatePharmacy = async (req, res, next) => {
   try {
-    const { body } = req;
+    const { body, query } = req;
 
-    const pharmacy = await Pharmacy.findById(body.id);
+    const pharmacy = await Pharmacy.findById(query.id);
 
-    const updatedPharmacy = _.assign(pharmacy, { ...body.data });
+    const updatedPharmacy = _.assign(pharmacy, { ...body });
 
     await updatedPharmacy.save();
 

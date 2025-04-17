@@ -13,7 +13,7 @@ const getKycSubmissions = async ({ query }, res, next) => {
 
     return res.status(200).json({
       success: true,
-      requests,
+      data: requests,
     });
   } catch (error) {
     console.log(error);

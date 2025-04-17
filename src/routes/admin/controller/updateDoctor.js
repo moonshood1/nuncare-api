@@ -3,9 +3,9 @@ const _ = require("lodash");
 
 const updateDoctor = async (req, res, next) => {
   try {
-    const { body } = req;
+    const { body, query } = req;
 
-    const user = await Doctor.findById(body.id);
+    const user = await Doctor.findById(query.id);
 
     if (!user) {
       return res.status(400).json({
@@ -14,7 +14,7 @@ const updateDoctor = async (req, res, next) => {
       });
     }
 
-    const updatedDoctor = _.assign(user, { ...body.data });
+    const updatedDoctor = _.assign(user, { ...body });
 
     await updatedDoctor.save();
 

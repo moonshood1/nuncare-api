@@ -4,15 +4,13 @@ const getSpecialities = async ({ query }, res, next) => {
   try {
     let limit = query.limit ?? 10;
 
-    const result = await Speciality.find({})
+    const specialities = await Speciality.find({})
       .limit(limit)
       .sort({ createdAt: -1 });
 
-    const specialities = result.map((speciality) => speciality.name);
-
     return res.status(200).json({
       success: true,
-      specialities,
+      data: specialities,
     });
   } catch (error) {
     console.log(error);

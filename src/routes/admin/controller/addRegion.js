@@ -1,22 +1,23 @@
 const Region = require("../../../models/Region");
 
-const addRegion = async ({ user, body }, res, next) => {
+const addRegion = async ({ body }, res, next) => {
   try {
+    const { name, district } = body;
+
     const region = await Region.findOne({
-      name: body.name,
+      name,
     });
 
     if (region) {
       return res.status(400).json({
         success: false,
-        message: "Cette région  existe deja dans la base, veuillez la modifier",
+        message: "Cette région existe déja dans la base, veuillez la modifier",
       });
     }
 
-    const { name } = body;
-
-    await City.create({
+    await Region.create({
       name,
+      district,
     });
 
     return res.status(200).json({

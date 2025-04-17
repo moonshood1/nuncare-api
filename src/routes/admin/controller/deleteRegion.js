@@ -1,10 +1,10 @@
 const Region = require("../../../models/Region");
 
-const deleteRegion = async ({ body }, res, next) => {
+const deleteRegion = async ({ query }, res, next) => {
   try {
-    const { _id } = body;
+    const { id } = query;
 
-    const result = await Region.findById(_id);
+    const result = await Region.findById(id);
 
     if (!result) {
       return res.status(400).json({

@@ -55,6 +55,10 @@ const requestDeletion = async (req, res, next) => {
     await Deletion.create({
       userId: user._id,
       reason: req.body.reason,
+      firstName: user.firstName,
+      lastName: user.lastName,
+      phone: user.phone,
+      email: user.email,
     });
 
     return res.status(200).json({

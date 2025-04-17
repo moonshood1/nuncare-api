@@ -3,11 +3,11 @@ const _ = require("lodash");
 
 const updateRegion = async (req, res, next) => {
   try {
-    const { body } = req;
+    const { body, query } = req;
 
-    const region = await Region.findById(body._id);
+    const region = await Region.findById(query.id);
 
-    const updatedRegion = _.assign(region, { ...body.data });
+    const updatedRegion = _.assign(region, { ...body });
 
     await updatedRegion.save();
 

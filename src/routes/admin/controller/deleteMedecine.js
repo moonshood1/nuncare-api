@@ -1,10 +1,10 @@
 const Medecine = require("../../../models/Medecine");
 
-const deleteMedecine = async (req, res, next) => {
+const deleteMedecine = async ({ query }, res, next) => {
   try {
-    const { _id } = body;
+    const { id } = query;
 
-    const result = await Medecine.findById(_id);
+    const result = await Medecine.findById(id);
 
     if (!result) {
       return res.status(400).json({

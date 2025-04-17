@@ -1,10 +1,10 @@
 const City = require("../../../models/City");
 
-const deleteCity = async ({ body }, res, next) => {
+const deleteCity = async ({ query }, res, next) => {
   try {
-    const { _id } = body;
+    const { id } = query;
 
-    const result = await City.findById(_id);
+    const result = await City.findById(id);
 
     if (!result) {
       return res.status(400).json({

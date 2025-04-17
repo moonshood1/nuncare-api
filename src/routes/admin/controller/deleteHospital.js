@@ -1,10 +1,10 @@
 const Hospital = require("../../../models/Hospital");
 
-const deleteHospital = async ({ body }, res, next) => {
+const deleteHospital = async ({ query }, res, next) => {
   try {
-    const { _id } = body;
+    const { id } = query;
 
-    const result = await Hospital.findById(_id);
+    const result = await Hospital.findById(id);
 
     if (!result) {
       return res.status(400).json({

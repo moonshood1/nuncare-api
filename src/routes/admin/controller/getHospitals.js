@@ -10,7 +10,7 @@ const getHospitals = async ({ query }, res, next) => {
 
     return res.status(200).json({
       success: true,
-      hospitals,
+      data: hospitals,
     });
   } catch (error) {
     console.log(error);

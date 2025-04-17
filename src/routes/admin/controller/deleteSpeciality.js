@@ -1,10 +1,10 @@
 const Speciality = require("../../../models/Speciality");
 
-const deleteSpeciality = async (req, res, next) => {
+const deleteSpeciality = async ({ query }, res, next) => {
   try {
-    const { _id } = body;
+    const { id } = query;
 
-    const result = await Speciality.findById(_id);
+    const result = await Speciality.findById(id);
 
     if (!result) {
       return res.status(400).json({

@@ -5,9 +5,9 @@ const _ = require("lodash");
 
 const updateKycSubmission = async (req, res, next) => {
   try {
-    const { body, params } = req;
+    const { body, query } = req;
 
-    const request = await KycRequest.findOne({ _id: params.id });
+    const request = await KycRequest.findOne({ _id: query.id });
 
     if (request.status != "PENDING") {
       return res.status(400).json({
@@ -18,7 +18,7 @@ const updateKycSubmission = async (req, res, next) => {
 
     const doctor = await Doctor.findOne({ _id: request.user });
 
-    if (body.validate == true) {
+    if (body.validate) {
       await KycRequest.updateOne(
         {
           _id: request._id,

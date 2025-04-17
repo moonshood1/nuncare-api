@@ -1,10 +1,10 @@
 const Pharmacy = require("../../../models/Pharmacy");
 
-const deletePharmacy = async ({ body }, res, next) => {
+const deletePharmacy = async ({ query }, res, next) => {
   try {
-    const { _id } = body;
+    const { id } = query;
 
-    const result = await Pharmacy.findById(_id);
+    const result = await Pharmacy.findById(id);
 
     if (!result) {
       return res.status(400).json({

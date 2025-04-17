@@ -1,10 +1,10 @@
 const Article = require("../../../models/Article");
 
-const deleteArticle = async ({ body }, res, next) => {
+const deleteArticle = async (req, res, next) => {
   try {
-    const { _id } = body;
+    const { query } = req;
 
-    const result = await Article.findById(_id);
+    const result = await Article.findById(query.id);
 
     if (!result) {
       return res.status(400).json({
@@ -13,24 +13,13 @@ const deleteArticle = async ({ body }, res, next) => {
       });
     }
 
-    // await Article.deleteOne({
-    //   _id: result._id,
-    // });
-
-    await Article.updateOne(
-      {
-        _id: result._id,
-      },
-      {
-        $set: {
-          isActive: false,
-        },
-      }
-    );
+    await Article.deleteOne({
+      _id: result._id,
+    });
 
     return res.status(200).json({
       success: true,
-      message: "Article desactivé",
+      message: "Artcile supprimé avec succès",
     });
   } catch (error) {
     console.log(error);

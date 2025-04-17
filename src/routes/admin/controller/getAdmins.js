@@ -25,7 +25,7 @@ const getAdmins = async (req, res, next) => {
 
     return res.status(200).json({
       success: true,
-      admins,
+      data: admins,
     });
   } catch (error) {
     console.log(error);

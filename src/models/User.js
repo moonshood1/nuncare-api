@@ -97,7 +97,7 @@ const UserSchema = new Schema(
     },
     isActive: {
       type: Boolean,
-      default: true,
+      default: false,
     },
     orderNumber: {
       type: String,

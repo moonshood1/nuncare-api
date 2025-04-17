@@ -3,9 +3,11 @@ const User = require("../../../models/User");
 const Doctor = require("../../../models/User");
 const _ = require("lodash");
 
-const updateDeletionAccountRequest = async ({ body }, res, next) => {
+const updateDeletionAccountRequest = async (req, res, next) => {
   try {
-    const deletionRequest = await Deletion.findOne({ _id: body._id });
+    const { query, body } = req;
+
+    const deletionRequest = await Deletion.findOne({ _id: query.id });
 
     if (!deletionRequest) {
       return res.status(400).json({
@@ -14,39 +16,42 @@ const updateDeletionAccountRequest = async ({ body }, res, next) => {
       });
     }
 
-    if (deletionRequest && deletionRequest.status !== "pending") {
+    if (deletionRequest && deletionRequest.status !== "PENDING") {
       return res.status(400).json({
         success: false,
         message: "La requete a deja été traitée ",
       });
     }
 
-    await Deletion.updateOne(
-      {
-        _id: deletionRequest._id,
-      },
-      {
-        $set: {
-          status: "processed",
+    if (body.validate) {
+      await Deletion.updateOne(
+        {
+          _id: deletionRequest._id,
         },
-      }
-    );
+        {
+          $set: {
+            status: "APPROVED",
+          },
+        }
+      );
 
-    await User.updateOne(
-      {
-        _id: deletionRequest.userId,
-      },
-      {
-        $set: {
-          isActive: false,
+      await User.updateOne(
+        {
+          _id: deletionRequest.userId,
         },
-      }
-    );
+        {
+          $set: {
+            isActive: false,
+          },
+        }
+      );
+    }
 
     // TO DO : Supprimer le compte du client de firebase
 
     return res.status(200).json({
       success: true,
+      message: "La requete a été traitée avec succès",
     });
   } catch (error) {
     console.log(error);

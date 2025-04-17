@@ -3,11 +3,11 @@ const _ = require("lodash");
 
 const updateHospital = async (req, res, next) => {
   try {
-    const { body } = req;
+    const { body, query } = req;
 
-    const hospital = await Hospital.findById(body._id);
+    const hospital = await Hospital.findById(query.id);
 
-    const updatedHospital = _.assign(hospital, { ...body.data });
+    const updatedHospital = _.assign(hospital, { ...body });
 
     await updatedHospital.save();
 

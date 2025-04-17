@@ -3,11 +3,15 @@ const _ = require("lodash");
 
 const updateAds = async (req, res, next) => {
   try {
-    const { body } = req;
+    const { body, query } = req;
 
-    const ad = await Ad.findById(body.id);
+    const ad = await Ad.findById(query.id);
 
-    const updatedAd = _.assign(ad, { ...body.data });
+    if (!body.img) {
+      body.img = ad.img;
+    }
+
+    const updatedAd = _.assign(ad, { ...body });
 
     await updatedAd.save();
 

@@ -33,15 +33,15 @@ const login = async (req, res, next) => {
     const isMatch = await user.matchPassword(password);
 
     if (!isMatch) {
-      return res
-        .status(401)
-        .json({ success: false, message: "Mot de passe incorrecte" });
+      return res.status(401).json({
+        success: false,
+        message: "Le mot de passe saisi est incorrect",
+      });
     }
 
     const token = generateToken(user);
 
     return res.status(200).json({
-      success: true,
       token,
       user: {
         id: user._id,

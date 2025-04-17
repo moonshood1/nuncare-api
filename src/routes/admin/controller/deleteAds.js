@@ -1,10 +1,10 @@
 const Ad = require("../../../models/Ad");
 
-const deleteAds = async ({ body }, res, next) => {
+const deleteAds = async (req, res, next) => {
   try {
-    const { _id } = body;
+    const { query } = req;
 
-    const result = await Ad.findById(_id);
+    const result = await Ad.findById(query.id);
 
     if (!result) {
       return res.status(400).json({

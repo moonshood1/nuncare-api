@@ -1,10 +1,10 @@
 const User = require("../../../models/User");
 
-const deleteDoctor = async ({ body }, res, next) => {
+const deleteDoctor = async ({ query }, res, next) => {
   try {
-    const { _id } = body;
+    const { id } = body;
 
-    const result = await User.findById(_id);
+    const result = await User.findById(id);
 
     if (!result) {
       return res.status(400).json({

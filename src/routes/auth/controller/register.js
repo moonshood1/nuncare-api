@@ -3,6 +3,40 @@ const admin = require("firebase-admin");
 
 const register = async ({ body }, res, next) => {
   try {
+    // Vérifier si l'utilisateur existe déjà dans Firebase Authentication
+    const existingUser = await admin
+      .auth()
+      .getUserByEmail(body.email)
+      .catch(() => null);
+    if (existingUser) {
+      return res.status(400).json({
+        success: false,
+        message:
+          "Un utilisateur avec cet email existe déjà dans la base de données (001) ",
+      });
+    }
+
+    // Vérifier si l'utilisateur existe déjà dans Firestore
+    const firestoreUser = await admin
+      .firestore()
+      .collection("Users")
+      .where("email", "==", body.email)
+      .get();
+    if (!firestoreUser.empty) {
+      return res.status(400).json({
+        success: false,
+        message: "Cet email est déjà utilisé dans la base de données (002)",
+      });
+    }
+
+    const mongoUser = await User.findOne({ email: body.email });
+    if (mongoUser) {
+      return res.status(400).json({
+        success: false,
+        message: "Cet email est déjà utilisé dans la base de données (003)",
+      });
+    }
+
     const userRecord = await admin.auth().createUser({
       email: body.email,
       password: body.password,
@@ -12,18 +46,6 @@ const register = async ({ body }, res, next) => {
       uid: userRecord.uid,
       email: body.email,
     });
-
-    const userExists = await User.findOne({
-      email: body.email,
-      firebaseId: userRecord.uid,
-    });
-
-    if (userExists) {
-      return res.status(400).json({
-        success: false,
-        message: "Ces informations appartiennent à un utilisateur deja créé",
-      });
-    }
 
     await User.create({
       firebaseId: userRecord.uid,
