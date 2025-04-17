@@ -16,12 +16,12 @@ const Admin = require("../../../models/Admin");
 
 const generateData = async (req, res, next) => {
   try {
-    await Admin.create({
-      firstName: "NUNCARE",
-      lastName: "ADMIN",
-      email: "nuncare-admin@nuncare.pro",
-      password: "NUNCARE2025",
-    });
+    // await Admin.create({
+    //   firstName: "NUNCARE",
+    //   lastName: "ADMIN",
+    //   email: "nuncare-admin@nuncare.pro",
+    //   password: "NUNCARE2025",
+    // });
 
     return res.status(200).json({ success: true });
   } catch (error) {
