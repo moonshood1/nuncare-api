@@ -58,6 +58,9 @@ const {
   getSections,
   updatePharmacyGuardList,
   getPharmaciesExport,
+  addDistrict,
+  updateDistrict,
+  getDoctorsPaginated,
 } = require("./controller");
 const { adminToken } = require("../../services/auth");
 
@@ -73,6 +76,7 @@ router.put("/admins-update", adminToken, updateAdminPermission);
 
 router.get("/doctors", getDoctors);
 router.get("/doctors-search", adminToken, searchDoctorsWithLabel);
+router.get("/doctors-paginated", adminToken, getDoctorsPaginated);
 router.get("/doctors-with-params", adminToken, getDoctorsWithParameters);
 router.put("/doctors-update", adminToken, updateDoctor);
 router.delete("/doctors-delete", adminToken, updateDoctor);
@@ -105,6 +109,8 @@ router.get("/medecine-attributes", adminToken, getMedecinesAttributes);
 router.get("/medecine-delete-bulk", adminToken, deleteMedecineBulk);
 
 router.get("/district", getDistricts);
+router.post("/district-create", adminToken, addDistrict);
+router.put("/district-update", adminToken, updateDistrict);
 
 router.get("/city", getCities);
 router.get("/cities-with-region", adminToken, getCitiesForSelectedRegion);

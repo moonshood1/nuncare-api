@@ -59,6 +59,9 @@ const { getSections } = require("./getPharmacySections");
 const { getAreas } = require("./getPharmacyAreas");
 const { updatePharmacyGuardList } = require("./updatePharmacyGuardList");
 const { getPharmaciesExport } = require("./getPharmaciesExport");
+const { addDistrict } = require("./addDistrict");
+const { updateDistrict } = require("./updateDistrict");
+const { getDoctorsPaginated } = require("./getDoctorsPaginated");
 
 module.exports = {
   login,
@@ -77,6 +80,7 @@ module.exports = {
   updateSpeciality,
   updateDeletionAccountRequest,
   updatePharmacyGuardList,
+  updateDistrict,
 
   addMedecine,
   addPharmacy,
@@ -86,10 +90,12 @@ module.exports = {
   addHospital,
   addSpeciality,
   addMedecineBulk,
+  addDistrict,
 
   getAds,
   getDoctors,
   getDoctorsWithParameters,
+  getDoctorsPaginated,
   getCities,
   getCitiesForSelectedRegion,
   getDistricts,

@@ -3,7 +3,7 @@ const Ad = require("../../../models/Ad");
 const addAds = async ({ user, body }, res, next) => {
   try {
     const add = await Ad.findOne({
-      label: body.labe,
+      label: body.label,
     });
 
     if (add) {
