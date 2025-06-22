@@ -1,7 +1,12 @@
 const Article = require("../../../models/Article");
+const User = require("../../../models/User");
 
-const createArticle = async ({ body, user }, res, next) => {
+const addArticle = async ({ body }, res, next) => {
   try {
+    const user = await User.findOne({
+      email: "user-nuncare@nuncare.pro",
+    });
+
     const isArticle = await Article.findOne({
       title: body.title,
       author: user._id,
@@ -11,7 +16,7 @@ const createArticle = async ({ body, user }, res, next) => {
       return res.status(400).json({
         success: false,
         message:
-          "Un article avec ce titre existe deja sur votre compte , veuillez le modifier",
+          "Un article avec ce titre existe deja dans la base , veuillez le modifier",
       });
     }
 
@@ -27,13 +32,13 @@ const createArticle = async ({ body, user }, res, next) => {
       authorName: user.firstName + " " + user.lastName,
       externalLink: body.externalLink ?? "",
       externalLinkTitle: body.externalLinkTitle ?? "",
-      type: body.type,
+      type: "img",
       coverImage: body.coverImage ?? "",
+      isActive: true,
     });
     return res.status(200).json({
       success: true,
-      message:
-        "La création de votre article a bien été prise en compte. Il sera soumis a validation avant la publication",
+      message: "La création de votre article a bien été prise en compte.",
     });
   } catch (error) {
     console.log(error);
@@ -45,5 +50,5 @@ const createArticle = async ({ body, user }, res, next) => {
 };
 
 module.exports = {
-  createArticle,
+  addArticle,
 };

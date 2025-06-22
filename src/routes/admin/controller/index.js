@@ -62,6 +62,11 @@ const { getPharmaciesExport } = require("./getPharmaciesExport");
 const { addDistrict } = require("./addDistrict");
 const { updateDistrict } = require("./updateDistrict");
 const { getDoctorsPaginated } = require("./getDoctorsPaginated");
+const { sendNotifications } = require("./sendNotifications");
+const { getNotifications } = require("./getNotifications");
+const { updateNotification } = require("./updateNotification");
+const { deleteNotification } = require("./deleteNotification");
+const { addArticle } = require("./addArticle");
 
 module.exports = {
   login,
@@ -69,6 +74,7 @@ module.exports = {
   updateAdminPermission,
   getMainStats,
   getMe,
+
   updateHospital,
   updateRegion,
   udpateCity,
@@ -81,6 +87,7 @@ module.exports = {
   updateDeletionAccountRequest,
   updatePharmacyGuardList,
   updateDistrict,
+  updateNotification,
 
   addMedecine,
   addPharmacy,
@@ -91,6 +98,8 @@ module.exports = {
   addSpeciality,
   addMedecineBulk,
   addDistrict,
+  addArticle,
+  sendNotifications,
 
   getAds,
   getDoctors,
@@ -112,6 +121,7 @@ module.exports = {
   getSections,
   getAreas,
   getPharmaciesExport,
+  getNotifications,
 
   deleteAds,
   deleteDoctor,
@@ -123,6 +133,7 @@ module.exports = {
   deleteArticle,
   deleteSpeciality,
   deleteMedecineBulk,
+  deleteNotification,
 
   updateKycSubmission,
   getKycSubmissions,

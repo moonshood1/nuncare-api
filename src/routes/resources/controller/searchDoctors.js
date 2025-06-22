@@ -6,6 +6,7 @@ const searchDoctors = async ({ body, user }, res, next) => {
 
     const doctors = await User.find({
       _id: { $ne: user._id },
+      email: { $ne: "user-nuncare@nuncare.pro" },
       $or: [
         { email: { $regex: searchText, $options: "i" } },
         { phone: { $regex: searchText, $options: "i" } },

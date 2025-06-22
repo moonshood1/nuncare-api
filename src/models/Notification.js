@@ -14,15 +14,23 @@ const NotificationSchema = new Schema(
     },
     img: {
       type: String,
-      required: true,
+      required: false,
     },
     link: {
+      type: String,
+      required: false,
+    },
+    type: {
       type: String,
       required: true,
     },
     users: {
       type: Array,
       default: [],
+    },
+    active: {
+      type: Boolean,
+      default: false,
     },
   },
   {

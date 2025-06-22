@@ -10,7 +10,6 @@ const Article = require("../../../models/Article");
 const Document = require("../../../models/KycDocumentType");
 const admin = require("firebase-admin");
 const Code = require("../../../models/PharmaCode");
-
 const { generatePharmacyUniqueCode } = require("../../../helpers");
 const Admin = require("../../../models/Admin");
 

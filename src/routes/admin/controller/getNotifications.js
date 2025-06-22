@@ -1,23 +1,21 @@
-const Doctor = require("../../../models/User");
+const Notification = require("../../../models/Notification");
 const _ = require("lodash");
 
-const getDoctorsPaginated = async ({ query }, res, next) => {
+const getNotifications = async ({ query }, res, next) => {
   try {
     const limit = parseInt(query.limit) || 10;
     const page = parseInt(query.page) || 1;
 
-    const doctors = await Doctor.find({
-      email: { $ne: "user-nuncare@nuncare.pro" },
-    })
+    const notifications = await Notification.find({})
       .sort({ createdAt: -1 })
       .skip((page - 1) * limit)
       .limit(limit);
 
-    const total = await Doctor.countDocuments();
+    const total = await Notification.countDocuments();
 
     return res.status(200).json({
       success: true,
-      data: doctors,
+      data: notifications,
       meta: {
         page,
         limit,
@@ -32,5 +30,5 @@ const getDoctorsPaginated = async ({ query }, res, next) => {
 };
 
 module.exports = {
-  getDoctorsPaginated,
+  getNotifications,
 };

@@ -15,6 +15,7 @@ const localizeDoctors = async ({ query, user }, res, next) => {
 
     let doctors = await Doctor.find({
       _id: { $ne: user._id },
+      email: { $ne: "user-nuncare@nuncare.pro" },
       lng: { $ne: null, $exists: true },
       lat: { $ne: null, $exists: true },
       $and: [

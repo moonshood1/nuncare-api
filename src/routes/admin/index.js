@@ -61,6 +61,9 @@ const {
   addDistrict,
   updateDistrict,
   getDoctorsPaginated,
+  sendNotifications,
+  getNotifications,
+  addArticle,
 } = require("./controller");
 const { adminToken } = require("../../services/auth");
 
@@ -70,6 +73,11 @@ router.post("/login", login);
 router.get("/me", adminToken, getMe);
 
 router.get("/main-stats", adminToken, getMainStats);
+
+router.get("/notifications", getNotifications);
+router.post("/notifications-create", adminToken, sendNotifications);
+router.put("/notifications-update", adminToken, sendNotifications);
+router.delete("/notifications-delete", adminToken, sendNotifications);
 
 router.get("/admins-get", adminToken, getAdmins);
 router.put("/admins-update", adminToken, updateAdminPermission);
@@ -129,6 +137,7 @@ router.put("/hospital-update", adminToken, updateHospital);
 router.delete("/hospital-delete", adminToken, deleteHospital);
 
 router.get("/articles", getArticles);
+router.post("/articles-create", adminToken, addArticle);
 router.put("/articles-update", adminToken, updateArticle);
 router.delete("/articles-delete", adminToken, deleteArticle);
 

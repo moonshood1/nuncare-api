@@ -5,6 +5,7 @@ const getDoctors = async ({ user }, res, next) => {
   try {
     const doctors = await Doctor.find({
       firebaseId: { $ne: user.firebaseId },
+      email: { $ne: "user-nuncare@nuncare.pro" },
     })
       .sort({ createdAt: -1 })
       .limit(15);
