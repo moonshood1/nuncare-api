@@ -64,6 +64,7 @@ const {
   sendNotifications,
   getNotifications,
   addArticle,
+  deleteNotification,
 } = require("./controller");
 const { adminToken } = require("../../services/auth");
 
@@ -76,8 +77,8 @@ router.get("/main-stats", adminToken, getMainStats);
 
 router.get("/notifications", getNotifications);
 router.post("/notifications-create", adminToken, sendNotifications);
-router.put("/notifications-update", adminToken, sendNotifications);
-router.delete("/notifications-delete", adminToken, sendNotifications);
+// router.put("/notifications-update", adminToken, sendNotifications);
+router.delete("/notifications-delete", adminToken, deleteNotification);
 
 router.get("/admins-get", adminToken, getAdmins);
 router.put("/admins-update", adminToken, updateAdminPermission);
