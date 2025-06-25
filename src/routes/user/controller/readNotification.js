@@ -11,7 +11,7 @@ const readNotification = async ({ body, user }, res, next) => {
     }
 
     await Notification.updateOne(
-      { id: body.notificationId },
+      { _id: body.notificationId },
       {
         $pull: {
           users: user._id,
