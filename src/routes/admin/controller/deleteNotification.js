@@ -2,7 +2,7 @@ const Notification = require("../../../models/Notification");
 
 const deleteNotification = async (req, res, next) => {
   try {
-    const { id } = query;
+    const { id } = req.query;
 
     const result = await Notification.findById(id);
 
