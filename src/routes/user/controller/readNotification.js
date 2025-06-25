@@ -3,8 +3,9 @@ const Notification = require("../../../models/Notification");
 const readNotification = async ({ body, user }, res, next) => {
   try {
     const notification = await Notification.findOne({
-      id: body.notificationId,
+      _id: body.notificationId,
     });
+
     if (!notification) {
       return res.status(400).json({ message: "Notification non trouvée." });
     }
